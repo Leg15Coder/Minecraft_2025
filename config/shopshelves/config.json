@@ -1,0 +1,11 @@
+{
+  "message_delivery_mode": "ACTIONBAR",
+  "text_display_render_distance_blocks": 16,
+  "price_display_render_distance_blocks": 5,
+  "price_display_mode": "TRIPLEPRICE",
+  "round_off_display_prices": true,
+  "main_display_scale": 5,
+  "amount_display_scale": 5,
+  "price_display_scale": 5,
+  "default_player_shelf_limit": 2
+}

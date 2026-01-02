@@ -1,0 +1,7374 @@
+{
+  "minecraft:cod_bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_leggings": {
+    "amount": 1,
+    "sellPrice": 24.0,
+    "buyPrice": 80.0
+  },
+  "minecraft:burn_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:trial_spawner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:ghast_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:name_tag": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:archer_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:andesite_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:gray_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:golden_horse_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:flower_banner_pattern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:warped_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:golden_hoe": {
+    "amount": 1,
+    "sellPrice": 45.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:stone_shovel": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:jungle_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:beetroot": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_helmet": {
+    "amount": 1,
+    "sellPrice": 16.0,
+    "buyPrice": 48.0
+  },
+  "minecraft:chainmail_leggings": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:exposed_copper_bulb": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:crimson_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:saddle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lily_pad": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_tiles": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_tile_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:apple": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:zoglin_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:observer": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 15.0
+  },
+  "minecraft:music_disc_precipice": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blackstone_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:warped_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:bubble_coral_fan": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_blackstone_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:blue_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pink_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_gray_shulker_box": {
+    "amount": 1
+  },
+  "minecraft:mangrove_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_raft": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:green_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:sculk": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mangrove_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:skull_banner_pattern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:granite_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:brown_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:melon_seeds": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:fire_coral_block": {
+    "amount": 1
+  },
+  "minecraft:endermite_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blue_ice": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:piglin_head": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:cherry_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:light_blue_stained_glass": {
+    "amount": 1
+  },
+  "minecraft:black_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polar_bear_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:music_disc_otherside": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dead_horn_coral_fan": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_sword": {
+    "amount": 1,
+    "sellPrice": 24.0,
+    "buyPrice": 80.0
+  },
+  "minecraft:loom": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:stripped_pale_oak_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:golden_carrot": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:green_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lime_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:firework_star": {
+    "amount": 1
+  },
+  "minecraft:stripped_crimson_stem": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:beacon": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:armadillo_scute": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_bars": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:quartz": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:written_book": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_horse_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:honey_bottle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dead_brain_coral": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diorite_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:netherite_horse_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_mangrove_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:yellow_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:calibrated_sculk_sensor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:green_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:zombie_head": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:rabbit_stew": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tipped_arrow": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pumpkin_seeds": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:white_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:gray_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:pink_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_acacia_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:tropical_fish_bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chiseled_quartz_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diorite_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:exposed_cut_copper_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:netherite_hoe": {
+    "amount": 1,
+    "sellPrice": 810.0,
+    "buyPrice": 2700.0
+  },
+  "minecraft:lever": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cyan_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mossy_stone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tnt": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_hanging_moss": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_copper_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:crimson_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:black_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blade_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:gray_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:end_stone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sandstone_slab": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:iron_horse_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:birch_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:jungle_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:smooth_stone_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:arrow": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_birch_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:end_stone_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:chest_minecart": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:warped_nylium": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_sandstone": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:dark_oak_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:copper_lantern": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:light_blue_dye": {
+    "amount": 1
+  },
+  "minecraft:crimson_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:waxed_oxidized_cut_copper_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:pale_moss_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bogged_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_copper_ore": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 12.0
+  },
+  "minecraft:bubble_coral": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_door": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:iron_axe": {
+    "amount": 1,
+    "sellPrice": 24.0,
+    "buyPrice": 80.0
+  },
+  "minecraft:wither_skeleton_skull": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:light_weighted_pressure_plate": {
+    "amount": 1
+  },
+  "minecraft:waxed_weathered_copper_bars": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:orange_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:suspicious_gravel": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:mangrove_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:tuff": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:end_portal_frame": {
+    "amount": 1
+  },
+  "minecraft:netherite_boots": {
+    "amount": 1,
+    "sellPrice": 810.0,
+    "buyPrice": 2700.0
+  },
+  "minecraft:purpur_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:magma_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cobblestone_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:waxed_oxidized_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_nether_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lime_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sheaf_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_chest_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:coal": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:zombie_villager_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blue_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:resin_brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:dead_fire_coral_block": {
+    "amount": 1
+  },
+  "minecraft:crimson_fungus": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:repeating_command_block": {
+    "amount": 1
+  },
+  "minecraft:copper_golem_statue": {
+    "amount": 1,
+    "sellPrice": 35.0,
+    "buyPrice": 120.0
+  },
+  "minecraft:dirt": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:stripped_dark_oak_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:stray_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:resin_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oxidized_copper_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:armor_stand": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:green_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pink_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:exposed_copper_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:suspicious_sand": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:dark_oak_chest_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:cut_sandstone": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:evoker_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:music_disc_pigstep": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spruce_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:black_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:porkchop": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:end_stone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:birch_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:jungle_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:wither_skeleton_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:yellow_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:vex_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mud_bricks": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:red_sandstone_stairs": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:ward_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chicken": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:salmon_bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gray_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:yellow_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:leaf_litter": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_copper_bars": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:pink_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:dead_bubble_coral": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:carved_pumpkin": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:redstone_torch": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diamond_hoe": {
+    "amount": 1,
+    "sellPrice": 240.0,
+    "buyPrice": 800.0
+  },
+  "minecraft:mud": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:wooden_spear": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_copper_grate": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:end_stone_brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:magenta_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:jungle_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light": {
+    "amount": 1
+  },
+  "minecraft:copper_leggings": {
+    "amount": 1,
+    "sellPrice": 16.0,
+    "buyPrice": 48.0
+  },
+  "minecraft:black_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:soul_torch": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mossy_cobblestone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:calcite": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:acacia_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:resin_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:orange_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:trident": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cherry_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:golden_axe": {
+    "amount": 1,
+    "sellPrice": 45.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:prismarine_shard": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:jungle_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:magma_cube_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:barrier": {
+    "amount": 1
+  },
+  "minecraft:dark_oak_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:cherry_chest_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_copper_grate": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:spruce_sapling": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:resin_clump": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:exposed_cut_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:acacia_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cooked_beef": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:crimson_roots": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:magenta_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:frogspawn": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_jungle_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:acacia_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:jungle_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:ladder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:nautilus_shell": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_shovel": {
+    "amount": 1,
+    "sellPrice": 16.0,
+    "buyPrice": 48.0
+  },
+  "minecraft:basalt": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:item_frame": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:slime_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:short_grass": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:silence_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tropical_fish_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:minecart": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:clay_ball": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:sugar": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lapis_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:magenta_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:prismarine": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_exposed_copper_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:iron_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:glow_ink_sac": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:reinforced_deepslate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dried_ghast": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bell": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oxidized_copper_lantern": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:gravel": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:music_disc_strad": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_gray_stained_glass_pane": {
+    "amount": 1
+  },
+  "minecraft:light_gray_concrete_powder": {
+    "amount": 1
+  },
+  "minecraft:music_disc_creator": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:birch_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:vex_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:field_masoned_banner_pattern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:happy_ghast_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_prismarine_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:lime_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:golden_pickaxe": {
+    "amount": 1,
+    "sellPrice": 45.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:eye_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pink_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:glow_lichen": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_grate": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:black_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_oak_sapling": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:conduit": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:black_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:wandering_trader_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brain_coral_fan": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_gray_carpet": {
+    "amount": 1
+  },
+  "minecraft:tuff_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:flowering_azalea_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:hopper_minecart": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:coarse_dirt": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:dark_oak_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:brown_mushroom": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cyan_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:wild_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_cut_copper_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:stripped_warped_stem": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:waxed_exposed_copper_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:bamboo_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:crimson_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:dark_oak_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:dark_oak_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:glistering_melon_slice": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:music_disc_tears": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_copper_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lime_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_cut_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:grass_block": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:dead_brain_coral_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:green_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:magenta_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:netherite_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_ingot": {
+    "amount": 1,
+    "sellPrice": 6.0,
+    "buyPrice": 20.0
+  },
+  "minecraft:tnt_minecart": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:rotten_flesh": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:wither_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_hoe": {
+    "amount": 1,
+    "sellPrice": 24.0,
+    "buyPrice": 80.0
+  },
+  "minecraft:leather_horse_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:smooth_red_sandstone_stairs": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:goat_horn": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_andesite": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_weathered_copper_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:acacia_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:acacia_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:flower_pot": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:quartz_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:pale_oak_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:lime_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:light_gray_bundle": {
+    "amount": 1
+  },
+  "minecraft:shroomlight": {
+    "amount": 1
+  },
+  "minecraft:diamond_chestplate": {
+    "amount": 1,
+    "sellPrice": 240.0,
+    "buyPrice": 800.0
+  },
+  "minecraft:smooth_quartz_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:furnace_minecart": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:breeze_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cobweb": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weeping_vines": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_spruce_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:waxed_oxidized_lightning_rod": {
+    "amount": 1
+  },
+  "minecraft:echo_shard": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:raiser_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sandstone": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:oak_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:tadpole_bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:warped_hyphae": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:pointed_dripstone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:shelter_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:nautilus_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:scaffolding": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:amethyst_shard": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cartography_table": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:large_amethyst_bud": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:potato": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lime_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:birch_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:panda_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spruce_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:crimson_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:pink_petals": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:splash_potion": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:mangrove_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:stone_brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:stripped_oak_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:silverfish_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blue_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:damaged_anvil": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:enchanted_book": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:shaper_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lily_of_the_valley": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:honeycomb": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:end_stone_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:cooked_rabbit": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purple_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spider_eye": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:music_disc_11": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_pickaxe": {
+    "amount": 1,
+    "sellPrice": 24.0,
+    "buyPrice": 80.0
+  },
+  "minecraft:tropical_fish": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:music_disc_13": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bubble_coral_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cactus_flower": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gold_ingot": {
+    "amount": 1,
+    "sellPrice": 15.0,
+    "buyPrice": 50.0
+  },
+  "minecraft:brown_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:leather": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:kelp": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chiseled_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_gray_bed": {
+    "amount": 1
+  },
+  "minecraft:weathered_cut_copper_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:black_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sandstone_wall": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:polished_blackstone_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:music_disc_stal": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_exposed_cut_copper_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:smooth_stone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:quartz_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:end_crystal": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_fence": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:polished_diorite_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:experience_bottle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:black_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:creaking_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:comparator": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 15.0
+  },
+  "minecraft:powder_snow_bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:explorer_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:ender_eye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_weathered_copper_bulb": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:oak_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:chain_command_block": {
+    "amount": 1
+  },
+  "minecraft:gray_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:white_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_mosaic_stairs": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:warped_wart_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:small_dripleaf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:moss_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:raw_gold": {
+    "amount": 1,
+    "sellPrice": 15.0,
+    "buyPrice": 50.0
+  },
+  "minecraft:tube_coral": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:zombified_piglin_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_blackstone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_gray_wool": {
+    "amount": 1
+  },
+  "minecraft:birch_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:weathered_copper_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:oxidized_copper_golem_statue": {
+    "amount": 1,
+    "sellPrice": 35.0,
+    "buyPrice": 120.0
+  },
+  "minecraft:heart_of_the_sea": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chiseled_tuff_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:beef": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:green_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_oak_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:netherite_upgrade_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sand": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:cut_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purpur_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:light_blue_carpet": {
+    "amount": 1
+  },
+  "minecraft:spire_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mangrove_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:warped_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:globe_banner_pattern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:warped_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:cyan_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:decorated_pot": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:fletching_table": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_blue_glazed_terracotta": {
+    "amount": 1
+  },
+  "minecraft:smooth_quartz_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:polished_granite_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:ocelot_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lime_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:composter": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_weathered_copper_lantern": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:cyan_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_weathered_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chorus_flower": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pink_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_exposed_chiseled_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:birch_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:acacia_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:wooden_pickaxe": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:magenta_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lava_bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:music_disc_mall": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:wind_charge": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lectern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gunpowder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_prismarine_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:snow_golem_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_pickaxe": {
+    "amount": 1,
+    "sellPrice": 16.0,
+    "buyPrice": 48.0
+  },
+  "minecraft:oxidized_cut_copper_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:dark_oak_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:campfire": {
+    "amount": 1
+  },
+  "minecraft:elytra": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_boots": {
+    "amount": 1,
+    "sellPrice": 24.0,
+    "buyPrice": 80.0
+  },
+  "minecraft:bowl": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:skeleton_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:azalea": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:andesite_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:oxidized_lightning_rod": {
+    "amount": 1
+  },
+  "minecraft:light_gray_stained_glass": {
+    "amount": 1
+  },
+  "minecraft:cyan_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:warped_stem": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:red_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chiseled_tuff": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_tuff_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:red_tulip": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:green_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:jigsaw": {
+    "amount": 1
+  },
+  "minecraft:podzol": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lightning_rod": {
+    "amount": 1
+  },
+  "minecraft:light_blue_bed": {
+    "amount": 1
+  },
+  "minecraft:tuff_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:birch_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:stripped_crimson_hyphae": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:orange_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cyan_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:cyan_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cherry_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:azure_bluet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_mushroom_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oxidized_copper_bars": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:polished_deepslate_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:red_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_exposed_lightning_rod": {
+    "amount": 1
+  },
+  "minecraft:music_disc_creator_music_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:feather": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:purple_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:exposed_copper_bars": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:waxed_exposed_cut_copper_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:red_nether_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:copper_chain": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:brown_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_andesite_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:melon": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:mossy_stone_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:yellow_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diamond_ore": {
+    "amount": 1,
+    "sellPrice": 60.0,
+    "buyPrice": 200.0
+  },
+  "minecraft:dragon_head": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:waxed_copper_golem_statue": {
+    "amount": 1,
+    "sellPrice": 35.0,
+    "buyPrice": 120.0
+  },
+  "minecraft:diorite": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_spear": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_weathered_cut_copper_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:gray_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_gray_banner": {
+    "amount": 1
+  },
+  "minecraft:infested_chiseled_stone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_andesite_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:iron_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:crafter": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lime_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:arms_up_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:stone_spear": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_tuff": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_copper_lantern": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:polished_basalt": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diamond": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mangrove_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:ender_chest": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:black_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_oak_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:iron_helmet": {
+    "amount": 1,
+    "sellPrice": 24.0,
+    "buyPrice": 80.0
+  },
+  "minecraft:cherry_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:weathered_copper_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:black_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:infested_deepslate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:raw_copper": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 12.0
+  },
+  "minecraft:mud_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:cherry_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:oxidized_chiseled_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_weathered_lightning_rod": {
+    "amount": 1
+  },
+  "minecraft:black_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:villager_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mutton": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stone_axe": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lilac": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pitcher_plant": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:respawn_anchor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:parched_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:nether_brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:acacia_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:jack_o_lantern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_diorite_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:mangrove_roots": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:jungle_chest_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:firework_rocket": {
+    "amount": 1
+  },
+  "minecraft:cactus": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purple_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pink_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:crimson_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:ender_dragon_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:shulker_shell": {
+    "amount": 1,
+    "sellPrice": 50.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:twisting_vines": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_chestplate": {
+    "amount": 1,
+    "sellPrice": 24.0,
+    "buyPrice": 80.0
+  },
+  "minecraft:elder_guardian_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_cut_copper_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:blue_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brain_coral_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sandstone_stairs": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:white_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:player_head": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:smoker": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:acacia_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_golem_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purple_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:large_fern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:magenta_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pink_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:nether_brick_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:emerald": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:nether_star": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_blue_concrete": {
+    "amount": 1
+  },
+  "minecraft:note_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dead_bubble_coral_fan": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chiseled_resin_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_exposed_copper_bulb": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:petrified_oak_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:bamboo_slab": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:oak_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:slime_ball": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cooked_cod": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:soul_soil": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:acacia_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:stone_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:lime_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:granite_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:sticky_piston": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 15.0
+  },
+  "minecraft:snow": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cyan_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_exposed_copper_golem_statue": {
+    "amount": 1,
+    "sellPrice": 35.0,
+    "buyPrice": 120.0
+  },
+  "minecraft:open_eyeblossom": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_shovel": {
+    "amount": 1,
+    "sellPrice": 24.0,
+    "buyPrice": 80.0
+  },
+  "minecraft:waxed_chiseled_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sculk_sensor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_golem_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:crimson_nylium": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:birch_sapling": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diamond_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cod": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dead_bush": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:acacia_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stone_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:farmland": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bedrock": {
+    "amount": 1
+  },
+  "minecraft:glow_squid_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:phantom_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:infested_mossy_stone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cherry_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:netherite_nautilus_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:hoglin_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purple_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:brick": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:wooden_axe": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:activator_rail": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:nether_brick": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:smooth_quartz": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:copper_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:copper_sword": {
+    "amount": 1,
+    "sellPrice": 16.0,
+    "buyPrice": 48.0
+  },
+  "minecraft:spawner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:glowstone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_tulip": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_gray_glazed_terracotta": {
+    "amount": 1
+  },
+  "minecraft:dark_oak_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_shelf": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:tube_coral_fan": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:flow_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:wooden_sword": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:potion": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:husk_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:music_disc_blocks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blaze_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:music_disc_lava_chicken": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_chest": {
+    "amount": 1,
+    "sellPrice": 40.0,
+    "buyPrice": 130.0
+  },
+  "minecraft:light_blue_stained_glass_pane": {
+    "amount": 1
+  },
+  "minecraft:purple_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:tripwire_hook": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:black_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:salmon": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spruce_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cracked_deepslate_tiles": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:prismarine_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:chipped_anvil": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:book": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stone_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:gold_ore": {
+    "amount": 1,
+    "sellPrice": 15.0,
+    "buyPrice": 50.0
+  },
+  "minecraft:light_blue_wool": {
+    "amount": 1
+  },
+  "minecraft:birch_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:blue_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tinted_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:baked_potato": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:bordure_indented_banner_pattern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:polished_blackstone_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:rabbit": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:golden_nautilus_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:daylight_detector": {
+    "amount": 1
+  },
+  "minecraft:pink_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_copper_bulb": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:cooked_porkchop": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mule_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:quartz_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_nautilus_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:fire_coral": {
+    "amount": 1
+  },
+  "minecraft:skull_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:bone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_deepslate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_exposed_copper_chest": {
+    "amount": 1,
+    "sellPrice": 40.0,
+    "buyPrice": 130.0
+  },
+  "minecraft:coal_ore": {
+    "amount": 1,
+    "sellPrice": 2.5,
+    "buyPrice": 8.0
+  },
+  "minecraft:creeper_banner_pattern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:jungle_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:stone_hoe": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_axe": {
+    "amount": 1,
+    "sellPrice": 16.0,
+    "buyPrice": 48.0
+  },
+  "minecraft:bread": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_copper_grate": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:carrot": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:goat_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_iron_ore": {
+    "amount": 1,
+    "sellPrice": 6.0,
+    "buyPrice": 20.0
+  },
+  "minecraft:stripped_pale_oak_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:blue_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diamond_boots": {
+    "amount": 1,
+    "sellPrice": 240.0,
+    "buyPrice": 800.0
+  },
+  "minecraft:wolf_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diamond_horse_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:zombie_horse_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_deepslate_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:spruce_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:light_gray_harness": {
+    "amount": 1
+  },
+  "minecraft:bee_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:acacia_chest_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cobblestone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:jungle_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:glow_berries": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:powered_rail": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cod_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:writable_book": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_dark_oak_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:exposed_cut_copper_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:waxed_cut_copper_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:snowball": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:command_block": {
+    "amount": 1
+  },
+  "minecraft:llama_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_mosaic": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:honeycomb_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_blue_terracotta": {
+    "amount": 1
+  },
+  "minecraft:gray_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:smooth_sandstone_slab": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:chainmail_boots": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blast_furnace": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:horn_coral": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:beehive": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:fox_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:piglin_brute_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_mosaic_slab": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:waxed_exposed_copper_chain": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:pink_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lapis_ore": {
+    "amount": 1,
+    "sellPrice": 1.5,
+    "buyPrice": 5.0
+  },
+  "minecraft:moss_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cut_red_sandstone": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:jungle_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:anvil": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cherry_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spruce_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:obsidian": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_sandstone_wall": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:birch_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purple_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tuff_brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:cobbled_deepslate_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:chiseled_stone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chiseled_deepslate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:clay": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:bamboo_button": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:golden_spear": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:beetroot_seeds": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:waxed_lightning_rod": {
+    "amount": 1
+  },
+  "minecraft:soul_campfire": {
+    "amount": 1
+  },
+  "minecraft:pale_oak_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:warped_roots": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gray_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_copper_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:red_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:yellow_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:yellow_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:hanging_roots": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:scrape_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cherry_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_deepslate_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:bamboo_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:polished_tuff_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:pig_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_nautilus_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chainmail_helmet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:compass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:resin_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:dead_tube_coral": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:acacia_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:red_sand": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:exposed_copper_chest": {
+    "amount": 1,
+    "sellPrice": 40.0,
+    "buyPrice": 130.0
+  },
+  "minecraft:pearlescent_froglight": {
+    "amount": 1
+  },
+  "minecraft:waxed_copper_bulb": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:cow_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:camel_husk_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:ochre_froglight": {
+    "amount": 1
+  },
+  "minecraft:sunflower": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cake": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:crimson_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:enchanting_table": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:friend_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:short_dry_grass": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:cut_sandstone_slab": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:lantern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cobblestone_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:stone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:poppy": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:redstone_ore": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:seagrass": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:jungle_sapling": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:amethyst_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:turtle_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:big_dripleaf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cooked_chicken": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_weathered_cut_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cut_red_sandstone_slab": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:birch_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:leather_leggings": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:filled_map": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:jungle_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:oxidized_copper_bulb": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:oak_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:heavy_core": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oxidized_cut_copper_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:exposed_copper_chain": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:ancient_debris": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_prismarine": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spruce_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:brush": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_cherry_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:golden_shovel": {
+    "amount": 1,
+    "sellPrice": 45.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:cherry_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:acacia_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:peony": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sweet_berries": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sea_lantern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_copper_chest": {
+    "amount": 1,
+    "sellPrice": 40.0,
+    "buyPrice": 130.0
+  },
+  "minecraft:ghast_tear": {
+    "amount": 1,
+    "sellPrice": 50.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:skeleton_skull": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:dirt_path": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:mossy_cobblestone_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:white_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bush": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:squid_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_emerald_ore": {
+    "amount": 1,
+    "sellPrice": 80.0,
+    "buyPrice": 250.0
+  },
+  "minecraft:purple_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blue_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:small_amethyst_bud": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_blackstone_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:light_blue_candle": {
+    "amount": 1
+  },
+  "minecraft:deepslate_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:golden_apple": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cooked_mutton": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:end_rod": {
+    "amount": 1,
+    "sellPrice": 50.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:smooth_basalt": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:allium": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_lightning_rod": {
+    "amount": 1
+  },
+  "minecraft:magenta_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:prismarine_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chainmail_chestplate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mud_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:crafting_table": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:warped_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:green_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blaze_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sculk_catalyst": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cut_copper_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:golden_boots": {
+    "amount": 1,
+    "sellPrice": 45.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:magenta_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dried_kelp_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:creeper_head": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:birch_chest_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_chest_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_oak_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:wooden_hoe": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:prismarine_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:oak_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:warped_fungus": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pumpkin": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_sapling": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:diamond_spear": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:barrel": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:jungle_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:warden_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bookshelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blue_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stone_sword": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_copper_chest": {
+    "amount": 1,
+    "sellPrice": 40.0,
+    "buyPrice": 130.0
+  },
+  "minecraft:light_gray_candle": {
+    "amount": 1
+  },
+  "minecraft:spruce_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:polished_blackstone_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dead_fire_coral_fan": {
+    "amount": 1
+  },
+  "minecraft:netherite_leggings": {
+    "amount": 1,
+    "sellPrice": 810.0,
+    "buyPrice": 2700.0
+  },
+  "minecraft:magma_cream": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bolt_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blue_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chiseled_red_sandstone": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:leather_chestplate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:knowledge_book": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:torchflower": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lime_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sea_pickle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:green_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:exposed_chiseled_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:exposed_copper_golem_statue": {
+    "amount": 1,
+    "sellPrice": 35.0,
+    "buyPrice": 120.0
+  },
+  "minecraft:mangrove_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:witch_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cyan_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_nugget": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 12.0
+  },
+  "minecraft:pale_oak_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:cherry_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:tuff_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:blackstone_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:popped_chorus_fruit": {
+    "amount": 1,
+    "sellPrice": 50.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:orange_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:golden_leggings": {
+    "amount": 1,
+    "sellPrice": 45.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:green_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_blackstone_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pufferfish": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:disc_fragment_5": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_blackstone_brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:stick": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_copper_chain": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:allay_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:piston": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 15.0
+  },
+  "minecraft:purple_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:ink_sac": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tube_coral_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spruce_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:magenta_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_ore": {
+    "amount": 1,
+    "sellPrice": 6.0,
+    "buyPrice": 20.0
+  },
+  "minecraft:pillager_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_exposed_copper_bars": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:smooth_sandstone_stairs": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:exposed_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gilded_blackstone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:netherrack": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:nether_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:prismarine_crystals": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pitcher_pod": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_weathered_copper_chain": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:yellow_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:frog_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cave_spider_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gray_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:crimson_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:purple_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blue_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:furnace": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:bee_nest": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:snort_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:smithing_table": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:test_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:bone_meal": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:grindstone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:warped_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mangrove_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:lime_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brewing_stand": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_spruce_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:red_sandstone_slab": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:spruce_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:waxed_exposed_cut_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:smooth_red_sandstone": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:bamboo_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:pink_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_bamboo_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:cracked_polished_blackstone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:green_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:jungle_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:pufferfish_bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bat_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diamond_nautilus_armor": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dead_tube_coral_fan": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:jungle_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:rail": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cobbled_deepslate_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:copper_hoe": {
+    "amount": 1,
+    "sellPrice": 16.0,
+    "buyPrice": 48.0
+  },
+  "minecraft:purple_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spruce_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mangrove_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:trader_llama_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:paper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:prismarine_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:spider_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cherry_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:sculk_vein": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:guster_banner_pattern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:vine": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_mushroom_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purple_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:piglin_banner_pattern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:pink_tulip": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:flowering_azalea": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_torch": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:light_blue_shulker_box": {
+    "amount": 1
+  },
+  "minecraft:resin_brick": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_copper_lantern": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:heart_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:rabbit_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_cut_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:wooden_shovel": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:trapped_chest": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dropper": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 15.0
+  },
+  "minecraft:pink_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:fire_charge": {
+    "amount": 1
+  },
+  "minecraft:music_disc_cat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:flow_banner_pattern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:spruce_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:chest": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_nether_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:mud_brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:cauldron": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:infested_stone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:painting": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:test_instance_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chiseled_sandstone": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:polished_granite": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dispenser": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 15.0
+  },
+  "minecraft:polished_blackstone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:jungle_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:waxed_oxidized_copper_chest": {
+    "amount": 1,
+    "sellPrice": 40.0,
+    "buyPrice": 130.0
+  },
+  "minecraft:light_gray_concrete": {
+    "amount": 1
+  },
+  "minecraft:copper_ingot": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 12.0
+  },
+  "minecraft:acacia_sapling": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:infested_cobblestone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_copper_golem_statue": {
+    "amount": 1,
+    "sellPrice": 35.0,
+    "buyPrice": 120.0
+  },
+  "minecraft:waxed_weathered_chiseled_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:deepslate_redstone_ore": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:warped_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:guster_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:warped_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:granite_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:wet_sponge": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cracked_stone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:warped_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:yellow_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:azalea_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:leather_boots": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sniffer_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_oak_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blaze_rod": {
+    "amount": 1,
+    "sellPrice": 50.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:beetroot_soup": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:warped_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:copper_bulb": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:heavy_weighted_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:redstone_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mojang_banner_pattern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:closed_eyeblossom": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dead_horn_coral_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_weathered_copper_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:yellow_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_granite_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:mangrove_chest_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:trial_key": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cracked_deepslate_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:piglin_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:shield": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:netherite_shovel": {
+    "amount": 1,
+    "sellPrice": 810.0,
+    "buyPrice": 2700.0
+  },
+  "minecraft:netherite_scrap": {
+    "amount": 1,
+    "sellPrice": 540.0,
+    "buyPrice": 1800.0
+  },
+  "minecraft:waxed_weathered_copper_chest": {
+    "amount": 1,
+    "sellPrice": 40.0,
+    "buyPrice": 130.0
+  },
+  "minecraft:deepslate_lapis_ore": {
+    "amount": 1,
+    "sellPrice": 1.5,
+    "buyPrice": 5.0
+  },
+  "minecraft:turtle_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:netherite_spear": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_copper_chain": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:rose_bush": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:turtle_scute": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sponge": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tall_dry_grass": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:phantom_membrane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mooshroom_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:golden_sword": {
+    "amount": 1,
+    "sellPrice": 45.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:copper_chestplate": {
+    "amount": 1,
+    "sellPrice": 16.0,
+    "buyPrice": 48.0
+  },
+  "minecraft:mourner_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:fermented_spider_eye": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:diamond_helmet": {
+    "amount": 1,
+    "sellPrice": 240.0,
+    "buyPrice": 800.0
+  },
+  "minecraft:crimson_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stone_pickaxe": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:prismarine_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:warped_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:blue_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:cyan_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:jungle_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:cyan_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_mushroom": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_copper_bars": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:spruce_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:gray_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:torchflower_seeds": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:repeater": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 15.0
+  },
+  "minecraft:andesite": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:music_disc_mellohi": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:magenta_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:birch_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:pufferfish_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:crimson_hyphae": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:gray_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:horn_coral_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:diamond_leggings": {
+    "amount": 1,
+    "sellPrice": 240.0,
+    "buyPrice": 800.0
+  },
+  "minecraft:golden_chestplate": {
+    "amount": 1,
+    "sellPrice": 45.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:raw_iron_block": {
+    "amount": 1,
+    "sellPrice": 6.0,
+    "buyPrice": 20.0
+  },
+  "minecraft:spruce_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oxidized_copper_grate": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:dandelion": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mossy_cobblestone_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:cookie": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:parrot_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oxeye_daisy": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:crying_obsidian": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cooked_salmon": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:zombie_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_blue_banner": {
+    "amount": 1
+  },
+  "minecraft:cyan_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:magenta_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:music_disc_chirp": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:redstone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:wheat_seeds": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:stone_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:wither_rose": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dripstone_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:wolf_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:shears": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_oak_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:waxed_exposed_copper_grate": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:yellow_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:coast_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:raw_gold_block": {
+    "amount": 1,
+    "sellPrice": 15.0,
+    "buyPrice": 50.0
+  },
+  "minecraft:prismarine_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:rabbit_hide": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_copper_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:lime_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cyan_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gray_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cocoa_beans": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:structure_void": {
+    "amount": 1
+  },
+  "minecraft:stonecutter": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_nugget": {
+    "amount": 1,
+    "sellPrice": 6.0,
+    "buyPrice": 20.0
+  },
+  "minecraft:light_gray_terracotta": {
+    "amount": 1
+  },
+  "minecraft:skeleton_horse_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:green_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:smooth_red_sandstone_slab": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:mangrove_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:recovery_compass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:granite": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sentry_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:snout_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:suspicious_stew": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brewer_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:waxed_cut_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diamond_pickaxe": {
+    "amount": 1,
+    "sellPrice": 240.0,
+    "buyPrice": 800.0
+  },
+  "minecraft:cobblestone_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:sheep_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:white_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:polished_diorite": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:music_disc_ward": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mushroom_stew": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_copper_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:white_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chiseled_polished_blackstone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mushroom_stem": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:nether_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:hay_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purpur_pillar": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:carrot_on_a_stick": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:netherite_pickaxe": {
+    "amount": 1,
+    "sellPrice": 810.0,
+    "buyPrice": 2700.0
+  },
+  "minecraft:light_blue_bundle": {
+    "amount": 1
+  },
+  "minecraft:cherry_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:netherite_ingot": {
+    "amount": 1,
+    "sellPrice": 540.0,
+    "buyPrice": 1800.0
+  },
+  "minecraft:wheat": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:slime_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_oak_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:cherry_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:verdant_froglight": {
+    "amount": 1
+  },
+  "minecraft:pale_oak_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:mossy_cobblestone_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:vindicator_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:ominous_bottle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mangrove_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dead_brain_coral_fan": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_jungle_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:jukebox": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_tulip": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:ice": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:snow_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:camel_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tuff_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:muddy_mangrove_roots": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:crimson_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:infested_cracked_stone_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blue_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:glow_item_frame": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:crimson_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:birch_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:dragon_breath": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:zombie_nautilus_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blue_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:horn_coral_fan": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:structure_block": {
+    "amount": 1
+  },
+  "minecraft:pale_oak_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:axolotl_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spore_blossom": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:budding_amethyst": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oxidized_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:nether_quartz_ore": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lime_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_spear": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:acacia_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:magenta_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_copper_lantern": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:nether_gold_ore": {
+    "amount": 1,
+    "sellPrice": 15.0,
+    "buyPrice": 50.0
+  },
+  "minecraft:wayfinder_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mossy_stone_brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:brown_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:creaking_heart": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lodestone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:yellow_concrete_powder": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:netherite_helmet": {
+    "amount": 1,
+    "sellPrice": 810.0,
+    "buyPrice": 2700.0
+  },
+  "minecraft:quartz_pillar": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_chiseled_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:drowned_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:milk_bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chiseled_bookshelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:acacia_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:target": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:jungle_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:glass_bottle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spruce_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:deepslate_diamond_ore": {
+    "amount": 1,
+    "sellPrice": 60.0,
+    "buyPrice": 200.0
+  },
+  "minecraft:magenta_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dolphin_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:exposed_copper_grate": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:ender_pearl": {
+    "amount": 1,
+    "sellPrice": 50.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:mace": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:rib_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:soul_lantern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_sign": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:honey_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:vault": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diamond_shovel": {
+    "amount": 1,
+    "sellPrice": 240.0,
+    "buyPrice": 800.0
+  },
+  "minecraft:leather_helmet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tuff_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:oxidized_copper_chain": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:music_disc_far": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gray_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cracked_nether_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:donkey_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dune_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dead_tube_coral_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_brick_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:string": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:waxed_copper_bars": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:rabbit_foot": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:nether_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purple_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:polished_blackstone_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:deepslate_coal_ore": {
+    "amount": 1,
+    "sellPrice": 2.5,
+    "buyPrice": 8.0
+  },
+  "minecraft:blue_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gold_nugget": {
+    "amount": 1,
+    "sellPrice": 15.0,
+    "buyPrice": 50.0
+  },
+  "minecraft:green_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:magenta_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diorite_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:stone_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:diamond_sword": {
+    "amount": 1,
+    "sellPrice": 240.0,
+    "buyPrice": 800.0
+  },
+  "minecraft:diamond_axe": {
+    "amount": 1,
+    "sellPrice": 240.0,
+    "buyPrice": 800.0
+  },
+  "minecraft:birch_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brown_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:red_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:mangrove_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:nether_sprouts": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:music_disc_relic": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gold_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:yellow_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:waxed_exposed_copper_lantern": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:amethyst_cluster": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_weathered_cut_copper_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:debug_stick": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:detector_rail": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:packed_mud": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:armadillo_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_tile_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:raw_iron": {
+    "amount": 1,
+    "sellPrice": 6.0,
+    "buyPrice": 20.0
+  },
+  "minecraft:enderman_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:flint": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:heartbreak_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:waxed_weathered_copper_grate": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:oxidized_copper_chest": {
+    "amount": 1,
+    "sellPrice": 40.0,
+    "buyPrice": 130.0
+  },
+  "minecraft:birch_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:lead": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purple_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:chicken_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo_chest_raft": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:shulker_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:howl_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:spyglass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:strider_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:acacia_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:bone_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:black_stained_glass": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:plenty_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:dark_oak_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pink_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cobbled_deepslate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:yellow_stained_glass_pane": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:netherite_chestplate": {
+    "amount": 1,
+    "sellPrice": 810.0,
+    "buyPrice": 2700.0
+  },
+  "minecraft:resin_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blackstone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mangrove_propagule": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mangrove_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:waxed_cut_copper_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:hopper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:fern": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:green_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:orange_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mossy_stone_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:bow": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cut_copper_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:chiseled_nether_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pumpkin_pie": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:brain_coral": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:black_bed": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:redstone_lamp": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:quartz_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:warped_fungus_on_a_stick": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_oak_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:blue_orchid": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chorus_plant": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:stone_brick_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:flint_and_steel": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dragon_egg": {
+    "amount": 1
+  },
+  "minecraft:red_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:glowstone_dust": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tadpole_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:yellow_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:flow_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:bamboo_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:music_disc_wait": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_oak_pressure_plate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:fishing_rod": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cat_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:weathered_copper_bulb": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:guardian_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pink_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:cyan_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_blue_harness": {
+    "amount": 1
+  },
+  "minecraft:weathered_chiseled_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_acacia_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:spruce_fence_gate": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:pink_dye": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:totem_of_undying": {
+    "amount": 1,
+    "sellPrice": 50.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:cherry_leaves": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:tuff_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:blackstone_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:enchanted_golden_apple": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:netherite_axe": {
+    "amount": 1,
+    "sellPrice": 810.0,
+    "buyPrice": 2700.0
+  },
+  "minecraft:sculk_shrieker": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spruce_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:mangrove_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:magenta_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:nether_wart": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:salmon_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:soul_sand": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:light_blue_concrete_powder": {
+    "amount": 1
+  },
+  "minecraft:dead_fire_coral": {
+    "amount": 1
+  },
+  "minecraft:cornflower": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_gold_ore": {
+    "amount": 1,
+    "sellPrice": 15.0,
+    "buyPrice": 50.0
+  },
+  "minecraft:creeper_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:pale_moss_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:nether_wart_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:turtle_helmet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:exposed_copper_lantern": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:crossbow": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:green_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lime_glazed_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_tile_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:black_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:map": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:iron_chain": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dried_kelp": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:birch_button": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purple_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cyan_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:angler_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:waxed_exposed_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:polished_tuff_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:firefly_bush": {
+    "amount": 1
+  },
+  "minecraft:acacia_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:cherry_hanging_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:warped_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:horse_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:chorus_fruit": {
+    "amount": 1,
+    "sellPrice": 50.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:cherry_sapling": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:purpur_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate_bricks": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oxidized_cut_copper": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:blue_banner": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:clock": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:wildflowers": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:tide_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:infested_stone": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lapis_lazuli": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_birch_log": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:lingering_potion": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:cherry_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:ravager_spawn_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:danger_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:torch": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:crimson_stem": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:blue_wool": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:andesite_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:command_block_minecart": {
+    "amount": 1
+  },
+  "minecraft:waxed_copper_chain": {
+    "amount": 1,
+    "sellPrice": 2.0,
+    "buyPrice": 8.0
+  },
+  "minecraft:fire_coral_fan": {
+    "amount": 1
+  },
+  "minecraft:copper_boots": {
+    "amount": 1,
+    "sellPrice": 16.0,
+    "buyPrice": 48.0
+  },
+  "minecraft:dead_horn_coral": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oxidized_copper_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:music_disc_5": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:waxed_oxidized_copper_golem_statue": {
+    "amount": 1,
+    "sellPrice": 35.0,
+    "buyPrice": 120.0
+  },
+  "minecraft:coal_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:exposed_copper_door": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:golden_helmet": {
+    "amount": 1,
+    "sellPrice": 45.0,
+    "buyPrice": 150.0
+  },
+  "minecraft:spectral_arrow": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:yellow_concrete": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:mangrove_stairs": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:packed_ice": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_terracotta": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_warped_hyphae": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:stripped_oak_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:pale_oak_sapling": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:emerald_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:birch_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:breeze_rod": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:smooth_sandstone": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:miner_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:stripped_cherry_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:exposed_lightning_rod": {
+    "amount": 1
+  },
+  "minecraft:water_bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:raw_copper_block": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 12.0
+  },
+  "minecraft:iron_bars": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:melon_slice": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:ominous_trial_key": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:bamboo": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:mycelium": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:oak_sign": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:gray_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:gray_carpet": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:spruce_chest_boat": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:red_harness": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:sugar_cane": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:medium_amethyst_bud": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:lime_candle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:red_nether_brick_wall": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:brown_shulker_box": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:poisonous_potato": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:oak_fence": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:bamboo_stairs": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:axolotl_bucket": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:deepslate": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:dark_oak_planks": {
+    "amount": 4,
+    "buyPrice": 3.0
+  },
+  "minecraft:crimson_shelf": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:light_gray_dye": {
+    "amount": 1
+  },
+  "minecraft:rooted_dirt": {
+    "amount": 1,
+    "sellPrice": 0.25,
+    "buyPrice": 1.0
+  },
+  "minecraft:tall_grass": {
+    "amount": 1,
+    "sellPrice": 0.0,
+    "buyPrice": 1.0
+  },
+  "minecraft:waxed_weathered_copper_golem_statue": {
+    "amount": 1,
+    "sellPrice": 35.0,
+    "buyPrice": 120.0
+  },
+  "minecraft:charcoal": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:copper_ore": {
+    "amount": 1,
+    "sellPrice": 4.0,
+    "buyPrice": 12.0
+  },
+  "minecraft:mangrove_trapdoor": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:sniffer_egg": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:stripped_mangrove_wood": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 3.0
+  },
+  "minecraft:orange_bundle": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:emerald_ore": {
+    "amount": 1,
+    "sellPrice": 80.0,
+    "buyPrice": 250.0
+  },
+  "minecraft:prize_pottery_sherd": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 5.0
+  },
+  "minecraft:dead_bubble_coral_block": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  },
+  "minecraft:cobbled_deepslate_slab": {
+    "amount": 1,
+    "sellPrice": 0.75,
+    "buyPrice": 3.0
+  },
+  "minecraft:netherite_sword": {
+    "amount": 1,
+    "sellPrice": 810.0,
+    "buyPrice": 2700.0
+  },
+  "minecraft:host_armor_trim_smithing_template": {
+    "amount": 1,
+    "sellPrice": 1.0,
+    "buyPrice": 4.0
+  }
+}

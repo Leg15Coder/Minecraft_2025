@@ -1,0 +1,42 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:sculk_sensor": 2,
+      "minecraft:netherite_spear": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 29037,
+      "minecraft:walk_one_cm": 15033,
+      "minecraft:leave_game": 5,
+      "minecraft:damage_taken": 20,
+      "minecraft:damage_dealt": 230,
+      "minecraft:play_time": 29037,
+      "minecraft:jump": 63,
+      "minecraft:time_since_death": 29037,
+      "minecraft:drop": 3,
+      "minecraft:bell_ring": 1,
+      "minecraft:open_barrel": 1,
+      "minecraft:sprint_one_cm": 5660,
+      "minecraft:fall_one_cm": 2025,
+      "minecraft:total_world_time": 29037,
+      "minecraft:fly_one_cm": 361800,
+      "minecraft:walk_on_water_one_cm": 219,
+      "minecraft:crouch_one_cm": 38,
+      "minecraft:sneak_time": 1139
+    },
+    "minecraft:dropped": {
+      "minecraft:bread": 3,
+      "minecraft:dandelion": 1,
+      "minecraft:emerald": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dandelion": 1,
+      "minecraft:emerald": 1,
+      "minecraft:bread": 3
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 1
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,171 @@
+{
+  "buy_display_format": "&a[ Buy ]",
+  "sell_display_format": "&e[ Sell ]",
+  "dual_display_format": "&b[ ShopShelf ]",
+  "playershelf_display_format": "&b[ %player%'s Shop ]",
+  "playershelf_outoforder_format": "&c[ Out of Order ]",
+  "singleprice_display_formats": {
+    "buy": "&a$%price%",
+    "sell": "&e$%price%",
+    "dual": "&a%buy_price%&r/&e%sell_price%",
+    "playershelf_buy": "&a$%price%",
+    "playershelf_sell": "&e$%price%",
+    "playershelf_dual": "&aB:%buy_price% &eS:%sell_price%"
+  },
+  "tripleprice_display_formats": {
+    "buy": "&a$%price%",
+    "sell": "&e$%price%",
+    "dual": "&a%buy_price%&r/&e%sell_price%",
+    "playershelf_buy": "&a$%price%",
+    "playershelf_sell": "&e$%price%",
+    "playershelf_dual": "&a%buy_price%&r/&e%sell_price%"
+  },
+  "buy_amount_format": "&7%amount%",
+  "sell_amount_format": "&7%amount%",
+  "dual_amount_format": "&7%amount%",
+  "playershelf_amount_format": "&7%amount%",
+  "admin_mode_enabled": {
+    "chat": "&aShopShelves admin mode enabled.",
+    "actionbar": "&2▶ &aAdmin Mode: &lON &2◀"
+  },
+  "admin_mode_disabled": {
+    "chat": "&cShopShelves admin mode disabled.",
+    "actionbar": "&4▶ &cAdmin Mode: &lOFF &4◀"
+  },
+  "reload_success": {
+    "chat": "&aShopShelves configs reloaded.",
+    "actionbar": "&aConfigs Reloaded"
+  },
+  "update_start": {
+    "chat": "&eStarting a full update of all shop displays...",
+    "actionbar": "&eUpdating all shop displays..."
+  },
+  "update_complete": {
+    "chat": "&aShop display update complete.",
+    "actionbar": "&aShop displays updated!"
+  },
+  "message_mode_set": {
+    "chat": "&aMessage delivery mode set to: &e%mode%",
+    "actionbar": "&aMessages set to: &e%mode%"
+  },
+  "error_invalid_message_mode": {
+    "chat": "&cInvalid mode: %mode%. Valid options are CHAT, ACTIONBAR, BOTH, SINGLEPRICE, TRIPLEPRICE.",
+    "actionbar": "&cInvalid Mode: &e%mode%"
+  },
+  "price_display_mode_set": {
+    "chat": "&aPrice display mode set to: &e%mode%",
+    "actionbar": "&aDisplay mode: &e%mode%"
+  },
+  "item_price_updated": {
+    "chat": "&aPrice for &e%item% &a(Amount: %amount%) updated: &2Sell &a$%sell_price% &6Buy &e$%buy_price%",
+    "actionbar": "&aPrice for &e%item% &aupdated!"
+  },
+  "error_must_hold_item": {
+    "chat": "&cYou must be holding an item to set its price.",
+    "actionbar": "&cYou must hold an item."
+  },
+  "error_invalid_price_type": {
+    "chat": "&cInvalid type. Use 'sell', 'buy', or 'both'.",
+    "actionbar": "&cInvalid type. Use 'sell'/'buy'/'both'."
+  },
+  "error_existing_price_stamp": {
+    "chat": "&cYou already have an item with a custom price. Please use it before creating another one.",
+    "actionbar": "&cYou already have a custom price item."
+  },
+  "current_modes_status": {
+    "chat": "&6Current Modes: &eMessage Delivery &7- &a%message_mode% &7| &ePrice Display &7- &a%price_mode%",
+    "actionbar": "&6Modes: &a%message_mode% &7| &a%price_mode%"
+  },
+  "item_price_status": {
+    "chat": "&6Global price for &e%item% &6(Amount: &e%amount%&6): &2Sell &a$%sell_price% &6Buy &e$%buy_price%",
+    "actionbar": "&6Price for &e%item% &6set."
+  },
+  "item_price_not_set": {
+    "chat": "&6Global price for &e%item% &6is currently &cNOT SET&6.",
+    "actionbar": "&cGlobal price not set for &e%item%"
+  },
+  "shop_mode_set": {
+    "chat": "&eShop mode set to: &6%mode%",
+    "actionbar": "&eShop Mode: &6%mode%"
+  },
+  "shop_slot_set": {
+    "chat": "&aSet shop slot %slot% to &e%item% &ax%count%",
+    "actionbar": "&aSet slot %slot% to &e%count%x %item%"
+  },
+  "shop_slot_cleared": {
+    "chat": "&eCleared shop slot %slot%",
+    "actionbar": "&eCleared slot %slot%"
+  },
+  "item_bought": {
+    "chat": "&aYou bought %amount%x &e%item%&a for &6$%price%",
+    "actionbar": "&aBOUGHT: &e%amount%x %item% &afor &6$%price%"
+  },
+  "item_sold": {
+    "chat": "&aYou sold %amount%x &e%item%&a for &6$%price%",
+    "actionbar": "&aSOLD: &e%amount%x %item% &afor &6$%price%"
+  },
+  "error_inventory_full": {
+    "chat": "&cYou don't have enough inventory space.",
+    "actionbar": "&cInventory full!"
+  },
+  "error_insufficient_funds": {
+    "chat": "&cYou can't afford this. Price: &6$%price%",
+    "actionbar": "&cCannot afford! Price: &6$%price%"
+  },
+  "error_item_not_for_sale": {
+    "chat": "&cYou can not buy this item.",
+    "actionbar": "&cThis item cannot be bought."
+  },
+  "error_shop_not_buying": {
+    "chat": "&cYou can not sell this item.",
+    "actionbar": "&cThis item cannot be sold."
+  },
+  "error_not_enough_items_to_sell": {
+    "chat": "&cYou don't have %amount%x &e%item%&c to sell.",
+    "actionbar": "&cYou need &e%amount%x %item% &cto sell."
+  },
+  "error_economy_not_enabled": {
+    "chat": "&cEconomy not enabled on this server. Action unavailable for non-operators.",
+    "actionbar": "&cEconomy is not enabled."
+  },
+  "error_no_permission_create_playershop": {
+    "chat": "&cYou do not have permission to create a player shop.",
+    "actionbar": "&cNo permission for player shops."
+  },
+  "error_playershop_limit_reached": {
+    "chat": "&cYou have reached your shop limit of %limit%.",
+    "actionbar": "&cShop limit reached: %limit%"
+  },
+  "error_item_type_mismatch": {
+    "chat": "&cThis shop only accepts items of type: &e%item%",
+    "actionbar": "&cWrong item type for this shop."
+  },
+  "error_shop_out_of_stock": {
+    "chat": "&cThis shop is out of stock.",
+    "actionbar": "&cShop is out of stock."
+  },
+  "error_shop_container_full": {
+    "chat": "&cThis shop's container is full.",
+    "actionbar": "&cShop container is full."
+  },
+  "error_owner_insufficient_funds": {
+    "chat": "&cThe shop owner cannot afford to buy your items.",
+    "actionbar": "&cShop owner has insufficient funds."
+  },
+  "error_container_missing": {
+    "chat": "&cThis shop's container is missing or broken!",
+    "actionbar": "&cShop container is missing!"
+  },
+  "playershop_price_set": {
+    "chat": "&aCustom price successfully set for this shop!",
+    "actionbar": "&aCustom price set!"
+  },
+  "error_container_already_linked": {
+    "chat": "&cThis container is already linked to another shop.",
+    "actionbar": "&cContainer already in use."
+  },
+  "error_container_protected": {
+    "chat": "&cThis container is linked to a shop and cannot be accessed.",
+    "actionbar": "&cContainer is protected."
+  }
+}

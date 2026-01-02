@@ -1,0 +1,211 @@
+[13:47:32] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[13:47:33] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.11.1 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'ShopShelves' (shopshelves) 1.0.1 recommends any version of ecobal, which is missing!
+	 - You should install any version of ecobal for the optimal experience.
+[13:47:33] [main/INFO]: Loading 104 mods:
+	- bottledair 2.5
+	- carpet 1.4.194+v251223
+	- clumps 29.0.0.1
+	- collective 8.13
+	- cristellib 3.0.4
+	   \-- blue_endless_jankson 1.2.3
+	- doubledoors 7.2
+	- fabric-api 0.140.2+1.21.11
+	   |-- fabric-api-base 1.0.5+4ebb5c083e
+	   |-- fabric-api-lookup-api-v1 1.6.113+1fb1cde93e
+	   |-- fabric-biome-api-v1 17.1.1+4fc5413f3e
+	   |-- fabric-block-api-v1 1.1.10+4ebb5c083e
+	   |-- fabric-block-view-api-v2 1.0.39+4ebb5c083e
+	   |-- fabric-command-api-v2 2.4.7+6b42a6003e
+	   |-- fabric-content-registries-v0 10.2.14+4fc5413f3e
+	   |-- fabric-convention-tags-v1 2.1.55+7f945d5b3e
+	   |-- fabric-convention-tags-v2 2.17.3+8ef948ba3e
+	   |-- fabric-crash-report-info-v1 0.3.23+4ebb5c083e
+	   |-- fabric-data-attachment-api-v1 1.8.44+1fb1cde93e
+	   |-- fabric-data-generation-api-v1 23.4.0+69974c4e3e
+	   |-- fabric-dimensions-v1 4.0.28+4fc5413f3e
+	   |-- fabric-entity-events-v1 3.0.5+4ebb5c083e
+	   |-- fabric-events-interaction-v0 4.0.44+1fb1cde93e
+	   |-- fabric-game-rule-api-v1 2.0.3+4fc5413f3e
+	   |-- fabric-item-api-v1 11.5.20+d0c46b9e3e
+	   |-- fabric-item-group-api-v1 4.2.36+4fc5413f3e
+	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f3e
+	   |-- fabric-lifecycle-events-v1 2.6.15+4ebb5c083e
+	   |-- fabric-loot-api-v2 3.0.73+3f89f5a53e
+	   |-- fabric-loot-api-v3 2.0.20+78c8b4663e
+	   |-- fabric-message-api-v1 6.1.12+4ebb5c083e
+	   |-- fabric-model-loading-api-v1 6.0.13+4fc5413f3e
+	   |-- fabric-networking-api-v1 5.1.5+ae1e07683e
+	   |-- fabric-object-builder-api-v1 21.1.39+4fc5413f3e
+	   |-- fabric-particles-v1 4.2.11+4fc5413f3e
+	   |-- fabric-recipe-api-v1 8.2.3+4ebb5c083e
+	   |-- fabric-registry-sync-v0 6.2.5+1718722b3e
+	   |-- fabric-renderer-api-v1 8.0.1+f4ffd2e53e
+	   |-- fabric-renderer-indigo 5.0.1+f4ffd2e53e
+	   |-- fabric-rendering-fluids-v1 3.1.43+4ebb5c083e
+	   |-- fabric-rendering-v1 16.2.8+f4ffd2e53e
+	   |-- fabric-resource-conditions-api-v1 5.0.35+4fc5413f3e
+	   |-- fabric-resource-loader-v0 3.3.4+4fc5413f3e
+	   |-- fabric-resource-loader-v1 1.0.10+78c8b4663e
+	   |-- fabric-screen-api-v1 3.1.7+4ebb5c083e
+	   |-- fabric-screen-handler-api-v1 1.3.161+4fc5413f3e
+	   |-- fabric-serialization-api-v1 1.0.5+4ebb5c083e
+	   |-- fabric-sound-api-v1 1.0.51+4fc5413f3e
+	   |-- fabric-tag-api-v1 1.2.20+4fc5413f3e
+	   |-- fabric-transfer-api-v1 6.0.24+4fc5413f3e
+	   \-- fabric-transitive-access-wideners-v1 7.1.0+014c8cec3e
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- ferritecore 8.0.3
+	- firstjoinmessage 3.8
+	- fishontheline 3.5
+	- forgeconfigapiport 21.11.1
+	   |-- com_electronwill_night-config_core 3.8.3
+	   \-- com_electronwill_night-config_toml 3.8.3
+	- glowing-torchflower 1.3.0
+	   |-- com_typesafe_config 1.4.3
+	   |-- io_leangen_geantyref_geantyref 1.3.13
+	   |-- org_apache_commons_commons-text 1.10.0
+	   |-- org_spongepowered_configurate-core 4.1.2
+	   \-- org_spongepowered_configurate-hocon 4.1.2
+	- incendium 5.4.10
+	- java 21
+	- justmobheads 8.9
+	- leavesbegone 21.11.0
+	- lithium 0.21.2+mc1.21.11
+	- minecraft 1.21.11
+	- mr_fire_aspectonaxes 1.0
+	- mr_fortune_shears 1.1
+	- mr_freezing_enchantment 1-v1.0.0
+	- mr_health_enchantment 1-v1.0.1
+	- mr_knockback_onaxesandspears 1.0
+	- mr_ly_agilityenchantment 1-v1.0.2
+	- mr_poisoning_enchantment 1-v1.0.4
+	- mr_swiftness_enchantment 1-v1.0.1
+	- mr_withering_enchantment 1-v1.0.4
+	- nullscape 1.2.16
+	- polymer-bundled 0.15.1+1.21.11
+	   |-- polymer-autohost 0.15.1+1.21.11
+	   |-- polymer-blocks 0.15.1+1.21.11
+	   |-- polymer-common 0.15.1+1.21.11
+	   |    \-- packet_tweaker 0.6.0+1.21.10
+	   |-- polymer-core 0.15.1+1.21.11
+	   |    |-- polymer-networking 0.15.1+1.21.11
+	   |    |    \-- polymer-common 0.15.1+1.21.11
+	   |    |         \-- packet_tweaker 0.6.0+1.21.10
+	   |    \-- polymer-registry-sync-manipulator 0.15.1+1.21.11
+	   |-- polymer-resource-pack 0.15.1+1.21.11
+	   |    \-- polymer-common 0.15.1+1.21.11
+	   |         \-- packet_tweaker 0.6.0+1.21.10
+	   |-- polymer-resource-pack-extras 0.15.1+1.21.11
+	   |-- polymer-sound-patcher 0.15.1+1.21.11
+	   \-- polymer-virtual-entity 0.15.1+1.21.11
+	        \-- polymer-common 0.15.1+1.21.11
+	             \-- packet_tweaker 0.6.0+1.21.10
+	- puzzleslib 21.11.4
+	- servercore 1.5.15+1.21.11
+	   |-- fabric-permissions-api-v0 0.6.0
+	   |-- org_yaml_snakeyaml 2.5
+	   |-- placeholder-api 2.8.1+1.21.10
+	   |-- space_arim_dazzleconf_dazzleconf-core 1.3.0-M2
+	   \-- space_arim_dazzleconf_dazzleconf-ext-snakeyaml 1.3.0-M2
+	- shopshelves 1.0.1
+	- t_and_t 1.13.8
+	- terralith 2.5.14
+	- universal-graves 3.10.2+1.21.11
+	   |-- common-protection-api 1.0.0
+	   |-- placeholder-api 2.8.1+1.21.10
+	   |-- predicate-api 0.7.0+1.21.11
+	   |-- server_translations_api 2.5.2+1.21.9-pre3
+	   \-- sgui 1.11.0+1.21.9
+	- vcinteraction 1.21.11-1.0.8
+	- voicechat 1.21.11-2.6.10
+	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f53
+	   |-- fabric-rendering-v1 16.2.5+1fb1cde953
+	   \-- voicechat_api 2.6.0
+[13:47:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/opt/minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[13:47:33] [main/INFO]: Compatibility level set to JAVA_17
+[13:47:33] [main/INFO]: Compatibility level set to JAVA_18
+[13:47:33] [main/INFO]: Compatibility level set to JAVA_21
+[13:47:33] [main/WARN]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:47:33] [main/INFO]: Loaded configuration file for Lithium: 164 options available, 0 override(s) found.
+[13:47:34] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[13:47:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[13:47:43] [main/INFO]: Loading Collective version 8.13.
+[13:47:43] [main/INFO]: Constructing components for leavesbegone:common
+[13:47:43] [main/INFO]: Constructing components for puzzleslib:common
+[13:47:43] [main/INFO]: [ServerCore] Loaded V1.5.15+1.21.11!
+[13:47:43] [main/INFO]: shopshelves loaded!
+[13:47:43] [main/INFO]: ShopShelves pricing loaded successfully.
+[13:47:43] [main/INFO]: [voicechat] Compatibility version 20
+[13:47:43] [main/INFO]: [voicechat] Loading plugins
+[13:47:43] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[13:47:43] [main/INFO]: [voicechat] Initializing plugins
+[13:47:43] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[13:47:43] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
+[13:47:44] [main/ERROR]: Couldn't load mr_fortune_shears pack metadata: Pack version declaration mismatch between supported_formats (up to 9999) and max_format (88.*)
+[13:47:44] [main/ERROR]: Couldn't load mr_knockback_onaxesandspears pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[13:47:44] [main/ERROR]: Couldn't load mr_fortune_shears pack metadata: Pack version declaration mismatch between supported_formats (up to 9999) and max_format (88.*)
+[13:47:44] [main/ERROR]: Couldn't load mr_knockback_onaxesandspears pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[13:47:44] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:47:44] [main/ERROR]: Couldn't load mr_fortune_shears pack metadata: Pack version declaration mismatch between supported_formats (up to 9999) and max_format (88.*)
+[13:47:44] [main/ERROR]: Couldn't load mr_knockback_onaxesandspears pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[13:47:47] [main/INFO]: Loaded 1478 recipes
+[13:47:47] [main/INFO]: Loaded 1647 advancements
+[13:47:47] [Thread-4/INFO]: Loaded 58 translation keys
+[13:47:47] [main/INFO]: Applied 0 biome modifications to 0 of 171 new biomes in 4.108 ms
+[13:47:47] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
+[13:47:48] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[13:47:48] [Server thread/INFO]: Loading properties
+[13:47:48] [Server thread/INFO]: Default game type: SURVIVAL
+[13:47:48] [Server thread/INFO]: Generating keypair
+[13:47:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:47:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:47:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:47:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:47:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:47:48] [Server thread/INFO]: Preparing level "world"
+[13:47:49] [Server thread/INFO]: Loading 25 persistent chunks...
+[13:47:49] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:49] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:50] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:50] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:51] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:51] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:52] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:52] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:53] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:53] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:54] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:54] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:55] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:55] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:56] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:56] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:57] [Server thread/INFO]: Preparing spawn area: 28%
+[13:47:57] [Server thread/INFO]: Time elapsed: 8355 ms
+[13:47:57] [Server thread/INFO]: Done (9.168s)! For help, type "help"
+[13:47:57] [Server thread/INFO]: Loaded 0 shop entries and 0 linked containers from shopshelves.json
+[13:47:57] [Server thread/INFO]: Starting full ShopShelves display update...
+[13:47:57] [Server thread/INFO]: Full ShopShelves display update complete.
+[13:47:57] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[13:47:57] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[14:03:25] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345)
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399)
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393)
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:188)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160)
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436)
+	at knot//net.minecraft.class_3176$1.run(class_3176.java:186)
