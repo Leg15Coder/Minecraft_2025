@@ -1,0 +1,4989 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -1226593370831700,
+    "name": "Еуые",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": -28496240433700,
+          "name": "firstjoinmessage-1.21.11-3.8",
+          "favorite": false,
+          "version": {
+            "id": -28496240773500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "21ecd23057e24e5acc66b47d7132f7c6c8ed6f90",
+              "size": 36928,
+              "path": "mods/firstjoinmessage-1.21.11-3.8.jar",
+              "url": "mods/firstjoinmessage-1.21.11-3.8.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496244285700,
+          "name": "glowing-torchflower-1.21.2-1.3.0",
+          "favorite": false,
+          "version": {
+            "id": -28496247463500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "d8165f3ce03ba5388d65973b8c00422a5816dd5f",
+              "size": 862449,
+              "path": "mods/glowing-torchflower-1.21.2-1.3.0.jar",
+              "url": "mods/glowing-torchflower-1.21.2-1.3.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496264606200,
+          "name": "justmobheads-1.21.11-8.9",
+          "favorite": false,
+          "version": {
+            "id": -28496265387400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "88af6061748f7ac7406f0838ac91aab46659608f",
+              "size": 168616,
+              "path": "mods/justmobheads-1.21.11-8.9.jar",
+              "url": "mods/justmobheads-1.21.11-8.9.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496265678400,
+          "name": "LeavesBeGone-v21.11.0-mc1.21.11-Fabric",
+          "favorite": false,
+          "version": {
+            "id": -28496266038300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "2d31e9d6f10766cd6cc99789fded577ca650e3f6",
+              "size": 41406,
+              "path": "mods/LeavesBeGone-v21.11.0-mc1.21.11-Fabric.jar",
+              "url": "mods/LeavesBeGone-v21.11.0-mc1.21.11-Fabric.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496266049400,
+          "name": "lithium-fabric-0.21.2+mc1.21.11",
+          "favorite": false,
+          "version": {
+            "id": -28496268950200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c1f8f61d4b2fac28ab083a927c6b1338598255ed",
+              "size": 858481,
+              "path": "mods/lithium-fabric-0.21.2+mc1.21.11.jar",
+              "url": "mods/lithium-fabric-0.21.2+mc1.21.11.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496269378900,
+          "name": "Nullscape_1.21.x_v1.2.16",
+          "favorite": false,
+          "version": {
+            "id": -28496270799900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b66250822b98661c437a6ec14a195bf4bae5a39d",
+              "size": 342280,
+              "path": "mods/Nullscape_1.21.x_v1.2.16.jar",
+              "url": "mods/Nullscape_1.21.x_v1.2.16.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496270811600,
+          "name": "poisoning-enchantment-v1.0.4",
+          "favorite": false,
+          "version": {
+            "id": -28496271177400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f84c8d09cc9361e8c5d54450622ab3f5ac2b9e24",
+              "size": 49437,
+              "path": "mods/poisoning-enchantment-v1.0.4.jar",
+              "url": "mods/poisoning-enchantment-v1.0.4.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496271189500,
+          "name": "polymer-bundled-0.15.1+1.21.11",
+          "favorite": false,
+          "version": {
+            "id": -28496275914700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "5aaeb3e58e6c481db9a8e11fcac203cd3182113d",
+              "size": 1478362,
+              "path": "mods/polymer-bundled-0.15.1+1.21.11.jar",
+              "url": "mods/polymer-bundled-0.15.1+1.21.11.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496279853000,
+          "name": "servercore-fabric-1.5.15+1.21.11",
+          "favorite": false,
+          "version": {
+            "id": -28496283032600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c3c6ec10b0ceddaa8f1ef53ffe57db57b4e8638f",
+              "size": 932539,
+              "path": "mods/servercore-fabric-1.5.15+1.21.11.jar",
+              "url": "mods/servercore-fabric-1.5.15+1.21.11.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496284168500,
+          "name": "Terralith_1.21.x_v2.5.14",
+          "favorite": false,
+          "version": {
+            "id": -28496293711700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "07f2f1530196a40d2bdea8f5b67e87f8cf89554d",
+              "size": 2878202,
+              "path": "mods/Terralith_1.21.x_v2.5.14.jar",
+              "url": "mods/Terralith_1.21.x_v2.5.14.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496293733900,
+          "name": "t_and_t-fabric-neoforge-1.13.8",
+          "favorite": false,
+          "version": {
+            "id": -28496305514900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "101583aeea0b225828da7002df5d75f1ad844f8a",
+              "size": 3509100,
+              "path": "mods/t_and_t-fabric-neoforge-1.13.8.jar",
+              "url": "mods/t_and_t-fabric-neoforge-1.13.8.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28496305538400,
+          "name": "vcinteraction-fabric-1.21.11-1.0.8",
+          "favorite": false,
+          "version": {
+            "id": -28496307385200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "05f90ed4c6829f899e0220ae610d3e6e7292a300",
+              "size": 509043,
+              "path": "mods/vcinteraction-fabric-1.21.11-1.0.8.jar",
+              "url": "mods/vcinteraction-fabric-1.21.11-1.0.8.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 853794,
+          "name": "Dungeons and Taverns",
+          "author": "Nova_Wostra Nova_Wostra",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 835706,
+          "pictures": [],
+          "lanName": "dungeon-and-taverns",
+          "version": {
+            "id": 7320645,
+            "name": "dungeons-and-taverns-v5.1.0 [Fabric]",
+            "updateDate": 1765462446000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "09cca41971985fb9e137186bee6f4e23ec42a8f0",
+              "size": 38916351,
+              "path": "mods/dungeons-and-taverns-v5.1.0%20%5BFabric%5D.jar",
+              "url": "/mods/853794/7320645/dungeons-and-taverns-v5.1.0%2520%255BFabric%255D.jar"
+            },
+            "installed": 536,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1762635600000,
+          "update": 1762635600000,
+          "downloadALL": 708017,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 568563,
+          "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+          "author": "traben_0",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 821165,
+          "pictures": [
+            268134,
+            323605,
+            287794,
+            287793,
+            287790,
+            268130,
+            287789,
+            268131,
+            268135,
+            287792,
+            268140,
+            268132,
+            268133,
+            588928,
+            268129,
+            287791
+          ],
+          "lanName": "entity-texture-features-fabric",
+          "version": {
+            "id": 7392425,
+            "name": "entity_texture_features_1.21.11-fabric-7.0.8",
+            "updateDate": 1767015173000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "3e6a54539a79f4d80a6458ffc130342fa059d7be",
+              "size": 729359,
+              "path": "mods/entity_texture_features_1.21.11-fabric-7.0.8.jar",
+              "url": "/mods/568563/7392425/entity_texture_features_1.21.11-fabric-7.0.8.jar"
+            },
+            "installed": 313,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766955600000,
+          "update": 1766955600000,
+          "downloadALL": 3610434,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 844662,
+          "name": "[EMF] Entity Model Features [Fabric & Forge]",
+          "author": "traben_0",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/entity-model-features",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 821189,
+          "pictures": [],
+          "lanName": "entity-model-features",
+          "version": {
+            "id": 7396598,
+            "name": "entity_model_features_1.21.11-fabric-3.0.9",
+            "updateDate": 1767106445000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "4e8c5819503059b1ddc0ff1badd80763676e897b",
+              "size": 495619,
+              "path": "mods/entity_model_features_1.21.11-fabric-3.0.9.jar",
+              "url": "/mods/844662/7396598/entity_model_features_1.21.11-fabric-3.0.9.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5461,
+              "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+              "gameEntityId": 568563,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1767042000000,
+          "update": 1767042000000,
+          "downloadALL": 3396415,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 910095,
+          "name": "Dynamic Lights [Server] [FabricQuiltForgeNeoForge]",
+          "author": "Tschipcraft Tschipcraft",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 801046,
+          "pictures": [
+            536592,
+            536594,
+            536593,
+            536595,
+            536596,
+            536597
+          ],
+          "lanName": "tschipcrafts-dynamic-lights-mod",
+          "version": {
+            "id": 7312874,
+            "name": "dynamiclights-v1.9.1-mc1.17-1.21.11-mod",
+            "updateDate": 1765308078000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 35,
+                "name": "1.18.2"
+              },
+              {
+                "id": 34,
+                "name": "1.18.1"
+              },
+              {
+                "id": 33,
+                "name": "1.18"
+              },
+              {
+                "id": 32,
+                "name": "1.17.1"
+              },
+              {
+                "id": 39,
+                "name": "1.17"
+              }
+            ],
+            "metadata": {
+              "sha1": "df4303deb02246cde9c3a9b82c165bec3f37dada",
+              "size": 405957,
+              "path": "mods/dynamiclights-v1.9.1-mc1.17-1.21.11-mod.jar",
+              "url": "/mods/910095/7312874/dynamiclights-v1.9.1-mc1.17-1.21.11-mod.jar"
+            },
+            "installed": 17295,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1050,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 4390,
+              "name": "MidnightLib",
+              "gameEntityId": 488090,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759957200000,
+          "update": 1759957200000,
+          "downloadALL": 6853970,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 274259,
+          "name": "Carry On",
+          "author": "Tschipp Purplicious_Cow",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/carry-on",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            }
+          ],
+          "picture": 787817,
+          "pictures": [
+            17743,
+            17737,
+            17751
+          ],
+          "lanName": "carry-on",
+          "version": {
+            "id": 7386195,
+            "name": "carryon-fabric-1.21.11-2.9.0",
+            "updateDate": 1766874788000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "8ae93967a302ab5a036655f8bba469bbfcf817a5",
+              "size": 372976,
+              "path": "mods/carryon-fabric-1.21.11-2.9.0.jar",
+              "url": "/mods/274259/7386195/carryon-fabric-1.21.11-2.9.0.jar"
+            },
+            "installed": 1315,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 18088,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766782800000,
+          "update": 1766782800000,
+          "downloadALL": 21308704,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 531761,
+          "name": "Balm",
+          "author": "blaytheninth",
+          "uuid": "dfb0b67e-cae4-11ec-b2ce-f02f74958c02",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/balm",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 976349,
+          "pictures": [],
+          "lanName": "balm",
+          "version": {
+            "id": 7361378,
+            "name": "balm-fabric-1.21.11-21.11.3",
+            "updateDate": 1766321742000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "1bdb9d28c2bf7b6831182ad321ef1debfb6da078",
+              "size": 819948,
+              "path": "mods/balm-fabric-1.21.11-21.11.3.jar",
+              "url": "/mods/531761/7361378/balm-fabric-1.21.11-21.11.3.jar"
+            },
+            "installed": 2545,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766264400000,
+          "update": 1766264400000,
+          "downloadALL": 5783897,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 245755,
+          "name": "Waystones",
+          "author": "BlayTheNinth",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 21,
+              "name": "technology_player_transport",
+              "shortName": "transport",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            }
+          ],
+          "picture": 976348,
+          "pictures": [
+            27396,
+            27390,
+            27398
+          ],
+          "lanName": "waystones",
+          "version": {
+            "id": 7366542,
+            "name": "waystones-fabric-1.21.11-21.11.4",
+            "updateDate": 1766431766000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "81dc8632577ce638e7f373bfef4e195adf04eea9",
+              "size": 923696,
+              "path": "mods/waystones-fabric-1.21.11-21.11.4.jar",
+              "url": "/mods/245755/7366542/waystones-fabric-1.21.11-21.11.4.jar"
+            },
+            "installed": 1817,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 11767,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 316,
+              "name": "Balm",
+              "gameEntityId": 531761,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766350800000,
+          "update": 1766350800000,
+          "downloadALL": 16656605,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 335493,
+          "name": "Dynamic FPS",
+          "author": "juliand665",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dynamic-fps",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 800342,
+          "pictures": [
+            721980,
+            1032688,
+            721981,
+            721982
+          ],
+          "lanName": "dynamic-fps",
+          "version": {
+            "id": 7379709,
+            "name": "dynamic-fps-3.11.2+minecraft-1.21.11-fabric",
+            "updateDate": 1766738048000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "1d6fd8e2f203de652877db6fb794f0d4efc636cd",
+              "size": 195474,
+              "path": "mods/dynamic-fps-3.11.2%2Bminecraft-1.21.11-fabric.jar",
+              "url": "/mods/335493/7379709/dynamic-fps-3.11.2%252Bminecraft-1.21.11-fabric.jar"
+            },
+            "installed": 1212,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 532,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 204,
+              "name": "Mod Menu",
+              "gameEntityId": 308702,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 1009,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 1865,
+              "name": "Quilted Fabric API (QFAPI)  Quilt Standard Libraries (QSL)",
+              "gameEntityId": 634179,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766696400000,
+          "update": 1766696400000,
+          "downloadALL": 1893694,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 608235,
+          "name": "YDM's Weapon Master",
+          "author": "yourdailymodderx",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 844472,
+          "pictures": [
+            311446,
+            311447,
+            314785,
+            311448,
+            609130,
+            601365
+          ],
+          "lanName": "ydms-weapon-master",
+          "version": {
+            "id": 7357121,
+            "name": "weaponmaster_ydm-fabric-1.21.11-4.4.4",
+            "updateDate": 1766237782000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "e5232b315ae8e1e589a9f13ea90d6db5e5987bc2",
+              "size": 307751,
+              "path": "mods/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar",
+              "url": "/mods/608235/7357121/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar"
+            },
+            "installed": 635,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766178000000,
+          "update": 1766178000000,
+          "downloadALL": 1634088,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 348521,
+          "name": "Cloth Config API (FabricForgeNeoForge)",
+          "author": "shedaniel",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821133,
+          "pictures": [],
+          "lanName": "cloth-config-forge",
+          "version": {
+            "id": 7361438,
+            "name": "cloth-config-21.11.153-fabric",
+            "updateDate": 1766322724000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
+              "size": 1148427,
+              "path": "mods/cloth-config-21.11.153-fabric.jar",
+              "url": "/mods/348521/7361438/cloth-config-21.11.153-fabric.jar"
+            },
+            "installed": 6171,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 155,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766264400000,
+          "update": 1766264400000,
+          "downloadALL": 12181324,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 306612,
+          "name": "Fabric API",
+          "author": "",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fabric-api",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 778706,
+          "pictures": [],
+          "lanName": "fabric-api",
+          "version": {
+            "id": 7361977,
+            "name": "fabric-api-0.140.2+1.21.11",
+            "updateDate": 1766332750000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "c115a7e4442bb6f54cb316efa28fb7d41d2e103c",
+              "size": 2388137,
+              "path": "mods/fabric-api-0.140.2%2B1.21.11.jar",
+              "url": "/mods/306612/7361977/fabric-api-0.140.2%252B1.21.11.jar"
+            },
+            "installed": 70450,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 1786,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1762635600000,
+          "update": 1762635600000,
+          "downloadALL": 17695633,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 639842,
+          "name": "Better Combat [Fabric & Forge]",
+          "author": "daedelus_dev",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787840,
+          "pictures": [
+            337999,
+            344603,
+            338000,
+            338001,
+            345618,
+            344602
+          ],
+          "lanName": "better-combat-by-daedelus",
+          "version": {
+            "id": 7359188,
+            "name": "bettercombat-fabric-3.0.0+1.21.11",
+            "updateDate": 1766269356000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "af6c33d476e1e910afbe31768bb5088da6e758e7",
+              "size": 922995,
+              "path": "mods/bettercombat-fabric-3.0.0%2B1.21.11.jar",
+              "url": "/mods/639842/7359188/bettercombat-fabric-3.0.0%252B1.21.11.jar"
+            },
+            "installed": 553,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 332,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 3667,
+              "name": "playerAnimator",
+              "gameEntityId": 658587,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766178000000,
+          "update": 1766178000000,
+          "downloadALL": 1328973,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 627101,
+          "name": "Merge Enchantments",
+          "author": "dplayend",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/merge-enchantments",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            }
+          ],
+          "picture": 898717,
+          "pictures": [],
+          "lanName": "merge-enchantments",
+          "version": {
+            "id": 7313959,
+            "name": "FABRIC-1.21.[11]-v4.3",
+            "updateDate": 1765325136000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "e16ca809c32881c54a95fe739dde9daf45864137",
+              "size": 10112,
+              "path": "mods/MergeEnchantments-FABRIC-1.21.%5B11%5D-v4.3.jar",
+              "url": "/mods/627101/7313959/MergeEnchantments-FABRIC-1.21.%255B11%255D-v4.3.jar"
+            },
+            "installed": 382,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 12312,
+              "name": "Toggle Enchantments",
+              "gameEntityId": 891161,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 12456,
+              "name": "Improved Trident",
+              "gameEntityId": 890557,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759870800000,
+          "update": 1759870800000,
+          "downloadALL": 221083,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 547434,
+          "name": "Forge Config API Port",
+          "author": "fuzs_",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 865544,
+          "pictures": [],
+          "lanName": "forge-config-api-port-fabric",
+          "version": {
+            "id": 7337130,
+            "name": "v21.11.1-mc1.21.11-Fabric",
+            "updateDate": 1765820434000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "61aa1b5fafd75afc44552d0213cac39bc938bc2d",
+              "size": 598009,
+              "path": "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+              "url": "/mods/547434/7337130/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
+            },
+            "installed": 2169,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5637,
+              "name": "Forge Config Screens [Forge & Fabric]",
+              "gameEntityId": 544048,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759870800000,
+          "update": 1759870800000,
+          "downloadALL": 1552758,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 495476,
+          "name": "Puzzles Lib",
+          "author": "fuzs_",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787436,
+          "pictures": [],
+          "lanName": "puzzles-lib",
+          "version": {
+            "id": 7357959,
+            "name": "v21.11.4-mc1.21.11-Fabric",
+            "updateDate": 1766250455000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "02bb99cb4db3e8615d02634111a5be130c11900e",
+              "size": 1059616,
+              "path": "mods/PuzzlesLib-v21.11.4-mc1.21.11-Fabric.jar",
+              "url": "/mods/495476/7357959/PuzzlesLib-v21.11.4-mc1.21.11-Fabric.jar"
+            },
+            "installed": 2505,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766178000000,
+          "update": 1766178000000,
+          "downloadALL": 1851504,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 852665,
+          "name": "Mutant Monsters",
+          "author": "Fuzs Fuzs shcott21 Chumbanotz LunaPixelStudios",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mutant-monsters",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 787862,
+          "pictures": [],
+          "lanName": "mutant-monsters",
+          "version": {
+            "id": 7379871,
+            "name": "v21.11.2-mc1.21.11-Fabric",
+            "updateDate": 1766742988000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "c96e3588d495105d2b943b4459fe658f7be376e0",
+              "size": 1341158,
+              "path": "mods/MutantMonsters-v21.11.2-mc1.21.11-Fabric.jar",
+              "url": "/mods/852665/7379871/MutantMonsters-v21.11.2-mc1.21.11-Fabric.jar"
+            },
+            "installed": 117,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 841,
+              "name": "Forge Config API Port",
+              "gameEntityId": 547434,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 969,
+              "name": "Puzzles Lib",
+              "gameEntityId": 495476,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766696400000,
+          "update": 1766696400000,
+          "downloadALL": 360971,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 968816,
+          "name": "Config API",
+          "author": "Craftjakob",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/config-api",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 801792,
+          "pictures": [
+            678315,
+            719952,
+            719955,
+            719951,
+            678318,
+            719954,
+            719953,
+            678319,
+            678314,
+            678316,
+            678313,
+            678317
+          ],
+          "lanName": "config-api",
+          "version": {
+            "id": 7358000,
+            "name": "CJ-fabric-release-mc-1.21.11-1.21.11-3.1.0",
+            "updateDate": 1766250903000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "f937658dbd1a74549f4bf77291f1b0804b81d62b",
+              "size": 504309,
+              "path": "mods/ConfigAPI-CJ-fabric-release-mc-1.21.11-1.21.11-3.1.0.jar",
+              "url": "/mods/968816/7358000/ConfigAPI-CJ-fabric-release-mc-1.21.11-1.21.11-3.1.0.jar"
+            },
+            "installed": 207,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766178000000,
+          "update": 1766178000000,
+          "downloadALL": 89281,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 845410,
+          "name": "Enderite CJ Edition (Armor & Tools) [FabricForgeNeoForgeQuilt]",
+          "author": "craftjakob",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/enderite-cj-edition",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 801945,
+          "pictures": [
+            536107,
+            452511,
+            452508,
+            452514,
+            452507,
+            536109,
+            452517,
+            452510,
+            452509,
+            430515,
+            536108,
+            452513,
+            452516,
+            452518,
+            452519,
+            452512,
+            452515
+          ],
+          "lanName": "enderite-cj-edition",
+          "version": {
+            "id": 7358047,
+            "name": "Enderite-CJ-fabric-release-mc-1.21.11-1.21.11-2.4.0",
+            "updateDate": 1766251184000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "e0ff561c79e455838fbf6867fd6ac9d26922cbb7",
+              "size": 385224,
+              "path": "mods/Enderite-CJ-fabric-release-mc-1.21.11-1.21.11-2.4.0.jar",
+              "url": "/mods/845410/7358047/Enderite-CJ-fabric-release-mc-1.21.11-1.21.11-2.4.0.jar"
+            },
+            "installed": 244,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 6358,
+              "name": "Config API",
+              "gameEntityId": 968816,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766178000000,
+          "update": 1766178000000,
+          "downloadALL": 163216,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 975803,
+          "name": "Resource Library",
+          "author": "xStopho",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/resource-library",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 847296,
+          "pictures": [],
+          "lanName": "resource-library",
+          "version": {
+            "id": 7327814,
+            "name": "resourcelibrary-fabric-1.21.11-2.10.0",
+            "updateDate": 1765625421000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "5b49c5dcd1a98585fce9efd4655f4b40b3efe637",
+              "size": 204103,
+              "path": "mods/resourcelibrary-fabric-1.21.11-2.10.0.jar",
+              "url": "/mods/975803/7327814/resourcelibrary-fabric-1.21.11-2.10.0.jar"
+            },
+            "installed": 132,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759870800000,
+          "update": 1759870800000,
+          "downloadALL": 76461,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 975801,
+          "name": "Resource Config API",
+          "author": "xStopho",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/resource-config-api",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 802141,
+          "pictures": [],
+          "lanName": "resource-config-api",
+          "version": {
+            "id": 7328765,
+            "name": "resourceconfigapi-fabric-1.21.11-3.9.2",
+            "updateDate": 1765643820000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "23645d2f67fc7e1e3d4a018472c410c10eec7b8c",
+              "size": 266493,
+              "path": "mods/resourceconfigapi-fabric-1.21.11-3.9.2.jar",
+              "url": "/mods/975801/7328765/resourceconfigapi-fabric-1.21.11-3.9.2.jar"
+            },
+            "installed": 131,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759870800000,
+          "update": 1759870800000,
+          "downloadALL": 69681,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 971140,
+          "name": "Resource Backpack's",
+          "author": "xStopho",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/resource-backpacks",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            }
+          ],
+          "picture": 927386,
+          "pictures": [],
+          "lanName": "resource-backpacks",
+          "version": {
+            "id": 7328773,
+            "name": "resource_backpacks-fabric-1.21.11-1.4.0",
+            "updateDate": 1765643874000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "8d38031198e55df044626f0a79081e234fd5cbf8",
+              "size": 386742,
+              "path": "mods/resource_backpacks-fabric-1.21.11-1.4.0.jar",
+              "url": "/mods/971140/7328773/resource_backpacks-fabric-1.21.11-1.4.0.jar"
+            },
+            "installed": 97,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 7340,
+              "name": "Resource Library",
+              "gameEntityId": 975803,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 7341,
+              "name": "Resource Config API",
+              "gameEntityId": 975801,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759870800000,
+          "update": 1759870800000,
+          "downloadALL": 61792,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1056156,
+          "name": "Armored Elytra - Fabric",
+          "author": "dorkix",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/armored-elytra-fabric",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 877050,
+          "pictures": [
+            878025
+          ],
+          "lanName": "armored-elytra-fabric",
+          "version": {
+            "id": 7336358,
+            "name": "armored-elytra-1.12.0",
+            "updateDate": 1765804561000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "494f4e86cefb41c13679dcb2a752dbf60dfd4213",
+              "size": 74215,
+              "path": "mods/armored-elytra-1.12.0.jar",
+              "url": "/mods/1056156/7336358/armored-elytra-1.12.0.jar"
+            },
+            "installed": 336,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759957200000,
+          "update": 1759957200000,
+          "downloadALL": 25052,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1161694,
+          "name": "Snowy Biomes Enhanced",
+          "author": "c3l3rno",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/better-snowy-biomes",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 983965,
+          "pictures": [
+            992969,
+            984082,
+            992971,
+            1039310,
+            992970,
+            992972,
+            992973
+          ],
+          "lanName": "better-snowy-biomes",
+          "version": {
+            "id": 7316425,
+            "name": "better-snowy-biome-v2.5.1-1.21.11",
+            "updateDate": 1765381739000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "8d35d2c8b7e958f090dd528f179a4d85094bac0b",
+              "size": 4077096,
+              "path": "mods/better-snowy-biome-v2.5.1-1.21.11.jar",
+              "url": "/mods/1161694/7316425/better-snowy-biome-v2.5.1-1.21.11.jar"
+            },
+            "installed": 419,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759266000000,
+          "update": 1759266000000,
+          "downloadALL": 63984,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 32274,
+          "name": "JourneyMap",
+          "author": "techbrew",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            }
+          ],
+          "picture": 787401,
+          "pictures": [],
+          "lanName": "journeymap",
+          "version": {
+            "id": 7390712,
+            "name": "journeymap-fabric-1.21.11-6.0.0-beta.54",
+            "updateDate": 1766974338000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "1be5081c4b46a962d978e8bac50f804ce77da047",
+              "size": 3602709,
+              "path": "mods/journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
+              "url": "/mods/32274/7390712/journeymap-fabric-1.21.11-6.0.0-beta.54.jar"
+            },
+            "installed": 3923,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 40310,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5027,
+              "name": "JourneyMap Tools",
+              "gameEntityId": 226005,
+              "dependencyType": "tools"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1761858000000,
+          "update": 1761858000000,
+          "downloadALL": 48909672,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 280294,
+          "name": "FPS Reducer",
+          "author": "bre2el",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fps-reducer",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 821327,
+          "pictures": [],
+          "lanName": "fps-reducer",
+          "version": {
+            "id": 7314073,
+            "name": "FpsReducer2-fabric-1.21.11-2.15",
+            "updateDate": 1765326957000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "f0ddf3c3ab482ac3222066c672de1e18c26b36fd",
+              "size": 140321,
+              "path": "mods/FpsReducer2-fabric-1.21.11-2.15.jar",
+              "url": "/mods/280294/7314073/FpsReducer2-fabric-1.21.11-2.15.jar"
+            },
+            "installed": 3070,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 15661,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760130000000,
+          "update": 1760130000000,
+          "downloadALL": 19851118,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 416089,
+          "name": "Simple Voice Chat",
+          "author": "henkelmax",
+          "uuid": "7d6a72e4-c34d-11ea-8f8c-b42e996a7d7a",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            }
+          ],
+          "picture": 778711,
+          "pictures": [],
+          "lanName": "simple-voice-chat",
+          "version": {
+            "id": 7361400,
+            "name": "voicechat-fabric-1.21.11-2.6.10",
+            "updateDate": 1766322009000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "b2906f756de948d6c778476546b2243ed2a68f36",
+              "size": 5564342,
+              "path": "mods/voicechat-fabric-1.21.11-2.6.10.jar",
+              "url": "/mods/416089/7361400/voicechat-fabric-1.21.11-2.6.10.jar"
+            },
+            "installed": 8350,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 83,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 204,
+              "name": "Mod Menu",
+              "gameEntityId": 308702,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 13556,
+              "name": "Melius Vanish",
+              "gameEntityId": 676275,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 4591,
+              "name": "AudioPlayer",
+              "gameEntityId": 549719,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 4594,
+              "name": "ViaFabric",
+              "gameEntityId": 391298,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 1009,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 4592,
+              "name": "LuckPerms",
+              "gameEntityId": 431733,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 4593,
+              "name": "Sound Physics Remastered",
+              "gameEntityId": 535489,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766264400000,
+          "update": 1766264400000,
+          "downloadALL": 4365611,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 687977,
+          "name": "Voice Chat Interaction",
+          "author": "henkelmax",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/voice-chat-interaction",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 846827,
+          "pictures": [],
+          "lanName": "voice-chat-interaction",
+          "version": {
+            "id": 7312202,
+            "name": "vcinteraction-fabric-1.21.11-1.0.8",
+            "updateDate": 1765298104000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "05f90ed4c6829f899e0220ae610d3e6e7292a300",
+              "size": 509043,
+              "path": "mods/vcinteraction-fabric-1.21.11-1.0.8.jar",
+              "url": "/mods/687977/7312202/vcinteraction-fabric-1.21.11-1.0.8.jar"
+            },
+            "installed": 69,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2269,
+              "name": "Simple Voice Chat",
+              "gameEntityId": 416089,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759784400000,
+          "update": 1759784400000,
+          "downloadALL": 9865,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 342584,
+          "name": "Collective",
+          "author": "serilum",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/collective",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787543,
+          "pictures": [],
+          "lanName": "collectivecollective357",
+          "version": {
+            "id": 7317667,
+            "name": "collective-1.21.11-8.13",
+            "updateDate": 1765400725000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "3489d194119cede1725f5853027f7c35639d8ddc",
+              "size": 963324,
+              "path": "mods/collective-1.21.11-8.13.jar",
+              "url": "/mods/342584/7317667/collective-1.21.11-8.13.jar"
+            },
+            "installed": 33307,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 444,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1761339600000,
+          "update": 1761339600000,
+          "downloadALL": 9355958,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 348831,
+          "name": "Double Doors",
+          "author": "serilum",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/double-doors",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 30,
+              "name": "technology_processing",
+              "shortName": "processing",
+              "nesting": 0
+            }
+          ],
+          "picture": 821362,
+          "pictures": [],
+          "lanName": "double-doors",
+          "version": {
+            "id": 7320358,
+            "name": "doubledoors-1.21.11-7.2",
+            "updateDate": 1765456806000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "941050bf7cd6eb1950b5329d34536a5b91cc5a55",
+              "size": 78341,
+              "path": "mods/doubledoors-1.21.11-7.2.jar",
+              "url": "/mods/348831/7320358/doubledoors-1.21.11-7.2.jar"
+            },
+            "installed": 1961,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 462,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1114,
+              "name": "Collective",
+              "gameEntityId": 342584,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1761253200000,
+          "update": 1761253200000,
+          "downloadALL": 1023660,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1388416,
+          "name": "XP Boost Enchantment (FabricForgeNeoForgeQuilt)",
+          "author": "lullaby6",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/xp-boost-enchantment",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            }
+          ],
+          "picture": 1286849,
+          "pictures": [],
+          "lanName": "xp-boost-enchantment",
+          "version": {
+            "id": 7380655,
+            "name": "xp-boost-enchantment-v1.0.2",
+            "updateDate": 1766755870000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "a99f0d54003907fb5cc3d77a0eca861cf1120490",
+              "size": 52994,
+              "path": "mods/xp-boost-enchantment-v1.0.2.jar",
+              "url": "/mods/1388416/7380655/xp-boost-enchantment-v1.0.2.jar"
+            },
+            "installed": 208,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766696400000,
+          "update": 1766696400000,
+          "downloadALL": 209,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 438332,
+          "name": "SuperMartijn642's Config Lib",
+          "author": "supermartijn642",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787819,
+          "pictures": [],
+          "lanName": "supermartijn642s-config-lib",
+          "version": {
+            "id": 7376955,
+            "name": "supermartijn642configlib-1.1.8-fabric-mc1.21.11",
+            "updateDate": 1766663270000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "c4236e8a850a6fe1c3ebca567f29888d569b4944",
+              "size": 205836,
+              "path": "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.11.jar",
+              "url": "/mods/438332/7376955/supermartijn642configlib-1.1.8-fabric-mc1.21.11.jar"
+            },
+            "installed": 1456,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 17,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766610000000,
+          "update": 1766610000000,
+          "downloadALL": 2700606,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 511040,
+          "name": "Durability Tooltip",
+          "author": "supermartijn642",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/durability-tooltip",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 821371,
+          "pictures": [],
+          "lanName": "durability-tooltip",
+          "version": {
+            "id": 7380227,
+            "name": "durabilitytooltip-1.1.6-fabric-mc1.21.11",
+            "updateDate": 1766749120000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "40283b139cfec67d9b9e42a1b4da592c03bc1dbf",
+              "size": 20261,
+              "path": "mods/durabilitytooltip-1.1.6-fabric-mc1.21.11.jar",
+              "url": "/mods/511040/7380227/durabilitytooltip-1.1.6-fabric-mc1.21.11.jar"
+            },
+            "installed": 1355,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1231,
+              "name": "SuperMartijn642's Config Lib",
+              "gameEntityId": 438332,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766696400000,
+          "update": 1766696400000,
+          "downloadALL": 1132162,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 535489,
+          "name": "Sound Physics Remastered",
+          "author": "henkelmax",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 787404,
+          "pictures": [],
+          "lanName": "sound-physics-remastered",
+          "version": {
+            "id": 7315220,
+            "name": "sound-physics-remastered-fabric-1.21.11-1.5.1",
+            "updateDate": 1765357509000,
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "f04c90b17094aaa849b147a42d4df9aa82d54ace",
+              "size": 203479,
+              "path": "mods/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+              "url": "/mods/535489/7315220/sound-physics-remastered-fabric-1.21.11-1.5.1.jar"
+            },
+            "installed": 1437,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4728,
+              "name": "Simple Voice Chat",
+              "gameEntityId": 416089,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 204,
+              "name": "Mod Menu",
+              "gameEntityId": 308702,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 1009,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1753390800000,
+          "update": 1753390800000,
+          "downloadALL": 2110026,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1283899,
+          "name": "Player Animation Library",
+          "author": "ZigyTheBird",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/player-animation-library",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1165910,
+          "pictures": [],
+          "lanName": "player-animation-library",
+          "version": {
+            "id": 7359037,
+            "name": "PlayerAnimationLibFabric-1.1.4+mc.1.21.11",
+            "updateDate": 1766266691000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "0222da33d80db628e05e94167dc0cd82df944195",
+              "size": 1151122,
+              "path": "mods/PlayerAnimationLibFabric-1.1.4%2Bmc.1.21.11.jar",
+              "url": "/mods/1283899/7359037/PlayerAnimationLibFabric-1.1.4%252Bmc.1.21.11.jar"
+            },
+            "installed": 569,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766178000000,
+          "update": 1766178000000,
+          "downloadALL": 11551,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 856996,
+          "name": "Cristel Lib",
+          "author": "Cristelknight Cristelknight",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cristel-lib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 787825,
+          "pictures": [],
+          "lanName": "cristel-lib",
+          "version": {
+            "id": 7334419,
+            "name": "cristellib-fabric-1.21.11-3.0.4",
+            "updateDate": 1765749777000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "6b535f989b04a86ef9bf36c5ab421cd772d12e7f",
+              "size": 554213,
+              "path": "mods/cristellib-fabric-1.21.11-3.0.4.jar",
+              "url": "/mods/856996/7334419/cristellib-fabric-1.21.11-3.0.4.jar"
+            },
+            "installed": 579,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1761426000000,
+          "update": 1761426000000,
+          "downloadALL": 1027897,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 626761,
+          "name": "Towns and Towers",
+          "author": "biban_auriu",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/towns-and-towers",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 808924,
+          "pictures": [
+            376013,
+            376017,
+            376014,
+            376020,
+            376015,
+            376021,
+            376016,
+            376024,
+            376018,
+            376022,
+            376023,
+            376019
+          ],
+          "lanName": "towns-and-towers",
+          "version": {
+            "id": 7341154,
+            "name": "t_and_t-fabric-neoforge-1.13.8",
+            "updateDate": 1765908988000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "101583aeea0b225828da7002df5d75f1ad844f8a",
+              "size": 3509100,
+              "path": "mods/t_and_t-fabric-neoforge-1.13.8.jar",
+              "url": "/mods/626761/7341154/t_and_t-fabric-neoforge-1.13.8.jar"
+            },
+            "installed": 1207,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5491,
+              "name": "Cristel Lib",
+              "gameEntityId": 856996,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760562000000,
+          "update": 1760562000000,
+          "downloadALL": 1591485,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1003666,
+          "name": "Luki's Grand Capitals",
+          "author": "lukidon",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lukis-grand-capitals",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 898696,
+          "pictures": [
+            803089,
+            803094,
+            803095,
+            803090,
+            803093,
+            803088,
+            803092,
+            803091
+          ],
+          "lanName": "lukis-grand-capitals",
+          "version": {
+            "id": 6786014,
+            "name": "lukis-grand-capitals-1.1.2",
+            "updateDate": 1752893196000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              }
+            ],
+            "metadata": {
+              "sha1": "bdf6cf6338e26825324da4ec2cc380b9f485a4a2",
+              "size": 11217284,
+              "path": "mods/lukis-grand-capitals-1.1.2.jar",
+              "url": "/mods/1003666/6786014/lukis-grand-capitals-1.1.2.jar"
+            },
+            "installed": 38965,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1752872400000,
+          "update": 1752872400000,
+          "downloadALL": 102677,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 667299,
+          "name": "YetAnotherConfigLib",
+          "author": "xanderisdev",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/yacl",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787607,
+          "pictures": [],
+          "lanName": "yacl",
+          "version": {
+            "id": 7305644,
+            "name": "yet_another_config_lib_v3-3.8.1+1.21.11-fabric",
+            "updateDate": 1765137671000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "dab747453ad62404398b3dfe08737b93e6065b7f",
+              "size": 1127252,
+              "path": "mods/yet_another_config_lib_v3-3.8.1%2B1.21.11-fabric.jar",
+              "url": "/mods/667299/7305644/yet_another_config_lib_v3-3.8.1%252B1.21.11-fabric.jar"
+            },
+            "installed": 4825,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759266000000,
+          "update": 1759266000000,
+          "downloadALL": 725395,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 570073,
+          "name": "Resourceful Lib",
+          "author": "thatgravyboat",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/resourceful-lib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821148,
+          "pictures": [],
+          "lanName": "resourceful-lib",
+          "version": {
+            "id": 7312676,
+            "name": "fabric-1.21.11-3.11.0",
+            "updateDate": 1765305515000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "6a198fc18cdb7922b6be74d3ec165dc57729657a",
+              "size": 460433,
+              "path": "mods/ResourcefulLib-fabric-1.21.11-3.11.0.jar",
+              "url": "/mods/570073/7312676/ResourcefulLib-fabric-1.21.11-3.11.0.jar"
+            },
+            "installed": 200,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759611600000,
+          "update": 1759611600000,
+          "downloadALL": 762739,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 551364,
+          "name": "Friends&Foes (FabricQuilt) (Copper Golem,Crab,Glare,Moobloom,Iceologer,Rascal,Tuff Golem,Wildfire,Illusioner,Zombie Horse)",
+          "author": "faboslav",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/friends-and-foes",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1165825,
+          "pictures": [
+            287673,
+            287676,
+            287678,
+            287680,
+            287679,
+            287675,
+            287683,
+            323480,
+            287674,
+            287677,
+            287682,
+            287681
+          ],
+          "lanName": "friends-and-foes",
+          "version": {
+            "id": 7396051,
+            "name": "friendsandfoes-fabric-4.0.19+mc1.21.11",
+            "updateDate": 1767095478000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "534c4bf5fb61a5169591c3131e365e1b5484bdc8",
+              "size": 4168518,
+              "path": "mods/friendsandfoes-fabric-4.0.19%2Bmc1.21.11.jar",
+              "url": "/mods/551364/7396051/friendsandfoes-fabric-4.0.19%252Bmc1.21.11.jar"
+            },
+            "installed": 60,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 204,
+              "name": "Mod Menu",
+              "gameEntityId": 308702,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 3746,
+              "name": "YetAnotherConfigLib",
+              "gameEntityId": 667299,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 3908,
+              "name": "Resourceful Lib",
+              "gameEntityId": 570073,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1767042000000,
+          "update": 1767042000000,
+          "downloadALL": 42099,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1409762,
+          "name": "Grim Kingdoms Lost structures & ruins",
+          "author": "HardWater",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/grim-kingdoms-lost-structures-ruins",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1283286,
+          "pictures": [
+            1283554,
+            1283556,
+            1283555,
+            1283553
+          ],
+          "lanName": "grim-kingdoms-lost-structures-ruins",
+          "version": {
+            "id": 7367245,
+            "name": "grim-kingdoms-lost-structures-ruins-v1.0.0 (1.21+)",
+            "updateDate": 1766443058000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "f02e3e4481a2c689157639bf2e40743ca394ecf7",
+              "size": 6712569,
+              "path": "mods/grim-kingdoms-lost-structures-ruins-v1.0.0%20(1.21%2B).jar",
+              "url": "/mods/1409762/7367245/grim-kingdoms-lost-structures-ruins-v1.0.0%2520(1.21%252B).jar"
+            },
+            "installed": 869,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766350800000,
+          "update": 1766350800000,
+          "downloadALL": 1042,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1189105,
+          "name": "Magical Scepter",
+          "author": "pistonpoek",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/magical-scepter",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1012602,
+          "pictures": [
+            1013048,
+            1013050,
+            1013049,
+            1013047
+          ],
+          "lanName": "magical-scepter",
+          "version": {
+            "id": 7343783,
+            "name": "magicalscepter-1.2.0+mc.1.21.11",
+            "updateDate": 1765973195000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "99a67687d352f2d644e3ae85acc12fa535f3a419",
+              "size": 722642,
+              "path": "mods/magicalscepter-1.2.0%2Bmc.1.21.11.jar",
+              "url": "/mods/1189105/7343783/magicalscepter-1.2.0%252Bmc.1.21.11.jar"
+            },
+            "installed": 16,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760216400000,
+          "update": 1760216400000,
+          "downloadALL": 525,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1083491,
+          "name": "Cursed Spawners",
+          "author": "Provismet",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cursed-spawners",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 972782,
+          "pictures": [
+            972793,
+            972791,
+            972792,
+            972790
+          ],
+          "lanName": "cursed-spawners",
+          "version": {
+            "id": 7370128,
+            "name": "cursed-spawners-1.0.0+1.21.11",
+            "updateDate": 1766510210000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "6ce2c233b5ee1811d1e323f08d28f8821d2665b1",
+              "size": 335529,
+              "path": "mods/cursed-spawners-1.0.0%2B1.21.11.jar",
+              "url": "/mods/1083491/7370128/cursed-spawners-1.0.0%252B1.21.11.jar"
+            },
+            "installed": 0,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760562000000,
+          "update": 1760562000000,
+          "downloadALL": 28,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 698309,
+          "name": "Explorify – Dungeons & Structures",
+          "author": "bebebea_loste",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/explorify",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 787837,
+          "pictures": [
+            376855,
+            381338,
+            373919,
+            376854,
+            376857,
+            373921,
+            373918,
+            373917,
+            376853,
+            376856
+          ],
+          "lanName": "explorify",
+          "version": {
+            "id": 7092252,
+            "name": "Explorify v1.6.4 f15-88.mod",
+            "updateDate": 1760130927000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "5a9b99242bdb9437396f5a3c78decc567adab6a5",
+              "size": 951495,
+              "path": "mods/Explorify v1.6.4 f15-88.mod.jar",
+              "url": "/mods/698309/7092252/Explorify%20v1.6.4%20f15-88.mod.jar"
+            },
+            "installed": 178238,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760043600000,
+          "update": 1760043600000,
+          "downloadALL": 1036077,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1369306,
+          "name": "Shields Knock Back",
+          "author": "cintlep",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/shields-knock-back",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1252377,
+          "pictures": [
+            1252593
+          ],
+          "lanName": "shields-knock-back",
+          "version": {
+            "id": 7131397,
+            "name": "shieldsknockback1.0+1.21.5",
+            "updateDate": 1761003417000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              }
+            ],
+            "metadata": {
+              "sha1": "e58064112f44fae0450689490b35493924cf9631",
+              "size": 25526,
+              "path": "mods/shieldsknockback1.0+1.21.5.jar",
+              "url": "/mods/1369306/7131397/shieldsknockback1.0+1.21.5.jar"
+            },
+            "installed": 185,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760907600000,
+          "update": 1760907600000,
+          "downloadALL": 257,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 394468,
+          "name": "Sodium",
+          "author": "jellysquid_",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/sodium",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 809954,
+          "pictures": [],
+          "lanName": "sodium",
+          "version": {
+            "id": 7366772,
+            "name": "sodium-fabric-0.8.2+mc1.21.11",
+            "updateDate": 1766435890000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "eaae2b226d76079e56ae6f5d4f5dc96214bd49d3",
+              "size": 1876396,
+              "path": "mods/sodium-fabric-0.8.2%2Bmc1.21.11.jar",
+              "url": "/mods/394468/7366772/sodium-fabric-0.8.2%252Bmc1.21.11.jar"
+            },
+            "installed": 113395,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 889,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766350800000,
+          "update": 1766350800000,
+          "downloadALL": 30078270,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 455508,
+          "name": "Iris Shaders",
+          "author": "coderbot",
+          "uuid": "425fe2ba-b049-11e9-9fef-002590a1379b",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/irisshaders",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 821266,
+          "pictures": [],
+          "lanName": "irisshaders",
+          "version": {
+            "id": 7366850,
+            "name": "iris-fabric-1.10.4+mc1.21.11",
+            "updateDate": 1766437083000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "5b9a93e688af07555b6ded6ed95366a4197f74bb",
+              "size": 2795436,
+              "path": "mods/iris-fabric-1.10.4%2Bmc1.21.11.jar",
+              "url": "/mods/455508/7366850/iris-fabric-1.10.4%252Bmc1.21.11.jar"
+            },
+            "installed": 4167,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1847,
+              "name": "Sodium",
+              "gameEntityId": 394468,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766350800000,
+          "update": 1766350800000,
+          "downloadALL": 2522508,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [
+        {
+          "stateGameElement": "active",
+          "id": -90066249230300,
+          "name": "Новый мир",
+          "favorite": false,
+          "version": {
+            "id": -90066250989200,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Новый мир"
+              ],
+              "size": 0,
+              "path": "saves/Новый мир",
+              "url": "saves/Новый мир"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -90066251025200,
+          "name": "Новый мир (1)",
+          "favorite": false,
+          "version": {
+            "id": -90066251085100,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Новый мир (1)"
+              ],
+              "size": 0,
+              "path": "saves/Новый мир (1)",
+              "url": "saves/Новый мир (1)"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        }
+      ],
+      "shaderpacks": [
+        {
+          "stateGameElement": "no_active",
+          "id": 759541,
+          "name": "Noble Shaders",
+          "author": "belmu",
+          "linkProject": "https://www.curseforge.com/minecraft/customization/noble-shaders",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 71,
+              "name": "configuration",
+              "shortName": "configuration",
+              "nesting": 0
+            }
+          ],
+          "picture": 535777,
+          "pictures": [
+            497929,
+            406926,
+            497928,
+            517859,
+            497930,
+            386015,
+            406928,
+            497931,
+            386013,
+            386016,
+            517858
+          ],
+          "lanName": "noble-shaders",
+          "version": {
+            "id": 7360354,
+            "name": "Noble v1.8.5",
+            "updateDate": 1766294715000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 35,
+                "name": "1.18.2"
+              },
+              {
+                "id": 34,
+                "name": "1.18.1"
+              },
+              {
+                "id": 33,
+                "name": "1.18"
+              },
+              {
+                "id": 32,
+                "name": "1.17.1"
+              },
+              {
+                "id": 39,
+                "name": "1.17"
+              },
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 30,
+                "name": "1.16.4"
+              },
+              {
+                "id": 29,
+                "name": "1.16.3"
+              },
+              {
+                "id": 28,
+                "name": "1.16.2"
+              },
+              {
+                "id": 27,
+                "name": "1.16.1"
+              },
+              {
+                "id": 40,
+                "name": "1.16"
+              }
+            ],
+            "metadata": {
+              "sha1": "f2cabd917034fe705532ae00e827d4cf6b5f1211",
+              "size": 11483246,
+              "path": "shaderpacks/Noble%20v1.8.5.zip",
+              "url": "/shaderpacks/759541/7360354/Noble%2520v1.8.5.zip"
+            },
+            "installed": 10659,
+            "available": false,
+            "minecraftVersionTypes": []
+          },
+          "popularity": 3,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1693764000000,
+          "update": 1693764000000,
+          "downloadALL": 260452,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 602290,
+          "name": "Miniature Shader",
+          "author": "msterrubi",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://www.curseforge.com/minecraft/customization/miniature-shader",
+          "favorite": false,
+          "categories": [],
+          "picture": 483487,
+          "pictures": [
+            311128,
+            311131,
+            311127,
+            311130,
+            311129,
+            311132
+          ],
+          "lanName": "miniature-shader",
+          "version": {
+            "id": 7347786,
+            "name": "miniature-shader-2.18.6",
+            "updateDate": 1766008308000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 35,
+                "name": "1.18.2"
+              },
+              {
+                "id": 34,
+                "name": "1.18.1"
+              },
+              {
+                "id": 33,
+                "name": "1.18"
+              },
+              {
+                "id": 32,
+                "name": "1.17.1"
+              },
+              {
+                "id": 39,
+                "name": "1.17"
+              },
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 30,
+                "name": "1.16.4"
+              },
+              {
+                "id": 29,
+                "name": "1.16.3"
+              },
+              {
+                "id": 28,
+                "name": "1.16.2"
+              },
+              {
+                "id": 27,
+                "name": "1.16.1"
+              },
+              {
+                "id": 40,
+                "name": "1.16"
+              },
+              {
+                "id": 26,
+                "name": "1.15.2"
+              },
+              {
+                "id": 25,
+                "name": "1.15.1"
+              },
+              {
+                "id": 24,
+                "name": "1.15"
+              },
+              {
+                "id": 23,
+                "name": "1.14.4"
+              },
+              {
+                "id": 22,
+                "name": "1.14.3"
+              },
+              {
+                "id": 21,
+                "name": "1.14.2"
+              },
+              {
+                "id": 42,
+                "name": "1.14.1"
+              },
+              {
+                "id": 41,
+                "name": "1.14"
+              },
+              {
+                "id": 19,
+                "name": "1.13.2"
+              },
+              {
+                "id": 1,
+                "name": "1.12.2"
+              },
+              {
+                "id": 2,
+                "name": "1.12.1"
+              },
+              {
+                "id": 3,
+                "name": "1.12"
+              },
+              {
+                "id": 4,
+                "name": "1.11.2"
+              },
+              {
+                "id": 5,
+                "name": "1.11"
+              },
+              {
+                "id": 6,
+                "name": "1.10.2"
+              },
+              {
+                "id": 20,
+                "name": "1.10"
+              },
+              {
+                "id": 7,
+                "name": "1.9.4"
+              },
+              {
+                "id": 8,
+                "name": "1.9"
+              },
+              {
+                "id": 9,
+                "name": "1.8.9"
+              },
+              {
+                "id": 10,
+                "name": "1.8.8"
+              },
+              {
+                "id": 11,
+                "name": "1.8"
+              },
+              {
+                "id": 12,
+                "name": "1.7.10"
+              },
+              {
+                "id": 13,
+                "name": "1.7.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "4339b8b1716239a4cd7fd637641b771954dc4321",
+              "size": 36391,
+              "path": "shaderpacks/miniature-shader-2.18.6.zip",
+              "url": "/shaderpacks/602290/7347786/miniature-shader-2.18.6.zip"
+            },
+            "installed": 70632,
+            "available": false,
+            "minecraftVersionTypes": []
+          },
+          "popularity": 5,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1686765600000,
+          "update": 1686765600000,
+          "downloadALL": 1816013,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        }
+      ],
+      "gameVersionDTO": {
+        "id": 66,
+        "name": "1.21.11"
+      },
+      "minecraftVersionName": {
+        "id": 10515,
+        "name": "0.18.4"
+      },
+      "id": -1226593370969301,
+      "name": "1.0",
+      "available": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 2,
+          "name": "fabric"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.21.11",
+  "skinVersion": false
+}

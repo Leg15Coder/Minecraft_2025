@@ -1,0 +1,9 @@
+/kill
+/tp Leg15 0 100 0
+/kill @e[type=minecraft:ender_dragon]
+/locate biome minecraft:pale_garden
+/tp @s -1477 67 2290
+/tp 2000 ~ -2000
+/locate biome minecraft:pale_garden
+/tp @s 3952 116 -4528
+/time set night
