@@ -12,15 +12,15 @@
 ## Установка сборки через TLauncher
 
 1. **Скачать сборку из GitHub** 
-	1.1) Первый способ (используя git):
-		
-      - Введи в командной строке `git clone https://github.com/Leg15Coder/Minecraft_2025.git`
+	
+   1.1) Первый способ (используя git):
+      - Введи в командной строке `git clone -b client-new --single-branch --depth 1 https://github.com/Leg15Coder/Minecraft_2025.git`
 		- `git chechout -b client-new`
 
 	1.2) Второй способ:
 	   
       - Открой репозиторий:  `https://github.com/Leg15Coder/Minecraft_2025`  
-	   - Переключись на ветку `client-new`.  
+	   - Переключись на ветку `client-new`.
 	   - Нажми `Code` → `Download ZIP` и распакуй архив в любую папку.
 
 2. **Подготовить папку версии TLauncher**  
