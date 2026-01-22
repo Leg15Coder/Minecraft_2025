@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enchantinginfuser:advanced_enchanting_infuser"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchantinginfuser:enchanting_infuser"
+		}
+	]
+}

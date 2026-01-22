@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "wardentools:incorrect_for_sculkhyst_tools"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:incorrect_for_warden_tools"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:storage_blocks/amethyst_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:storage_blocks/echo"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:storage_blocks/rose_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:storage_blocks/warden"
+		}
+	]
+}

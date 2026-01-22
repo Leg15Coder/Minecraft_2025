@@ -1,0 +1,1860 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:antlers_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:apostolic_cross_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:armet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:barbedclub"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:barbute"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:barding"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bascinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bear_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:big_plume_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:blacksmith_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bowl_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:brigandine_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bull_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bullhorns_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:cat_ears_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:ceremonial_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:ceremonial_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:ceremonialarmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:chainmail_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:chainmail_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:chainmail_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:chainmail_horse_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:chainmail_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:chess_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:club"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:coif"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:corruptedroundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:crown_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:crusader_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:crusader_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:crusader_cross_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:crusader_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:cuirassier_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:cuirassier_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:cuirassier_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:cuirassier_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:darkening_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:demon_horns_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:dragon_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:dragon_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:duck_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:eagle_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:ecranche_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:face_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:feathers_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:flowercrown_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gambeson_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gambeson_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gazelle_horns_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gilding_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gothic_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gothic_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gothic_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:grand_bascinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:greathelm"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:griffin_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:halfarmor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:heavy_crossbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:hilt"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:hood_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:horse_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:horse_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:jousting_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:jousting_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:jousting_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:kastenbrust_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:kastenbrust_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:kastenbrust_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:kettlehat"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:knight_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:knight_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:knight_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:lamellar_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:lamellar_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:lamellar_rows"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:leather_strip"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:lily_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:lily_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:lion1_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:lion2_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:lion_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:longbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:maximilian_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:maximilian_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:maximilian_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:maximilian_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:medieval_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:messer_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:minicrown_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:noble_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:norman_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:orthodox_cross_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:pantyhose"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:pitchfork"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:platemail_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:platemail_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:platemail_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:plume_left_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:plume_middle_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:plume_right_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:pole"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rondel_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rusted_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rusted_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustedbarbute"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustedchainmail_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustedchainmail_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustedchainmail_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustedchainmail_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustedcrusader_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustedcrusader_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustedgreathelm"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustedhalfarmor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustedkettlehat"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:rustednorman_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:sallet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:shishak"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:small_steel_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:snake_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:spike_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stechhelm"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_chainmail"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:sun_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:swords_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:torse_and_mantle_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:torse_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tower_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tree_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:two_headed_eagle_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:two_plumes_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:unicorn_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:viking_horns_decoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wingedhussar_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_ahlspiess"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_bastardsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_buckler"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_chainmorgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_chivalrylance"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_concavehalberd"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_ellipticalshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_estoc"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_flamebladedsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_guisarme"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_heatershield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_heavymace"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_heavywarhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_katzbalger"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_kiteshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_lochaberaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_lucernhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_morgenstern"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_pavese"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_ranseur"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_rondache"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_roundshield"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_shortsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_stylet"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_tartsche"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_zweihander"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:woolen_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:xivcenturyknight_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:xivcenturyknight_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:xivcenturyknight_leggings"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enchantinginfuser:blocks/advanced_enchanting_infuser",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "enchantinginfuser:blocks/enchanting_infuser",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

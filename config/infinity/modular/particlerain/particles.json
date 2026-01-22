@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "particlerain:dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:dust_haze"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:mist"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:rain_haze"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:ripple"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:snow_haze"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:streak"
+		}
+	]
+}

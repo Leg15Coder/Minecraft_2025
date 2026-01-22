@@ -1,0 +1,185 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "structory:abandoned_camp",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structory:abandoned_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:abandoned_chapel",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structory:abandoned_chapel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:boat",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "structory:boat"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:dense_forest_ruin",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structory:dense_forest_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:firetower",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structory:firetower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:graveyard",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structory:graveyard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:jungle_ruin",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:creeper",
+								"weight": 10,
+								"minCount": 4,
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"id": "structory:jungle_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:northern_ruin",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structory:northern_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:old_manor",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "structory:old_manor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast_villager_desert",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structory:outcast_villager_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast_villager_grassy",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structory:outcast_villager_grassy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:ruin_grassy",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structory:ruin_grassy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:swamp_ruin",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"id": "structory:swamp_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:taiga_ruin_surface",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "structory:taiga_ruin_surface"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:taiga_ruin_underground",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "structory:taiga_ruin_underground"
+			}
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "coolrain:rain_sounds_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "coolrain:rain_sounds_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "coolrain:rain_sounds_foliage"
+		},
+		{
+			"weight": 1.0,
+			"key": "coolrain:rain_sounds_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "coolrain:rain_sounds_lava"
+		},
+		{
+			"weight": 1.0,
+			"key": "coolrain:rain_sounds_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "coolrain:rain_sounds_noteblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "coolrain:rain_sounds_water"
+		}
+	]
+}

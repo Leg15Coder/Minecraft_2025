@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "wardentools:amethyst_sonic_boom"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:ender_sonic_boom"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:rose_gold_sonic_boom"
+		}
+	]
+}

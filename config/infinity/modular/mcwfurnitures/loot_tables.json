@@ -1,0 +1,4568 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/acacia_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/birch_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/black_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/black_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/blue_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/blue_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/brown_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/brown_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cherry_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/crimson_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cyan_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/cyan_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/dark_oak_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/gray_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/gray_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/green_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/green_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/jungle_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/light_blue_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/light_blue_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/light_gray_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/light_gray_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/lime_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/lime_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/magenta_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/magenta_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/mangrove_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/oak_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/orange_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/orange_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/pink_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/pink_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/purple_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/purple_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/red_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/red_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/spruce_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_acacia_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_birch_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_cherry_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_crimson_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_dark_oak_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_jungle_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_mangrove_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_oak_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_spruce_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/stripped_warped_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_bookshelf",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_bookshelf_cupboard",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_coffee_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_covered_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_cupboard_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_double_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_double_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_double_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_double_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_drawer_counter",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_end_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_glass_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_glass_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_kitchen_cabinet",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_kitchen_sink",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_large_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_lower_bookshelf_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_lower_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_modern_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_modern_desk",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_modern_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_stool_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_striped_chair",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_triple_drawer",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/warped_wardrobe",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/white_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/white_couch",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/yellow_chaise",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:blocks/yellow_couch",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

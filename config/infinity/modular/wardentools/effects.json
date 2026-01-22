@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculk_adaption",
+			"data": {
+				"Instant": false,
+				"Color": 37525,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculk_scourge",
+			"data": {
+				"Instant": false,
+				"Color": 675936,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_curse",
+			"data": {
+				"Instant": false,
+				"Color": 213328,
+				"Category": "neutral"
+			}
+		}
+	]
+}

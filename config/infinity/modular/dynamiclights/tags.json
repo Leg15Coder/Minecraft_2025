@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dynamiclights:affected_by_gravity"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamiclights:air"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamiclights:avoid"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamiclights:breaks_piston_push_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamiclights:extends_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamiclights:piston"
+		}
+	]
+}
