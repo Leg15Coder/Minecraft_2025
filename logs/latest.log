@@ -1,14 +1,14 @@
-[19:01:49] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.4
-[19:01:49] [ForkJoinPool-1-worker-18/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[20:01:59] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.4
+[20:02:00] [ForkJoinPool-1-worker-17/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[19:01:49] [main/WARN]: Warnings were found!
+[20:02:01] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.9.1+mod recommends any version of midnightlib, which is missing!
 	 - You should install any version of midnightlib for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.6 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Sodium Extra' (sodium-extra) 0.6.0+mc1.21.1 recommends version 1.4.2 or later of reeses-sodium-options, which is missing!
 	 - You should install version 1.4.2 or later of reeses-sodium-options for the optimal experience.
-[19:01:49] [main/INFO]: Loading 167 mods:
+[20:02:01] [main/INFO]: Loading 149 mods:
 	- appleskin 3.0.6+mc1.21
 	- architectury 13.0.8
 	- armored-elytra 1.1.0
@@ -16,32 +16,6 @@
 	   \-- kuma_api 21.0.7
 	- bettercombat 2.3.1+1.21.1
 	   \-- tiny_config 3.1.0
-	- c2me 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-base 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-client-uncapvd 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-fixes-chunkio-threading-issues 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-fixes-general-threading-issues 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-fixes-worldgen-threading-issues 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-notickvd 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-opts-allocs 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-opts-chunkio 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-opts-dfc 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-opts-math 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-opts-scheduling 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-opts-worldgen-general 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-opts-worldgen-vanilla 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-rewrites-chunk-serializer 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-rewrites-chunk-system 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-rewrites-chunkio 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-server-utils 0.3.0+alpha.0.362+1.21.1
-	   |-- c2me-threading-lighting 0.3.0+alpha.0.362+1.21.1
-	   |-- com_ibm_async_asyncutil 0.1.0
-	   |-- io_reactivex_rxjava3_rxjava 3.1.12
-	   |-- mixinsquared 0.2.0-beta.6
-	   |-- net_objecthunter_exp4j 0.4.8
-	   |-- org_jctools_jctools-core 4.0.5
-	   \-- org_reactivestreams_reactive-streams 1.0.4
 	- carryon 2.2.4
 	- cloth-config 15.0.140
 	   \-- cloth-basic-math 0.6.1
@@ -126,20 +100,27 @@
 	   |-- org_anarres_jcpp 1.4.14
 	   \-- org_antlr_antlr4-runtime 4.13.1
 	- java 21
+	- jei 19.27.0.340
+	- jeresources 1.6.0.17
 	- journeymap 1.21.1-6.0.0-beta.53
 	   |-- ar_com_hjg_pngj 2.1.0
 	   |-- commonnetworking 1.0.18-1.21.1
 	   \-- journeymap-api-fabric 2.0.0-1.21.1-SNAPSHOT
+	- justmobheads 8.5
 	- magistuarmory 10.3
 	- mcwfurnitures 3.4.1
 	- minecraft 1.21.1
 	- mousetweaks 2.26
 	- mr_dungeons_andtaverns 1-v4.4.4
+	- mr_grim_kingdomsloststructuresruins 1-v1.0.0
 	- mr_ly_lifestealenchantment 1-v1.1.0
 	- mr_ly_veinminerenchantment 1-v1.0.4
 	- mr_magnetic_enchantment 1-v1.0.5
+	- mr_true_ending 1-v1.1.2d
 	- mr_vanilla_backpacks 1.3.5
+	- mr_villager_guards 1-v1.1.5
 	- mr_xp_boostenchantment 1-v1.0.2
+	- mutantmonsters 21.1.1
 	- naturescompass 1.21.1-2.2.7-fabric
 	- notenoughanimations 1.11.1
 	   |-- transition 1.0.11
@@ -156,6 +137,7 @@
 	- sodium 0.6.13+mc1.21.1
 	- sodium-extra 0.6.0+mc1.21.1
 	- sodiumleafculling 1.0.1
+	   \-- mixinsquared 0.2.0-beta.6
 	- sound_physics_remastered 1.21.1-1.5.1
 	- storagedrawers 13.11.4
 	- structory 1.3.14
@@ -178,449 +160,444 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[19:01:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/user/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
-[19:01:51] [main/INFO]: Compatibility level set to JAVA_21
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[19:01:52] [main/INFO]: Global Executor Parallelism: 14 configured, 14 evaluated, 14 default evaluated
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.client.uncapvd.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[19:01:52] [main/INFO]: Disabling com.ishland.c2me.opts.dfc.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[19:01:52] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@13.0.8 (*) (defined in c2me)
-[19:01:52] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[19:01:52] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[19:01:52] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:52] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:52] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:52] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:52] [main/INFO]: OptiFine was NOT detected.
-[19:01:52] [main/INFO]: OptiFabric was NOT detected.
-[19:01:52] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:52] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:52] [main/WARN]: Reference map 'particlerain.refmap.json' for particlerain.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:52] [main/INFO]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
-[19:01:53] [main/INFO]: Loaded configuration file for Sodium Extra: 36 options available, 0 override(s) found
-[19:01:53] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:53] [main/WARN]: Reference map 'tiny_config-common-common-refmap.json' for tiny_config.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:53] [main/WARN]: Reference map 'wardentools.refmap.json' for wardentools.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:53] [main/WARN]: Reference map 'wardentools.refmap.json' for wardentools.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:53] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:53] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:01:53] [main/WARN]: Error loading class: mezz/jei/fabric/platform/RenderHelper (java.lang.ClassNotFoundException: mezz/jei/fabric/platform/RenderHelper)
-[19:01:53] [main/WARN]: @Mixin target mezz.jei.fabric.platform.RenderHelper was not found appleskin.jei.mixins.json:JEIRenderHelperMixin from mod appleskin
-[19:01:53] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
-[19:01:53] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
-[19:01:53] [main/WARN]: Error loading class: net/vulkanmod/config/option/Options (java.lang.ClassNotFoundException: net/vulkanmod/config/option/Options)
-[19:01:53] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[19:01:54] [main/WARN]: Error loading class: com/tom/storagemod/block/entity/StorageTerminalBlockEntity (java.lang.ClassNotFoundException: com/tom/storagemod/block/entity/StorageTerminalBlockEntity)
-[19:01:54] [main/WARN]: Error loading class: net/raphimc/immediatelyfast/feature/core/BatchableBufferSource (java.lang.ClassNotFoundException: net/raphimc/immediatelyfast/feature/core/BatchableBufferSource)
-[19:01:54] [main/WARN]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev/tr7zw/skinlayers/render/CustomizableModelPart)
-[19:01:54] [main/INFO]: bre2el.fpsreducer.mixin.MinecraftClientMixin will be applied.
-[19:01:54] [main/INFO]: bre2el.fpsreducer.mixin.KeyboardMixin will be applied.
-[19:01:54] [main/INFO]: bre2el.fpsreducer.mixin.RenderSystemMixin will be applied.
-[19:01:54] [main/INFO]: bre2el.fpsreducer.mixin.WindowMixin will NOT be applied because OptiFine was NOT detected.
-[19:01:55] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[19:01:55] [main/WARN]: Force-disabling mixin 'features.render.world.sky.FogRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
-[19:01:55] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientLevelMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
-[19:01:55] [main/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
-[19:01:55] [main/INFO]: Searching for graphics cards...
-[19:01:55] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=NVIDIA, description='NVIDIA GeForce RTX 5070 Laptop GPU', adapterType=0x00002313, openglIcdFilePath='C:\Windows\System32\DriverStore\FileRepository\nvmii.inf_amd64_c5b5db3e12daa5e3\nvoglv64.dll', openglIcdVersion=32.0.15.8157}
-[19:01:55] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=INTEL, description='Intel(R) RaptorLake-S Mobile Graphics Controller', adapterType=0x0000232B, openglIcdFilePath='C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_5be8959d15ef38fd\igxelpicd64.dll', openglIcdVersion=32.0.101.6078}
-[19:01:55] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS_BROKEN]
-[19:01:55] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
-[19:01:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[19:01:59] [Datafixer Bootstrap/INFO]: 226 Datafixer optimizations took 1340 milliseconds
-[19:02:14] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:02:14] [Render thread/INFO]: Setting user: Leg15
-[19:02:16] [Render thread/INFO]: Loading Collective version 8.13.
-[19:02:16] [Render thread/INFO]: Initializing network...
-[19:02:16] [Render thread/INFO]: Initialized network!
-[19:02:17] [Render thread/ERROR]: No data fixer registered for deeperdarker:angler_fish
-[19:02:17] [Render thread/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
-[19:02:17] [Render thread/ERROR]: No data fixer registered for deeperdarker:sculk_leech
-[19:02:17] [Render thread/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
-[19:02:17] [Render thread/ERROR]: No data fixer registered for deeperdarker:shattered
-[19:02:17] [Render thread/ERROR]: No data fixer registered for deeperdarker:shriek_worm
-[19:02:17] [Render thread/ERROR]: No data fixer registered for deeperdarker:sludge
-[19:02:17] [Render thread/ERROR]: No data fixer registered for deeperdarker:stalker
-[19:02:17] [Render thread/ERROR]: No data fixer registered for crystallized_amber
-[19:02:17] [Render thread/ERROR]: No data fixer registered for sculk_jaw
-[19:02:17] [Render thread/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[19:02:18] [Render thread/INFO]: Constructing common components for enchantinginfuser:main
-[19:02:18] [Render thread/INFO]: EquipLib was successfully loaded
-[19:02:26] [Render thread/INFO]: Initializing ServerSide Packet Registries
-[19:02:26] [Render thread/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[19:02:27] [Render thread/INFO]: chyz: There's a snake in my prison pocket
-[19:02:27] [Render thread/INFO]: Constructing common components for puzzleslib:main
-[19:02:28] [Render thread/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
-[19:02:28] [Render thread/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
-[19:02:28] [Render thread/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
-[19:02:28] [Render thread/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
-[19:02:28] [Render thread/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
-[19:02:28] [Render thread/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
-[19:02:28] [Render thread/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
-[19:02:28] [Render thread/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
-[19:02:28] [Render thread/INFO]: New compacting rule 9 minecraft:bamboo = 1 minecraft:bamboo_block
-[19:02:28] [Render thread/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
-[19:02:28] [Render thread/INFO]: New denied storage item storagedrawers:creative_vending_upgrade
-[19:02:28] [Render thread/INFO]: Adding ore conversions for types: c:storage_blocks, c:ingots, c:nuggets
-[19:02:28] [Render thread/INFO]: Adding ore conversions for materials: aluminum, constantan, steel, uranium, invar, tin, lead, silver, platinum, nickel, osmium, bronze, electrum
-[19:02:28] [Render thread/INFO]: [voicechat] Compatibility version 20
-[19:02:28] [Render thread/INFO]: [voicechat] Loading plugins
-[19:02:28] [Render thread/INFO]: [voicechat] Loaded 2 plugin(s)
-[19:02:28] [Render thread/INFO]: [voicechat] Initializing plugins
-[19:02:28] [Render thread/INFO]: Initializing Simple Voice Chat integration
-[19:02:28] [Render thread/INFO]: [voicechat] Initialized 2 plugin(s)
-[19:02:28] [Render thread/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
-[19:02:28] [Render thread/INFO]: [voicechat] Registering events for 'vcinteraction'
-[19:02:28] [Render thread/INFO]: Adding Warden Tools Game Events
-[19:02:28] [Render thread/INFO]: Registering Effects for Warden Tools...
-[19:02:28] [Render thread/INFO]: adding armor sets...
-[19:02:28] [Render thread/INFO]: Registering items for Warden Tools...
-[19:02:28] [Render thread/INFO]: Registering blocks for Warden Tools
-[19:02:28] [Render thread/INFO]: Registering armor materials for Warden Tools...
-[19:02:28] [Render thread/INFO]: Registering particles for Warden Tools...
-[19:02:28] [Render thread/INFO]: Adding Warden Tools potions to the game...
-[19:02:28] [Render thread/INFO]: Registering warden data components...
-[19:02:28] [Render thread/INFO]: Registering warden enchantment effect components...
-[19:02:28] [Render thread/ERROR]: No data fixer registered for sculk_arrow
-[19:02:28] [Render thread/INFO]: Registering Warden Tools Entities...
-[19:02:28] [Render thread/INFO]: Registering Warden Tools triggers...
-[19:02:28] [Render thread/INFO]: Adding creative tab for Warden Tools
-[19:02:29] [Render thread/INFO]: [STDOUT]: Initialize WeaponMaster
-[19:02:29] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
-[19:02:30] [Render thread/INFO]: Initializing model layers
-[19:02:30] [Render thread/INFO]: Registering models
-[19:02:30] [Render thread/INFO]: Constructing client components for enchantinginfuser:main
-[19:02:30] [Render thread/INFO]: [ETF]: Modifying ETF Render State constructor because: for EMF
-[19:02:30] [Render thread/INFO]: Loading Entity Model Features, allegedly compatible with the OptiFine format.
-[19:02:30] [Render thread/INFO]: [ETF]: 6 new ETF Random Properties registered by entity_model_features
-[19:02:30] [Render thread/INFO]: Loading Entity Texture Features, Curse you Perry the Platypus!
-[19:02:31] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
-[19:02:31] [Render thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[19:02:31] [Render thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@20cc5723 for service interface journeymap.api.services.ClientPlatformService
-[19:02:31] [Render thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@7985c7ed for service interface journeymap.api.services.CommonPlatformService
-[19:02:31] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Main.initialize()
-[19:02:31] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Initialized.
-[19:02:31] [Render thread/INFO]: Constructing client components for puzzleslib:main
-[19:02:32] [Render thread/INFO]: Reloading reverb parameters
-[19:02:32] [Render thread/INFO]: [STDOUT]: [LibGui] Initializing Client...
-[19:02:32] [Render thread/INFO]: [voicechat] Initializing Opus
-[19:02:32] [Render thread/INFO]: [voicechat] Successfully initialized Opus
-[19:02:32] [Render thread/INFO]: [voicechat] Initializing RNNoise
-[19:02:32] [Render thread/INFO]: [voicechat] Successfully initialized RNNoise
-[19:02:32] [Render thread/INFO]: [voicechat] Initializing Speex
-[19:02:32] [Render thread/INFO]: [voicechat] Successfully initialized Speex
-[19:02:32] [Render thread/INFO]: [voicechat] Initializing LAME
-[19:02:33] [Render thread/INFO]: [voicechat] Successfully initialized LAME
-[19:02:33] [Render thread/INFO]: [voicechat] Using Cloth Config GUI
-[19:02:33] [Render thread/INFO]: Deserializing YACLConfig from 'C:\Users\user\AppData\Roaming\.minecraft\versions\Minetest 2.0\config\yacl.json5'
-[19:02:33] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] This version doesn't have an update index, skipping.
-[19:02:33] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
-[19:02:34] [Render thread/INFO]: Modifying process environment to apply workarounds for the NVIDIA graphics driver...
-[19:02:37] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
-[19:02:37] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 5070 Laptop GPU/PCIe/SSE2
-[19:02:37] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 581.57
-[19:02:37] [Render thread/INFO]: Modifying OpenGL context to apply workarounds for the NVIDIA graphics driver...
-[19:02:37] [Render thread/INFO]: Enabling GL_DEBUG_OUTPUT_SYNCHRONOUS to force the NVIDIA driver to disable threadedcommand submission
-[19:02:37] [Render thread/INFO]: Debug functionality is disabled.
-[19:02:37] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
-[19:02:37] [Render thread/WARN]: Ignoring ambiguous boolean option CLOUDSHADOWSONLY
-[19:02:37] [Render thread/WARN]: Ignoring ambiguous boolean option WEATHER
-[19:02:37] [Render thread/WARN]: Ignoring ambiguous boolean option CLOUDSHADOWSONLY
-[19:02:37] [Render thread/WARN]: Ignoring ambiguous boolean option LIGHTSOURCE_REFLECTION
-[19:02:37] [Render thread/WARN]: Ignoring ambiguous boolean option LIGHTSOURCE_REFLECTION
-[19:02:37] [Render thread/WARN]: Ignoring ambiguous boolean option WORLD
-[19:02:37] [Render thread/WARN]: Ignoring ambiguous boolean option WORLD
-[19:02:37] [Render thread/WARN]: Unable to resolve shader pack option menu element "Snowy_Winter" defined in shaders.properties
-[19:02:37] [Render thread/INFO]: Profile: SHADER_VERSION_LABEL (+0 options changed by user)
-[19:02:38] [Render thread/WARN]: Found missing "\" in file "block.properties" in block entry: "humility-afm:led_pink \"
-[19:02:38] [Render thread/WARN]: At ID: "block.261"
-[19:02:38] [Render thread/INFO]: Using shaderpack: Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip
-[19:02:38] [Render thread/INFO]: Hardware information:
-[19:02:38] [Render thread/INFO]: CPU: 24x Intel(R) Core(TM) i7-14650HX
-[19:02:38] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 5070 Laptop GPU/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 581.57)
-[19:02:38] [Render thread/INFO]: OS: Windows 10 (10.0)
-[19:02:38] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, appleskin, armored-elytra, balm, bettercombat, c2me, carryon, cloth-config, coolrain, corgilib, cristellib, customportalapi, deeperdarker, dungeons_arise, durabilitytooltip, dynamiclights, enchantinginfuser, entity_model_features, entity_texture_features, entityculling, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fallingtree, forgeconfigapiport, fpsreducer, infinity, iris, journeymap, magistuarmory, mcwfurnitures, mr_dungeons_andtaverns, mr_vanilla_backpacks, naturescompass, notenoughanimations, owo, particlerain, playeranimator, simplefog, sodium, sodium-extra, sodiumleafculling, sound_physics_remastered, storagedrawers, trender, voicechat, wardentools, waystones, weaponmaster_ydm, yet_another_config_lib_v3
-[19:02:38] [Worker-Main-20/INFO]: Found unifont_jp_patch-15.1.05.hex, loading
-[19:02:38] [Worker-Main-10/INFO]: Found unifont_all_no_pua-15.1.05.hex, loading
-[19:02:39] [Worker-Main-18/WARN]: Missing sprite: antiquelegacy:textures/entity/bronze_republic_scutum_pattern.png
-[19:02:39] [Worker-Main-18/WARN]: Missing sprite: antiquelegacy:textures/entity/bronze_republic_scutum_nopattern.png
-[19:02:39] [Render thread/INFO]: Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
-[19:02:39] [Render thread/INFO]: Found @JourneyMapPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
-[19:02:39] [Worker-Main-21/WARN]: Texture backpacks:item/gui/go_back with size 18x18 limits mip level from 4 to 1
-[19:02:39] [Worker-Main-21/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
-[19:02:39] [Worker-Main-1/ERROR]: GET request failed. Response Code: 404
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'infinity:blockstates/haunted_air.json' missing model for variant: 'infinity:haunted_air#'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'infinity:blockstates/rail_helper.json' missing model for variant: 'infinity:rail_helper#'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=1'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=1'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=1'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=1'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=1'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=1'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=1'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=1'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=1'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=1'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=0'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=15'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=14'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=13'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=12'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=11'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=10'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=9'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=8'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=7'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=6'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=5'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=4'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=3'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=2'
-[19:02:39] [Worker-Main-20/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=1'
-[19:02:40] [Worker-Main-20/WARN]: Unable to load model: 'magistuarmory:item/cat_ears_decoration' referenced from: magistuarmory:item/cat_ears_decoration: java.io.FileNotFoundException: magistuarmory:models/item/cat_ears_decoration.json
-[19:02:40] [Worker-Main-20/WARN]: Unable to load model: 'backpacks:item/backpacks/normal/backpack_1' referenced from: minecraft:item/stick: java.io.FileNotFoundException: backpacks:models/item/backpacks/normal/backpack_1.json
-[19:02:40] [Worker-Main-20/WARN]: Unable to load model: 'backpacks:item/backpacks/normal/backpack_3' referenced from: minecraft:item/stick: java.io.FileNotFoundException: backpacks:models/item/backpacks/normal/backpack_3.json
-[19:02:40] [Worker-Main-20/WARN]: Unable to load model: 'backpacks:item/backpacks/normal/backpack_2' referenced from: minecraft:item/stick: java.io.FileNotFoundException: backpacks:models/item/backpacks/normal/backpack_2.json
-[19:02:41] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
-[19:02:41] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[19:02:41] [Render thread/WARN]: Missing sound for event: deeperdarker:ambience.portal.groan
-[19:02:42] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Динамики (2- Realtek(R) Audio)
-[19:02:42] [Render thread/INFO]: Initializing Sound Physics
-[19:02:42] [Render thread/INFO]: EFX Extension recognized
-[19:02:42] [Render thread/INFO]: Max auxiliary sends: 4
-[19:02:42] [Render thread/INFO]: Aux slot 1 created
-[19:02:42] [Render thread/INFO]: Aux slot 2 created
-[19:02:42] [Render thread/INFO]: Aux slot 3 created
-[19:02:42] [Render thread/INFO]: Aux slot 4 created
-[19:02:42] [Render thread/INFO]: EFX ready
-[19:02:42] [Render thread/INFO]: Sound engine started
-[19:02:42] [Render thread/INFO]: Created: 4096x2048x1 minecraft:textures/atlas/blocks.png-atlas
-[19:02:42] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[19:02:42] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[19:02:42] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[19:02:42] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[19:02:42] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[19:02:42] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[19:02:42] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[19:02:42] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:heatershield#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:target#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:buckler#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:rondache#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:tartsche#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:ellipticalshield#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:roundshield#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:pavese#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:kiteshield#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:conic_helmet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:crusader#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:armet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:barbute#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:kettlehat#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:default#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:default_leggings#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:corruptedroundshield#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:stechhelm#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:sallet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:maximilian_helmet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:bascinet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:wingedhussarchestplate#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:grand_bascinet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:crown#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:flowercrown#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:minicrown#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
-[19:02:43] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
-[19:02:43] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
-[19:02:43] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/particles.png-atlas
-[19:02:43] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[19:02:43] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[19:02:43] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[19:02:43] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[19:02:43] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[19:02:43] [Render thread/WARN]: Shader journeymap:sepia_3 could not find uniform named ColorModulator in the specified shader program.
-[19:02:43] [Render thread/WARN]: Shader journeymap:sepia_2 could not find uniform named ColorModulator in the specified shader program.
-[19:02:43] [Render thread/WARN]: Shader journeymap:sepia_1 could not find uniform named ColorModulator in the specified shader program.
-[19:02:43] [Render thread/INFO]: [ETF]: reloading ETF data.
-[19:02:43] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}
-[19:02:43] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}
-[19:02:43] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
-[19:02:44] [Render thread/WARN]: The in declaration 'tempOffsets' in the deferred FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:02:44] [Render thread/WARN]: The in declaration 'normalMat' in the sps FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:02:44] [Render thread/WARN]: The in declaration 'tangent' in the sps FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:02:44] [Render thread/WARN]: The in declaration 'normalMat' in the entities_eyes FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:02:44] [Render thread/WARN]: The in declaration 'tangent' in the entities_eyes FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:02:44] [Render thread/WARN]: The in declaration 'tangent' in the entities_eyes_trans FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:02:44] [Render thread/WARN]: The in declaration 'normalMat' in the entities_eyes_trans FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:02:45] [Render thread/WARN]: The in declaration 'tangent' in the beacon FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:02:45] [Render thread/WARN]: The in declaration 'normalMat' in the beacon FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:02:45] [Render thread/WARN]: The in declaration 'normalMat' in the mekanism_flame FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:02:45] [Render thread/WARN]: The in declaration 'tangent' in the mekanism_flame FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
-[19:03:18] [Render thread/INFO]: Stopping!
-[19:03:18] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
-[19:03:18] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}
+[20:02:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/user/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[20:02:25] [main/INFO]: Compatibility level set to JAVA_21
+[20:02:27] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/INFO]: OptiFine was NOT detected.
+[20:02:27] [main/INFO]: OptiFabric was NOT detected.
+[20:02:27] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'mutantmonsters.fabric.refmap.json' for mutantmonsters.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'particlerain.refmap.json' for particlerain.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/INFO]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[20:02:27] [main/INFO]: Loaded configuration file for Sodium Extra: 36 options available, 0 override(s) found
+[20:02:27] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'tiny_config-common-common-refmap.json' for tiny_config.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'wardentools.refmap.json' for wardentools.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'wardentools.refmap.json' for wardentools.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:27] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:28] [main/WARN]: Error loading class: com/tom/storagemod/block/entity/StorageTerminalBlockEntity (java.lang.ClassNotFoundException: com/tom/storagemod/block/entity/StorageTerminalBlockEntity)
+[20:02:28] [main/WARN]: Error loading class: net/raphimc/immediatelyfast/feature/core/BatchableBufferSource (java.lang.ClassNotFoundException: net/raphimc/immediatelyfast/feature/core/BatchableBufferSource)
+[20:02:28] [main/WARN]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev/tr7zw/skinlayers/render/CustomizableModelPart)
+[20:02:29] [main/INFO]: bre2el.fpsreducer.mixin.MinecraftClientMixin will be applied.
+[20:02:29] [main/INFO]: bre2el.fpsreducer.mixin.KeyboardMixin will be applied.
+[20:02:29] [main/INFO]: bre2el.fpsreducer.mixin.RenderSystemMixin will be applied.
+[20:02:29] [main/INFO]: bre2el.fpsreducer.mixin.WindowMixin will NOT be applied because OptiFine was NOT detected.
+[20:02:29] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[20:02:30] [main/WARN]: Force-disabling mixin 'features.render.world.sky.FogRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[20:02:30] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientLevelMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[20:02:30] [main/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[20:02:30] [main/INFO]: Searching for graphics cards...
+[20:02:31] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=NVIDIA, description='NVIDIA GeForce RTX 5070 Laptop GPU', adapterType=0x00002313, openglIcdFilePath='C:\Windows\System32\DriverStore\FileRepository\nvmii.inf_amd64_c5b5db3e12daa5e3\nvoglv64.dll', openglIcdVersion=32.0.15.8157}
+[20:02:31] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=INTEL, description='Intel(R) RaptorLake-S Mobile Graphics Controller', adapterType=0x0000232B, openglIcdFilePath='C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_5be8959d15ef38fd\igxelpicd64.dll', openglIcdVersion=32.0.101.6078}
+[20:02:31] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS_BROKEN]
+[20:02:31] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[20:02:32] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[20:02:38] [Datafixer Bootstrap/INFO]: 226 Datafixer optimizations took 1726 milliseconds
+[20:03:02] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:03:02] [Render thread/INFO]: Setting user: Leg15
+[20:03:04] [Render thread/INFO]: Loading Collective version 8.13.
+[20:03:04] [Render thread/INFO]: Initializing network...
+[20:03:04] [Render thread/INFO]: Initialized network!
+[20:03:06] [Render thread/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[20:03:06] [Render thread/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[20:03:06] [Render thread/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[20:03:06] [Render thread/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[20:03:06] [Render thread/ERROR]: No data fixer registered for deeperdarker:shattered
+[20:03:06] [Render thread/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[20:03:06] [Render thread/ERROR]: No data fixer registered for deeperdarker:sludge
+[20:03:06] [Render thread/ERROR]: No data fixer registered for deeperdarker:stalker
+[20:03:06] [Render thread/ERROR]: No data fixer registered for crystallized_amber
+[20:03:06] [Render thread/ERROR]: No data fixer registered for sculk_jaw
+[20:03:06] [Render thread/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[20:03:06] [Render thread/INFO]: Constructing common components for enchantinginfuser:main
+[20:03:07] [Render thread/INFO]: EquipLib was successfully loaded
+[20:03:18] [Render thread/INFO]: Initializing ServerSide Packet Registries
+[20:03:19] [Render thread/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[20:03:20] [Render thread/ERROR]: No data fixer registered for skull_spirit
+[20:03:20] [Render thread/INFO]: Constructing common components for mutantmonsters:main
+[20:03:20] [Render thread/INFO]: Dispatching loading event for config mutantmonsters-common.toml
+[20:03:20] [Render thread/ERROR]: No data fixer registered for creeper_minion
+[20:03:20] [Render thread/ERROR]: No data fixer registered for mutant_creeper
+[20:03:20] [Render thread/ERROR]: No data fixer registered for mutant_enderman
+[20:03:20] [Render thread/ERROR]: No data fixer registered for mutant_skeleton
+[20:03:20] [Render thread/ERROR]: No data fixer registered for mutant_snow_golem
+[20:03:20] [Render thread/ERROR]: No data fixer registered for mutant_zombie
+[20:03:20] [Render thread/ERROR]: No data fixer registered for spider_pig
+[20:03:20] [Render thread/ERROR]: No data fixer registered for body_part
+[20:03:20] [Render thread/ERROR]: No data fixer registered for creeper_minion_egg
+[20:03:20] [Render thread/ERROR]: No data fixer registered for endersoul_clone
+[20:03:20] [Render thread/ERROR]: No data fixer registered for endersoul_fragment
+[20:03:20] [Render thread/ERROR]: No data fixer registered for throwable_block
+[20:03:21] [Render thread/INFO]: remember to update ubuntu, before it is too late
+[20:03:21] [Render thread/INFO]: Constructing common components for puzzleslib:main
+[20:03:22] [Render thread/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[20:03:22] [Render thread/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
+[20:03:22] [Render thread/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
+[20:03:22] [Render thread/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
+[20:03:22] [Render thread/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
+[20:03:22] [Render thread/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
+[20:03:22] [Render thread/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
+[20:03:22] [Render thread/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
+[20:03:22] [Render thread/INFO]: New compacting rule 9 minecraft:bamboo = 1 minecraft:bamboo_block
+[20:03:22] [Render thread/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[20:03:22] [Render thread/INFO]: New denied storage item storagedrawers:creative_vending_upgrade
+[20:03:22] [Render thread/INFO]: Adding ore conversions for types: c:storage_blocks, c:ingots, c:nuggets
+[20:03:22] [Render thread/INFO]: Adding ore conversions for materials: aluminum, constantan, steel, uranium, invar, tin, lead, silver, platinum, nickel, osmium, bronze, electrum
+[20:03:22] [Render thread/INFO]: [voicechat] Compatibility version 20
+[20:03:22] [Render thread/INFO]: [voicechat] Loading plugins
+[20:03:22] [Render thread/INFO]: [voicechat] Loaded 2 plugin(s)
+[20:03:22] [Render thread/INFO]: [voicechat] Initializing plugins
+[20:03:22] [Render thread/INFO]: Initializing Simple Voice Chat integration
+[20:03:22] [Render thread/INFO]: [voicechat] Initialized 2 plugin(s)
+[20:03:22] [Render thread/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[20:03:22] [Render thread/INFO]: [voicechat] Registering events for 'vcinteraction'
+[20:03:22] [Render thread/INFO]: Adding Warden Tools Game Events
+[20:03:22] [Render thread/INFO]: Registering Effects for Warden Tools...
+[20:03:22] [Render thread/INFO]: adding armor sets...
+[20:03:22] [Render thread/INFO]: Registering items for Warden Tools...
+[20:03:22] [Render thread/INFO]: Registering blocks for Warden Tools
+[20:03:22] [Render thread/INFO]: Registering armor materials for Warden Tools...
+[20:03:22] [Render thread/INFO]: Registering particles for Warden Tools...
+[20:03:22] [Render thread/INFO]: Adding Warden Tools potions to the game...
+[20:03:22] [Render thread/INFO]: Registering warden data components...
+[20:03:22] [Render thread/INFO]: Registering warden enchantment effect components...
+[20:03:22] [Render thread/ERROR]: No data fixer registered for sculk_arrow
+[20:03:22] [Render thread/INFO]: Registering Warden Tools Entities...
+[20:03:22] [Render thread/INFO]: Registering Warden Tools triggers...
+[20:03:22] [Render thread/INFO]: Adding creative tab for Warden Tools
+[20:03:23] [Render thread/INFO]: [STDOUT]: Initialize WeaponMaster
+[20:03:24] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[20:03:25] [Render thread/INFO]: Initializing model layers
+[20:03:25] [Render thread/INFO]: Registering models
+[20:03:25] [Render thread/INFO]: Constructing client components for enchantinginfuser:main
+[20:03:25] [Render thread/INFO]: [ETF]: Modifying ETF Render State constructor because: for EMF
+[20:03:25] [Render thread/INFO]: Loading Entity Model Features, breaking your resource packs since April 1st 2023.
+[20:03:25] [Render thread/INFO]: [ETF]: 6 new ETF Random Properties registered by entity_model_features
+[20:03:25] [Render thread/INFO]: Loading Entity Texture Features, breaking your resource packs since 17 Jan 2022.
+[20:03:25] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[20:03:26] [Render thread/INFO]: Sending ConfigManager...
+[20:03:26] [Render thread/INFO]: Sending ConfigManager took 3.113 milliseconds
+[20:03:26] [Render thread/INFO]: Loaded
+[20:03:26] [Render thread/ERROR]: C:\Users\user\AppData\Roaming\.minecraft\versions\Minetest 2.0\config\jeresources.json (Не удается найти указанный файл)
+[20:03:26] [Render thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[20:03:26] [Render thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@a365d77 for service interface journeymap.api.services.ClientPlatformService
+[20:03:26] [Render thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@543ac274 for service interface journeymap.api.services.CommonPlatformService
+[20:03:26] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Main.initialize()
+[20:03:26] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Initialized.
+[20:03:26] [Render thread/INFO]: Constructing client components for mutantmonsters:main
+[20:03:27] [Render thread/INFO]: Constructing client components for puzzleslib:main
+[20:03:27] [Render thread/INFO]: Reloading reverb parameters
+[20:03:27] [Render thread/INFO]: [STDOUT]: [LibGui] Initializing Client...
+[20:03:27] [Render thread/INFO]: [voicechat] Initializing Opus
+[20:03:27] [Render thread/INFO]: [voicechat] Successfully initialized Opus
+[20:03:27] [Render thread/INFO]: [voicechat] Initializing RNNoise
+[20:03:27] [Render thread/INFO]: [voicechat] Successfully initialized RNNoise
+[20:03:27] [Render thread/INFO]: [voicechat] Initializing Speex
+[20:03:27] [Render thread/INFO]: [voicechat] Successfully initialized Speex
+[20:03:27] [Render thread/INFO]: [voicechat] Initializing LAME
+[20:03:27] [Render thread/INFO]: [voicechat] Successfully initialized LAME
+[20:03:27] [Render thread/INFO]: [voicechat] Using Cloth Config GUI
+[20:03:27] [Render thread/INFO]: Deserializing YACLConfig from 'C:\Users\user\AppData\Roaming\.minecraft\versions\Minetest 2.0\config\yacl.json5'
+[20:03:28] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[20:03:29] [Render thread/INFO]: Modifying process environment to apply workarounds for the NVIDIA graphics driver...
+[20:03:29] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] This version doesn't have an update index, skipping.
+[20:03:32] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[20:03:32] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 5070 Laptop GPU/PCIe/SSE2
+[20:03:32] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 581.57
+[20:03:32] [Render thread/INFO]: Modifying OpenGL context to apply workarounds for the NVIDIA graphics driver...
+[20:03:32] [Render thread/INFO]: Enabling GL_DEBUG_OUTPUT_SYNCHRONOUS to force the NVIDIA driver to disable threadedcommand submission
+[20:03:33] [Render thread/INFO]: Debug functionality is disabled.
+[20:03:33] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[20:03:33] [Render thread/WARN]: Ignoring ambiguous boolean option CLOUDSHADOWSONLY
+[20:03:33] [Render thread/WARN]: Ignoring ambiguous boolean option WEATHER
+[20:03:33] [Render thread/WARN]: Ignoring ambiguous boolean option CLOUDSHADOWSONLY
+[20:03:33] [Render thread/WARN]: Ignoring ambiguous boolean option LIGHTSOURCE_REFLECTION
+[20:03:33] [Render thread/WARN]: Ignoring ambiguous boolean option LIGHTSOURCE_REFLECTION
+[20:03:33] [Render thread/WARN]: Ignoring ambiguous boolean option WORLD
+[20:03:33] [Render thread/WARN]: Ignoring ambiguous boolean option WORLD
+[20:03:33] [Render thread/WARN]: Unable to resolve shader pack option menu element "Snowy_Winter" defined in shaders.properties
+[20:03:33] [Render thread/INFO]: Profile: SHADER_VERSION_LABEL (+0 options changed by user)
+[20:03:34] [Render thread/WARN]: Found missing "\" in file "block.properties" in block entry: "humility-afm:led_pink \"
+[20:03:34] [Render thread/WARN]: At ID: "block.261"
+[20:03:34] [Render thread/INFO]: Using shaderpack: Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip
+[20:03:34] [Render thread/WARN]: Removed resource pack jei from options because it is no longer compatible
+[20:03:34] [Render thread/WARN]: Removed resource pack jeresources from options because it is no longer compatible
+[20:03:35] [Render thread/INFO]: Hardware information:
+[20:03:35] [Render thread/INFO]: CPU: 24x Intel(R) Core(TM) i7-14650HX
+[20:03:35] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 5070 Laptop GPU/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 581.57)
+[20:03:35] [Render thread/INFO]: OS: Windows 10 (10.0)
+[20:03:35] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, appleskin, armored-elytra, balm, bettercombat, carryon, cloth-config, coolrain, corgilib, cristellib, customportalapi, deeperdarker, dungeons_arise, durabilitytooltip, dynamiclights, enchantinginfuser, entity_model_features, entity_texture_features, entityculling, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fallingtree, forgeconfigapiport, fpsreducer, infinity, iris, jei, jeresources, journeymap, magistuarmory, mcwfurnitures, mr_dungeons_andtaverns, mr_true_ending, mr_vanilla_backpacks, mutantmonsters, naturescompass, notenoughanimations, owo, particlerain, playeranimator, simplefog, sodium, sodium-extra, sodiumleafculling, sound_physics_remastered, storagedrawers, trender, voicechat, wardentools, waystones, weaponmaster_ydm, yet_another_config_lib_v3
+[20:03:36] [Worker-Main-9/INFO]: Found unifont_all_no_pua-15.1.05.hex, loading
+[20:03:36] [Render thread/INFO]: Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[20:03:36] [Render thread/INFO]: Found @JourneyMapPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[20:03:36] [Worker-Main-8/WARN]: Missing sprite: antiquelegacy:textures/entity/bronze_republic_scutum_pattern.png
+[20:03:36] [Worker-Main-8/WARN]: Missing sprite: antiquelegacy:textures/entity/bronze_republic_scutum_nopattern.png
+[20:03:36] [Worker-Main-21/INFO]: Found unifont_jp_patch-15.1.05.hex, loading
+[20:03:37] [Worker-Main-1/ERROR]: GET request failed. Response Code: 404
+[20:03:38] [Worker-Main-1/WARN]: Texture backpacks:item/gui/go_back with size 18x18 limits mip level from 4 to 1
+[20:03:38] [Worker-Main-1/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'infinity:blockstates/haunted_air.json' missing model for variant: 'infinity:haunted_air#'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'infinity:blockstates/rail_helper.json' missing model for variant: 'infinity:rail_helper#'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=1'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/wood_pavise.json' missing model for variant: 'magistuarmory:wood_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=1'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/gold_pavise.json' missing model for variant: 'magistuarmory:gold_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=1'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/stone_pavise.json' missing model for variant: 'magistuarmory:stone_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/iron_pavise.json' missing model for variant: 'magistuarmory:iron_pavise#rotation=1'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=1'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/diamond_pavise.json' missing model for variant: 'magistuarmory:diamond_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=1'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/netherite_pavise.json' missing model for variant: 'magistuarmory:netherite_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=1'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/tin_pavise.json' missing model for variant: 'magistuarmory:tin_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=1'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/copper_pavise.json' missing model for variant: 'magistuarmory:copper_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=1'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/silver_pavise.json' missing model for variant: 'magistuarmory:silver_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=1'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/bronze_pavise.json' missing model for variant: 'magistuarmory:bronze_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=0'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=15'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=14'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=13'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=12'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=11'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=10'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=9'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=8'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=7'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=6'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=5'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=4'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=3'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=2'
+[20:03:38] [Worker-Main-19/WARN]: Exception loading blockstate definition: 'magistuarmory:blockstates/steel_pavise.json' missing model for variant: 'magistuarmory:steel_pavise#rotation=1'
+[20:03:39] [Worker-Main-19/WARN]: Unable to load model: 'magistuarmory:item/cat_ears_decoration' referenced from: magistuarmory:item/cat_ears_decoration: java.io.FileNotFoundException: magistuarmory:models/item/cat_ears_decoration.json
+[20:03:39] [Worker-Main-19/WARN]: Unable to load model: 'backpacks:item/backpacks/normal/backpack_1' referenced from: minecraft:item/stick: java.io.FileNotFoundException: backpacks:models/item/backpacks/normal/backpack_1.json
+[20:03:39] [Worker-Main-19/WARN]: Unable to load model: 'backpacks:item/backpacks/normal/backpack_3' referenced from: minecraft:item/stick: java.io.FileNotFoundException: backpacks:models/item/backpacks/normal/backpack_3.json
+[20:03:39] [Worker-Main-19/WARN]: Unable to load model: 'backpacks:item/backpacks/normal/backpack_2' referenced from: minecraft:item/stick: java.io.FileNotFoundException: backpacks:models/item/backpacks/normal/backpack_2.json
+[20:03:41] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[20:03:41] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[20:03:41] [Render thread/WARN]: Missing sound for event: deeperdarker:ambience.portal.groan
+[20:03:42] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Динамики (2- Realtek(R) Audio)
+[20:03:42] [Render thread/INFO]: Initializing Sound Physics
+[20:03:42] [Render thread/INFO]: EFX Extension recognized
+[20:03:42] [Render thread/INFO]: Max auxiliary sends: 4
+[20:03:42] [Render thread/INFO]: Aux slot 1 created
+[20:03:42] [Render thread/INFO]: Aux slot 2 created
+[20:03:42] [Render thread/INFO]: Aux slot 3 created
+[20:03:42] [Render thread/INFO]: Aux slot 4 created
+[20:03:42] [Render thread/INFO]: EFX ready
+[20:03:42] [Render thread/INFO]: Sound engine started
+[20:03:43] [Render thread/INFO]: Created: 4096x2048x1 minecraft:textures/atlas/blocks.png-atlas
+[20:03:43] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[20:03:43] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:03:43] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:03:43] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[20:03:43] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[20:03:43] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[20:03:43] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[20:03:43] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:heatershield#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:target#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:buckler#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:rondache#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:tartsche#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:ellipticalshield#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:roundshield#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:pavese#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:kiteshield#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:conic_helmet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:crusader#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:armet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:barbute#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:kettlehat#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:default#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:default_leggings#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:corruptedroundshield#main]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:stechhelm#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:sallet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:maximilian_helmet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:bascinet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:wingedhussarchestplate#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:grand_bascinet#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:crown#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:flowercrown#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:44] [Render thread/ERROR]: [EMF]: model attempted creation more than 64 times {magistuarmory:minicrown#armor]. EMF is now ignoring this model. Please inform the mod maker that this is not how entity models are meant to be utilised. They should ALWAYS be stored and reused.
+[20:03:45] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
+[20:03:45] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
+[20:03:45] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/particles.png-atlas
+[20:03:45] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[20:03:45] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:03:45] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[20:03:45] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[20:03:45] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[20:03:45] [Render thread/WARN]: Shader journeymap:sepia_3 could not find uniform named ColorModulator in the specified shader program.
+[20:03:45] [Render thread/WARN]: Shader journeymap:sepia_2 could not find uniform named ColorModulator in the specified shader program.
+[20:03:45] [Render thread/WARN]: Shader journeymap:sepia_1 could not find uniform named ColorModulator in the specified shader program.
+[20:03:45] [Render thread/INFO]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[20:03:45] [Render thread/INFO]: [ETF]: reloading ETF data.
+[20:03:45] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}
+[20:03:45] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}
+[20:03:45] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[20:03:46] [Render thread/WARN]: The in declaration 'tempOffsets' in the deferred FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:47] [Render thread/WARN]: The in declaration 'normalMat' in the sps FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:47] [Render thread/WARN]: The in declaration 'tangent' in the sps FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:48] [Render thread/WARN]: The in declaration 'tangent' in the entities_eyes FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:48] [Render thread/WARN]: The in declaration 'normalMat' in the entities_eyes FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:48] [Render thread/WARN]: The in declaration 'tangent' in the entities_eyes_trans FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:48] [Render thread/WARN]: The in declaration 'normalMat' in the entities_eyes_trans FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:48] [Render thread/WARN]: The in declaration 'tangent' in the beacon FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:48] [Render thread/WARN]: The in declaration 'normalMat' in the beacon FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:48] [Render thread/WARN]: The in declaration 'tangent' in the mekanism_flame FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:48] [Render thread/WARN]: The in declaration 'normalMat' in the mekanism_flame FRAGMENT shader that is never assigned to in the previous stage VERTEX has been compatibility-patched by adding an initialization for it. See debugging.md for more information.
+[20:03:52] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[20:03:52] [Render thread/INFO]: Stopping!
+[20:03:52] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}

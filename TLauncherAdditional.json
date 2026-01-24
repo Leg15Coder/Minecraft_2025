@@ -5156,44 +5156,77 @@
         },
         {
           "stateGameElement": "active",
-          "id": 533097,
-          "name": "Concurrent Chunk Management Engine",
-          "author": "ishlandmc",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/c2me",
+          "id": -709425633680900,
+          "name": "owo-lib-0.12.15.4+1.21",
+          "favorite": false,
+          "version": {
+            "id": -709425645724200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d",
+              "size": 1183559,
+              "path": "mods/owo-lib-0.12.15.4+1.21.jar",
+              "url": "mods/owo-lib-0.12.15.4+1.21.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "author": "mezz",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/jei",
           "favorite": false,
           "categories": [
             {
-              "id": 22,
-              "name": "mc_miscellaneous",
-              "shortName": "mixed",
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
               "nesting": 0
             }
           ],
-          "picture": 922663,
+          "picture": 821131,
           "pictures": [
-            974053,
-            1279990,
-            974052,
-            1279989
+            24089,
+            24069,
+            24081,
+            24074
           ],
-          "lanName": "c2me",
+          "lanName": "jei",
           "version": {
-            "id": 7176425,
-            "name": "c2me-fabric-mc1.21.1-0.3.0+alpha.0.362",
-            "updateDate": 1762051891000,
+            "id": 7420583,
+            "name": "jei-1.21.1-fabric-19.27.0.340",
+            "updateDate": 1767612673000,
+            "type": "beta",
             "gameVersionsDTO": [
               {
                 "id": 53,
                 "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
               }
             ],
             "metadata": {
-              "sha1": "9beac89c94f36a342cb07cd9fcb42608bdd07771",
-              "size": 4701117,
-              "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar",
-              "url": "/mods/533097/7176425/c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar"
+              "sha1": "7a7d5546db421639cd89b7807e9bb6def176cf89",
+              "size": 1561711,
+              "path": "mods/jei-1.21.1-fabric-19.27.0.340.jar",
+              "url": "/mods/238222/7420583/jei-1.21.1-fabric-19.27.0.340.jar"
             },
-            "installed": 3673,
+            "installed": 20502,
             "available": false,
             "minecraftVersionTypes": [
               {
@@ -5202,7 +5235,261 @@
               }
             ]
           },
-          "popularity": 3,
+          "popularity": 5,
+          "downloadMonth": 74909,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1767733200000,
+          "update": 1767733200000,
+          "downloadALL": 79119155,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 852665,
+          "name": "Mutant Monsters",
+          "author": "Fuzs Fuzs shcott21 Chumbanotz LunaPixelStudios",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mutant-monsters",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 787862,
+          "pictures": [],
+          "lanName": "mutant-monsters",
+          "version": {
+            "id": 7232508,
+            "name": "v21.1.1-1.21.1-Fabric",
+            "updateDate": 1763388346000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "ea07a218e3c5a7e342505d33ca19d896ba5afd53",
+              "size": 1318293,
+              "path": "mods/MutantMonsters-v21.1.1-1.21.1-Fabric.jar",
+              "url": "/mods/852665/7232508/MutantMonsters-v21.1.1-1.21.1-Fabric.jar"
+            },
+            "installed": 366,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 841,
+              "name": "Forge Config API Port",
+              "gameEntityId": 547434,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 969,
+              "name": "Puzzles Lib",
+              "gameEntityId": 495476,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766696400000,
+          "update": 1766696400000,
+          "downloadALL": 373449,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 240630,
+          "name": "Just Enough Resources (JER)",
+          "author": "Way2muchnoise",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 821141,
+          "pictures": [],
+          "lanName": "just-enough-resources-jer",
+          "version": {
+            "id": 6506299,
+            "name": "JustEnoughResources-Fabric-1.21.1-1.6.0.17",
+            "updateDate": 1746644781000,
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "3ec90637c4eba5664649e3e2c514e8b43ba107d1",
+              "size": 245461,
+              "path": "mods/JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar",
+              "url": "/mods/240630/6506299/JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar"
+            },
+            "installed": 11459,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 1789,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 65,
+            "name": "1.21.10"
+          },
+          "updated": 1739048400000,
+          "update": 1739048400000,
+          "downloadALL": 4328903,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1263163,
+          "name": "Villager Guards (FabricForgeNeoForgeQuilt)",
+          "author": "lullaby6",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/villager-guards",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 1132169,
+          "pictures": [
+            1132468,
+            1132467,
+            1132469
+          ],
+          "lanName": "villager-guards",
+          "version": {
+            "id": 7145848,
+            "name": "villager-guards-v1.1.5-1.21.1",
+            "updateDate": 1761341072000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "992cea172d45e9505e0bb47ab25ad41f1db800f3",
+              "size": 482299,
+              "path": "mods/villager-guards-v1.1.5-1.21.1.jar",
+              "url": "/mods/1263163/7145848/villager-guards-v1.1.5-1.21.1.jar"
+            },
+            "installed": 4841,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 2,
           "downloadMonth": 0,
           "userInstall": false,
           "populateStatus": false,
@@ -5211,12 +5498,322 @@
             "id": 66,
             "name": "1.21.11"
           },
-          "updated": 1767128400000,
-          "update": 1767128400000,
-          "downloadALL": 119587,
+          "updated": 1761253200000,
+          "update": 1761253200000,
+          "downloadALL": 94098,
           "available": true,
           "parser": true,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1409762,
+          "name": "Grim Kingdoms Lost structures & ruins",
+          "author": "HardWater",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/grim-kingdoms-lost-structures-ruins",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 1283286,
+          "pictures": [
+            1283554,
+            1283555,
+            1283556,
+            1283553
+          ],
+          "lanName": "grim-kingdoms-lost-structures-ruins",
+          "version": {
+            "id": 7367245,
+            "name": "grim-kingdoms-lost-structures-ruins-v1.0.0 (1.21+)",
+            "updateDate": 1766443058000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "f02e3e4481a2c689157639bf2e40743ca394ecf7",
+              "size": 6712569,
+              "path": "mods/grim-kingdoms-lost-structures-ruins-v1.0.0%20(1.21%2B).jar",
+              "url": "/mods/1409762/7367245/grim-kingdoms-lost-structures-ruins-v1.0.0%2520(1.21%252B).jar"
+            },
+            "installed": 7540,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766350800000,
+          "update": 1766350800000,
+          "downloadALL": 9655,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1094533,
+          "name": "True Ending ~ Ender Dragon Overhaul",
+          "author": "limesplatus",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/true-ending",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 928011,
+          "pictures": [],
+          "lanName": "true-ending",
+          "version": {
+            "id": 5696184,
+            "name": "true-ending-v1.1.2d",
+            "updateDate": 1725583875000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "ef16cbaa161b54a6aa719ebd391187e11501b083",
+              "size": 5510339,
+              "path": "mods/true-ending-v1.1.2d.jar",
+              "url": "/mods/1094533/5696184/true-ending-v1.1.2d.jar"
+            },
+            "installed": 6558,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760821200000,
+          "update": 1760821200000,
+          "downloadALL": 66762,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 293320,
+          "name": "Just Mob Heads",
+          "author": "Serilum",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/just-mob-heads",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 801078,
+          "pictures": [],
+          "lanName": "just-mob-heads",
+          "version": {
+            "id": 6185639,
+            "name": "justmobheads-1.21.1-8.5",
+            "updateDate": 1739374560000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "fd57b8fd4fcf2f3ae3d3713e6347ce4f7e7585a4",
+              "size": 157707,
+              "path": "mods/justmobheads-1.21.1-8.5.jar",
+              "url": "/mods/293320/6185639/justmobheads-1.21.1-8.5.jar"
+            },
+            "installed": 7257,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              },
+              {
+                "id": 4,
+                "name": "quilt"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 284,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1114,
+              "name": "Collective",
+              "gameEntityId": 342584,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760389200000,
+          "update": 1760389200000,
+          "downloadALL": 435081,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [
