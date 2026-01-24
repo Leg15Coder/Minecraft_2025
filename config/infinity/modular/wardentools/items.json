@@ -1,0 +1,196 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "wardentools:amethyst_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:amethyst_upgraded_echo_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:block_of_amethyst_ingots"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:budding_sculkhyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:echo_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:echo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:echo_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:echo_locator"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:echo_shrieker"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:echo_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:ender_upgraded_echo_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:large_sculkhyst_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:medium_sculkhyst_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:rose_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:rose_gold_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:rose_gold_upgraded_echo_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculk_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculk_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkhyst_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkhyst_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkified_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkified_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkified_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkified_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkified_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkified_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkified_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkified_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:sculkified_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:shrieker_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:small_sculkhyst_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:staff_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_echo_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_tendril"
+		},
+		{
+			"weight": 1.0,
+			"key": "wardentools:warden_upgrade_smithing_template"
+		}
+	]
+}

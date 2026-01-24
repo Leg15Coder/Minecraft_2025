@@ -1,0 +1,2912 @@
+{
+	"biomes": [
+		"terralith:alpine_highlands"
+	],
+	"rule": {
+		"type": "minecraft:sequence",
+		"sequence": [
+			{
+				"type": "minecraft:sequence",
+				"sequence": [
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": true
+						},
+						"then_run": {
+							"type": "minecraft:sequence",
+							"sequence": [
+								{
+									"if_true": {
+										"type": "minecraft:steep"
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:stone"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								{
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.03,
+										"noise": "terralith:highlands/cracks",
+										"max_threshold": 0.03
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:stone"
+										}
+									},
+									"type": "minecraft:condition"
+								}
+							]
+						},
+						"type": "minecraft:condition"
+					},
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": false
+						},
+						"then_run": {
+							"type": "minecraft:sequence",
+							"sequence": [
+								{
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": 0.25,
+										"noise": "terralith:highlands/red_sand",
+										"max_threshold": 3.0E7
+									},
+									"then_run": {
+										"if_true": {
+											"type": "minecraft:noise_threshold",
+											"min_threshold": 0.4,
+											"noise": "terralith:highlands/white_terracotta",
+											"max_threshold": 3.0E7
+										},
+										"then_run": {
+											"type": "minecraft:block",
+											"result_state": {
+												"Name": "minecraft:white_terracotta"
+											}
+										},
+										"type": "minecraft:condition"
+									},
+									"type": "minecraft:condition"
+								},
+								{
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": 0.4,
+										"noise": "terralith:highlands/red_sand",
+										"max_threshold": 3.0E7
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:coarse_dirt"
+										}
+									},
+									"type": "minecraft:condition"
+								}
+							]
+						},
+						"type": "minecraft:condition"
+					}
+				]
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -1,
+						"add_stone_depth": false,
+						"surface_depth_multiplier": 0
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:water",
+							"offset": -1,
+							"add_stone_depth": false,
+							"surface_depth_multiplier": 0
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:grass_block",
+								"Properties": {
+									"snowy": "false"
+								}
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -1,
+						"add_stone_depth": false,
+						"surface_depth_multiplier": 0
+					},
+					"then_run": {
+						"type": "minecraft:block",
+						"result_state": {
+							"Name": "minecraft:dirt"
+						}
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.65,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": -0.5
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.015,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.015
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.5,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": -0.35
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.025,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.025
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.35,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": -0.2
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.04,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.04
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.2,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": -0.05
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.05,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.05
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.05,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": 0.05
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.06,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.06
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": 0.05,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": 0.2
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.06425,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.06425
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": 0.2,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": 3.0E7
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.0685,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.0685
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.7,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": -0.5
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.015,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.015
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.5,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": -0.35
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.025,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.025
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.35,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": -0.25
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.05,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.05
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.25,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": -0.15
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.085,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.085
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.15,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": 0.1
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.125,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.125
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": 0.1,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": 0.5
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.145,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.145
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": 0.5,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": 3.0E7
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.17,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.17
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": 0.4,
+									"noise": "terralith:generic/gravel",
+									"max_threshold": 3.0E7
+								},
+								"then_run": {
+									"type": "minecraft:block",
+									"result_state": {
+										"Name": "minecraft:gravel"
+									}
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"type": "minecraft:block",
+						"result_state": {
+							"Name": "minecraft:dirt"
+						}
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:stone_depth",
+						"secondary_depth_range": 0,
+						"offset": 0,
+						"surface_type": "ceiling",
+						"add_surface_depth": false
+					},
+					"then_run": {
+						"type": "minecraft:block",
+						"result_state": {
+							"Name": "minecraft:stone"
+						}
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "minecraft:gravel"
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"type": "minecraft:sequence",
+				"sequence": [
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": true
+						},
+						"then_run": {
+							"type": "minecraft:sequence",
+							"sequence": [
+								{
+									"if_true": {
+										"type": "minecraft:steep"
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:stone"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								{
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.03,
+										"noise": "terralith:highlands/cracks",
+										"max_threshold": 0.03
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:stone"
+										}
+									},
+									"type": "minecraft:condition"
+								}
+							]
+						},
+						"type": "minecraft:condition"
+					},
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": false
+						},
+						"then_run": {
+							"type": "minecraft:sequence",
+							"sequence": [
+								{
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": 0.25,
+										"noise": "terralith:highlands/red_sand",
+										"max_threshold": 3.0E7
+									},
+									"then_run": {
+										"if_true": {
+											"type": "minecraft:noise_threshold",
+											"min_threshold": 0.4,
+											"noise": "terralith:highlands/white_terracotta",
+											"max_threshold": 3.0E7
+										},
+										"then_run": {
+											"type": "minecraft:block",
+											"result_state": {
+												"Name": "minecraft:white_terracotta"
+											}
+										},
+										"type": "minecraft:condition"
+									},
+									"type": "minecraft:condition"
+								},
+								{
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": 0.4,
+										"noise": "terralith:highlands/red_sand",
+										"max_threshold": 3.0E7
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:coarse_dirt"
+										}
+									},
+									"type": "minecraft:condition"
+								}
+							]
+						},
+						"type": "minecraft:condition"
+					}
+				]
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -1,
+						"add_stone_depth": false,
+						"surface_depth_multiplier": 0
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:water",
+							"offset": -1,
+							"add_stone_depth": false,
+							"surface_depth_multiplier": 0
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "minecraft:grass_block",
+								"Properties": {
+									"snowy": "false"
+								}
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -1,
+						"add_stone_depth": false,
+						"surface_depth_multiplier": 0
+					},
+					"then_run": {
+						"type": "minecraft:block",
+						"result_state": {
+							"Name": "minecraft:dirt"
+						}
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.65,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": -0.5
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.015,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.015
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.5,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": -0.35
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.025,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.025
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.35,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": -0.2
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.04,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.04
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.2,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": -0.05
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.05,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.05
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.05,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": 0.05
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.06,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.06
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": 0.05,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": 0.2
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.06425,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.06425
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": 0.2,
+									"noise": "terralith:generic/sand_thickness",
+									"max_threshold": 3.0E7
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.0685,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.0685
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:sand"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.7,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": -0.5
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.015,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.015
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.5,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": -0.35
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.025,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.025
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.35,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": -0.25
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.05,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.05
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.25,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": -0.15
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.085,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.085
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": -0.15,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": 0.1
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.125,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.125
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": 0.1,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": 0.5
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.145,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.145
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": 0.5,
+									"noise": "terralith:generic/clay_thickness",
+									"max_threshold": 3.0E7
+								},
+								"then_run": {
+									"if_true": {
+										"type": "minecraft:noise_threshold",
+										"min_threshold": -0.17,
+										"noise": "terralith:generic/sand",
+										"max_threshold": 0.17
+									},
+									"then_run": {
+										"type": "minecraft:block",
+										"result_state": {
+											"Name": "minecraft:clay"
+										}
+									},
+									"type": "minecraft:condition"
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"if_true": {
+							"type": "minecraft:not",
+							"invert": {
+								"type": "minecraft:biome",
+								"biome_is": [
+									"terralith:comment_dont_generate_strips_here",
+									"terralith:alpha_islands",
+									"terralith:alpha_islands_winter",
+									"terralith:lavender_forest",
+									"terralith:sakura_grove",
+									"terralith:lavender_valley",
+									"terralith:sakura_valley",
+									"minecraft:swamp",
+									"terralith:ice_marsh",
+									"terralith:shrubland",
+									"terralith:hot_shrubland",
+									"terralith:cold_shrubland",
+									"terralith:rocky_shrubland",
+									"terralith:fractured_savanna",
+									"terralith:orchid_swamp",
+									"terralith:windswept_spires"
+								]
+							}
+						},
+						"then_run": {
+							"if_true": {
+								"type": "minecraft:not",
+								"invert": {
+									"type": "minecraft:water",
+									"offset": 0,
+									"add_stone_depth": true,
+									"surface_depth_multiplier": 2
+								}
+							},
+							"then_run": {
+								"if_true": {
+									"type": "minecraft:noise_threshold",
+									"min_threshold": 0.4,
+									"noise": "terralith:generic/gravel",
+									"max_threshold": 3.0E7
+								},
+								"then_run": {
+									"type": "minecraft:block",
+									"result_state": {
+										"Name": "minecraft:gravel"
+									}
+								},
+								"type": "minecraft:condition"
+							},
+							"type": "minecraft:condition"
+						},
+						"type": "minecraft:condition"
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": true
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:water",
+						"offset": -6,
+						"add_stone_depth": true,
+						"surface_depth_multiplier": -1
+					},
+					"then_run": {
+						"type": "minecraft:block",
+						"result_state": {
+							"Name": "minecraft:dirt"
+						}
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"if_true": {
+						"type": "minecraft:stone_depth",
+						"secondary_depth_range": 0,
+						"offset": 0,
+						"surface_type": "ceiling",
+						"add_surface_depth": false
+					},
+					"then_run": {
+						"type": "minecraft:block",
+						"result_state": {
+							"Name": "minecraft:stone"
+						}
+					},
+					"type": "minecraft:condition"
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:stone_depth",
+					"secondary_depth_range": 0,
+					"offset": 0,
+					"surface_type": "floor",
+					"add_surface_depth": false
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "minecraft:gravel"
+					}
+				},
+				"type": "minecraft:condition"
+			}
+		]
+	}
+}

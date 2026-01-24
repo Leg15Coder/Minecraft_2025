@@ -1,0 +1,277 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "structory:extra/copper",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:harvest/graveyard",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:harvest/graveyard2",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:harvest/manor2/loot",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:harvest/manor2/treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:harvest/old_manor/common",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:harvest/old_manor/treasure",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:library/high",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:library/junk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:library/low",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/badlands",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/cave",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/farmer",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/fisherman",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/grassy",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/mangrove",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/miner",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/mushroom",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/ocean",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/snowy",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:mood/taiga",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast/bandit/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast/bandit/desert_copper",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast/boat/loot",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast/farm_ruin",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast/generic/bandit",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast/generic/miner",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast/low",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast/mine/loot",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast/ruin/ruin",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:outcast/settlement",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:ruin/ruin",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:ruin/swamp/loot",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:ruin/taiga/illager_high",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:ruin/taiga/illager_low",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:ruin/taiga/illager_treasure",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "structory:ruin/taiga/loot",
+			"data": {
+				"Type": "generic"
+			}
+		}
+	]
+}

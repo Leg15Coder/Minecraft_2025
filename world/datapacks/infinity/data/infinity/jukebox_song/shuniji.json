@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.shuniji"
+	},
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.shuniji"
+	},
+	"length_in_seconds": 244.19995,
+	"comparator_output": 15
+}

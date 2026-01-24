@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.watcher"
+	},
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.watcher"
+	},
+	"length_in_seconds": 332.14667,
+	"comparator_output": 15
+}

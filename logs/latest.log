@@ -1,149 +1,137 @@
-[15:49:34] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.4
-[15:49:34] [ForkJoinPool-1-worker-1/WARN]: The mod "resourceconfigapi" contains invalid entries in its mod json:
-- Unsupported root entry "accesswidener" at line 16 column 20
-[15:49:34] [main/WARN]: Warnings were found!
+[11:27:18] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.4
+[11:27:18] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 11
+[11:27:18] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.9.1+mod recommends any version of midnightlib, which is missing!
 	 - You should install any version of midnightlib for the optimal experience.
- - Mod 'Forge Config API Port' (forgeconfigapiport) 21.11.1 recommends any version of modmenu, which is missing!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.6 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[15:49:34] [main/INFO]: Loading 130 mods:
-	- armored-elytra 1.12.0
-	- balm 21.11.3
-	   \-- kuma_api 21.11.9
-	- bettercombat 3.0.0
+[11:27:18] [main/INFO]: Loading 118 mods:
+	- appleskin 3.0.6+mc1.21
+	- architectury 13.0.8
+	- armored-elytra 1.1.0
+	- balm 21.0.56
+	   \-- kuma_api 21.0.7
+	- bettercombat 2.3.1+1.21.1
 	   \-- tiny_config 3.1.0
-	- carryon 2.9.0
-	- cloth-config 21.11.153
+	- carryon 2.2.4
+	- cloth-config 15.0.140
 	   \-- cloth-basic-math 0.6.1
 	- collective 8.13
-	- configapi 1.21.11-3.1.0
-	- cristellib 3.0.4
+	- coolrain 1.3.1-1.21.1
+	- corgilib 5.0.0.7
+	   |-- com_electronwill_night-config_core 3.8.2
+	   \-- com_electronwill_night-config_toml 3.8.2
+	- cristellib 3.0.2
 	   \-- blue_endless_jankson 1.2.3
-	- cursed-spawners 1.0.0+1.21.11
-	   \-- lilylib 4.0.1+1.21.11
+	- deeperdarker 1.3.3-plus-b
+	   \-- customportalapi 0.0.1-beta67-1.21
 	- doubledoors 7.2
+	- dungeons_arise 2.1.68
 	- durabilitytooltip 1.1.6
 	- dynamiclights 1.9.1+mod
-	- explorify 1.6.4
-	- fabric-api 0.140.2+1.21.11
-	   |-- fabric-api-base 1.0.5+4ebb5c083e
-	   |-- fabric-api-lookup-api-v1 1.6.113+1fb1cde93e
-	   |-- fabric-biome-api-v1 17.1.1+4fc5413f3e
-	   |-- fabric-block-api-v1 1.1.10+4ebb5c083e
-	   |-- fabric-block-view-api-v2 1.0.39+4ebb5c083e
-	   |-- fabric-command-api-v2 2.4.7+6b42a6003e
-	   |-- fabric-content-registries-v0 10.2.14+4fc5413f3e
-	   |-- fabric-convention-tags-v1 2.1.55+7f945d5b3e
-	   |-- fabric-convention-tags-v2 2.17.3+8ef948ba3e
-	   |-- fabric-crash-report-info-v1 0.3.23+4ebb5c083e
-	   |-- fabric-data-attachment-api-v1 1.8.44+1fb1cde93e
-	   |-- fabric-data-generation-api-v1 23.4.0+69974c4e3e
-	   |-- fabric-dimensions-v1 4.0.28+4fc5413f3e
-	   |-- fabric-entity-events-v1 3.0.5+4ebb5c083e
-	   |-- fabric-events-interaction-v0 4.0.44+1fb1cde93e
-	   |-- fabric-game-rule-api-v1 2.0.3+4fc5413f3e
-	   |-- fabric-item-api-v1 11.5.20+d0c46b9e3e
-	   |-- fabric-item-group-api-v1 4.2.36+4fc5413f3e
-	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f3e
-	   |-- fabric-lifecycle-events-v1 2.6.15+4ebb5c083e
-	   |-- fabric-loot-api-v2 3.0.73+3f89f5a53e
-	   |-- fabric-loot-api-v3 2.0.20+78c8b4663e
-	   |-- fabric-message-api-v1 6.1.12+4ebb5c083e
-	   |-- fabric-model-loading-api-v1 6.0.13+4fc5413f3e
-	   |-- fabric-networking-api-v1 5.1.5+ae1e07683e
-	   |-- fabric-object-builder-api-v1 21.1.39+4fc5413f3e
-	   |-- fabric-particles-v1 4.2.11+4fc5413f3e
-	   |-- fabric-recipe-api-v1 8.2.3+4ebb5c083e
-	   |-- fabric-registry-sync-v0 6.2.5+1718722b3e
-	   |-- fabric-renderer-api-v1 8.0.1+f4ffd2e53e
-	   |-- fabric-renderer-indigo 5.0.1+f4ffd2e53e
-	   |-- fabric-rendering-fluids-v1 3.1.43+4ebb5c083e
-	   |-- fabric-rendering-v1 16.2.8+f4ffd2e53e
-	   |-- fabric-resource-conditions-api-v1 5.0.35+4fc5413f3e
-	   |-- fabric-resource-loader-v0 3.3.4+4fc5413f3e
-	   |-- fabric-resource-loader-v1 1.0.10+78c8b4663e
-	   |-- fabric-screen-api-v1 3.1.7+4ebb5c083e
-	   |-- fabric-screen-handler-api-v1 1.3.161+4fc5413f3e
-	   |-- fabric-serialization-api-v1 1.0.5+4ebb5c083e
-	   |-- fabric-sound-api-v1 1.0.51+4fc5413f3e
-	   |-- fabric-tag-api-v1 1.2.20+4fc5413f3e
-	   |-- fabric-transfer-api-v1 6.0.24+4fc5413f3e
-	   \-- fabric-transitive-access-wideners-v1 7.1.0+014c8cec3e
+	- enchantinginfuser 21.1.3
+	- entityculling 1.9.5
+	   |-- transition 1.0.11
+	   \-- trender 1.0.10
+	- equiplib 1.0.0+mc1.21.1
+	- fabric-api 0.116.7+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.71+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.1.0+0bc3503219
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.19+b559734419
+	   |-- fabric-convention-tags-v1 2.1.5+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.11.1+a406e79519
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.5+6116a37819
+	   |-- fabric-data-generation-api-v1 20.2.34+37516cd619
+	   |-- fabric-dimensions-v1 4.0.1+65213ef819
+	   |-- fabric-entity-events-v1 1.8.0+2b27e0a419
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.2.0+3b3cb2e819
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.6.0+0865547519
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.14+8aaf3aca19
+	   |-- fabric-model-loading-api-v1 2.1.0+b4d813fc19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.15+2475392c19
+	   |-- fabric-registry-sync-v0 5.3.1+e3eddc2119
+	   |-- fabric-renderer-api-v1 3.4.1+b4d813fc19
+	   |-- fabric-renderer-indigo 1.7.1+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.69+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.72+df3654b319
+	   |-- fabric-rendering-v1 5.1.0+ab4c25a019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.90+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.3+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
 	- fabricloader 0.18.4
 	   \-- mixinextras 0.5.0
-	- firstjoinmessage 3.8
-	- forgeconfigapiport 21.11.1
-	   |-- com_electronwill_night-config_core 3.8.3
-	   \-- com_electronwill_night-config_toml 3.8.3
-	- friendsandfoes 4.0.19
-	- glowing-torchflower 1.3.0
-	   |-- com_typesafe_config 1.4.3
-	   |-- io_leangen_geantyref_geantyref 1.3.13
-	   |-- org_apache_commons_commons-text 1.10.0
-	   |-- org_spongepowered_configurate-core 4.1.2
-	   \-- org_spongepowered_configurate-hocon 4.1.2
+	- fallingtree 1.21.1.11
+	- forgeconfigapiport 21.1.6
+	- geckolib 4.8.3
+	- infinity 2.6.2+1.21.1
 	- java 21
-	- justmobheads 8.9
-	- leavesbegone 21.11.0
-	- lithium 0.21.2+mc1.21.11
-	- magicalscepter 1.2.0
-	   \-- mixson 1.4.0
-	- merenc 4.3
-	- minecraft 1.21.11
-	- mr_better_snowybiome 1-v2.5.1
-	- mr_dungeons_andtaverns 1-v5.1.0
-	- mr_grim_kingdomsloststructuresruins 1-v1.0.0
-	- mr_lukis_grandcapitals 1.1.2
-	- mr_poisoning_enchantment 1-v1.0.4
+	- journeymap 1.21.1-6.0.0-beta.53
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.18-1.21.1
+	   \-- journeymap-api-fabric 2.0.0-1.21.1-SNAPSHOT
+	- magistuarmory 10.3
+	- mcwfurnitures 3.4.1
+	- minecraft 1.21.1
+	- mr_dungeons_andtaverns 1-v4.4.4
+	- mr_ly_lifestealenchantment 1-v1.1.0
+	- mr_ly_veinminerenchantment 1-v1.0.4
+	- mr_magnetic_enchantment 1-v1.0.5
+	- mr_vanilla_backpacks 1.3.5
 	- mr_xp_boostenchantment 1-v1.0.2
-	- mutantmonsters 21.11.2
-	- nullscape 1.2.16
-	- player_animation_library 1.1.4+mc.1.21.11
-	   |-- com_zigythebird_mochafloats 4.1.0
-	   \-- org_javassist_javassist 3.30.2-GA
-	- polymer-bundled 0.15.1+1.21.11
-	   |-- polymer-autohost 0.15.1+1.21.11
-	   |-- polymer-blocks 0.15.1+1.21.11
-	   |-- polymer-common 0.15.1+1.21.11
-	   |    \-- packet_tweaker 0.6.0+1.21.10
-	   |-- polymer-core 0.15.1+1.21.11
-	   |    |-- polymer-networking 0.15.1+1.21.11
-	   |    |    \-- polymer-common 0.15.1+1.21.11
-	   |    |         \-- packet_tweaker 0.6.0+1.21.10
-	   |    \-- polymer-registry-sync-manipulator 0.15.1+1.21.11
-	   |-- polymer-resource-pack 0.15.1+1.21.11
-	   |    \-- polymer-common 0.15.1+1.21.11
-	   |         \-- packet_tweaker 0.6.0+1.21.10
-	   |-- polymer-resource-pack-extras 0.15.1+1.21.11
-	   |-- polymer-sound-patcher 0.15.1+1.21.11
-	   \-- polymer-virtual-entity 0.15.1+1.21.11
-	        \-- polymer-common 0.15.1+1.21.11
-	             \-- packet_tweaker 0.6.0+1.21.10
-	- puzzleslib 21.11.4
-	- resource_backpacks 1.21.11-1.4.0
-	- resourceconfigapi 1.21.11-3.9.2
-	- resourcefullib 3.11.0
-	   |-- com_teamresourceful_bytecodecs 1.1.3
-	   \-- com_teamresourceful_yabn 1.0.3
-	- resourcelibrary 1.21.11-2.10.0
-	- servercore 1.5.15+1.21.11
-	   |-- fabric-permissions-api-v0 0.6.0
-	   |-- org_yaml_snakeyaml 2.5
-	   |-- placeholder-api 2.8.1+1.21.10
-	   |-- space_arim_dazzleconf_dazzleconf-core 1.3.0-M2
-	   \-- space_arim_dazzleconf_dazzleconf-ext-snakeyaml 1.3.0-M2
-	- shieldsknockback 1.0+1.21.5
+	- naturescompass 1.21.1-2.2.7-fabric
+	- notenoughanimations 1.11.1
+	   |-- transition 1.0.11
+	   \-- trender 1.0.10
+	- owo 0.12.15.4+1.21
+	   |-- io_wispforest_endec 0.1.5.1
+	   |-- io_wispforest_endec_gson 0.1.3.1
+	   |-- io_wispforest_endec_jankson 0.1.3.1
+	   \-- io_wispforest_endec_netty 0.1.2
+	- playeranimator 2.0.4+1.21.1
+	- puzzleslib 21.1.39
+	- sodiumleafculling 1.0.1
+	   \-- mixinsquared 0.2.0-beta.6
+	- sound_physics_remastered 1.21.1-1.5.1
+	- storagedrawers 13.11.4
+	- structory 1.3.14
 	- supermartijn642configlib 1.1.8
-	- t_and_t 1.13.8
-	- terralith 2.5.14
-	- vcinteraction 1.21.11-1.0.8
-	- voicechat 1.21.11-2.6.10
-	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f53
-	   |-- fabric-rendering-v1 16.2.5+1fb1cde953
+	- t_and_t 1.13.7
+	- terralith 2.5.8
+	- vcinteraction 1.21.1-1.0.8
+	   \-- polymer-registry-sync-manipulator 0.9.9+1.21
+	- voicechat 1.21.1-2.6.11
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
 	   \-- voicechat_api 2.6.0
-	- waystones 21.11.4
-	- weaponmaster_ydm 4.4.3
-	- yet_another_config_lib_v3 3.8.1+1.21.11-fabric
+	- wardentools 4.1.1
+	- waystones 21.1.25
+	- weaponmaster_ydm 4.4.1
+	- yet_another_config_lib_v3 3.8.2+1.21.1-fabric
 	   |-- com_twelvemonkeys_common_common-image 3.12.0
 	   |-- com_twelvemonkeys_common_common-io 3.12.0
 	   |-- com_twelvemonkeys_common_common-lang 3.12.0
@@ -152,104 +140,440 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[15:49:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/opt/minecraft/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:49:35] [main/INFO]: Compatibility level set to JAVA_21
-[15:49:35] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'configapi.refmap.json' for configapi-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'configapi.refmap.json' for configapi-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'friendsandfoes.refmap.json' for friendsandfoes-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'friendsandfoes.refmap.json' for friendsandfoes-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/INFO]: Loaded configuration file for Lithium: 164 options available, 0 override(s) found.
-[15:49:35] [main/WARN]: Reference map 'resource_backpacks.refmap.json' for resource_backpacks.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'resourceconfigapi.refmap.json' for resourceconfigapi.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'resourcelibrary.refmap.json' for resourcelibrary.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'resourcelibrary.refmap.json' for resourcelibrary.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'tiny_config-common-common-refmap.json' for tiny_config.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:49:35] [main/WARN]: Error loading class: net/minecraft/class_636 (java.lang.ClassNotFoundException: net/minecraft/class_636)
-[15:49:35] [main/WARN]: @Mixin target net.minecraft.class_636 was not found configapi-fabric.mixins.json:event.MultiPlayerGameModeMixin from mod configapi
-[15:49:36] [main/WARN]: Error loading class: net/minecraft/class_12074 (java.lang.ClassNotFoundException: net/minecraft/class_12074)
-[15:49:36] [main/WARN]: @Mixin target net.minecraft.class_12074 was not found resourcefullib.mixins.json:BlockOutlineRenderStateMixin from mod resourcefullib
-[15:49:36] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[15:49:48] [main/ERROR]: Entity magicalscepter:sorcerer has no attributes
-[15:49:48] [main/INFO]: Loading Collective version 8.13.
-[15:49:48] [main/INFO]: Registered config for: configapi as configapi/configapi-common.cfg
-[15:49:48] [main/INFO]: Registered config for: configapi as configapi/configapi-server.cfg
-[15:49:48] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[15:49:48] [main/INFO]: Deserializing FriendsAndFoesConfig from 'config/friendsandfoes.json'
-[15:49:49] [main/INFO]: Constructing components for leavesbegone:common
-[15:49:49] [main/INFO]: Registering Mod Items for MagicalScepter
-[15:49:49] [main/INFO]: Registering Entities for MagicalScepter
-[15:49:49] [main/INFO]: Registering Loot Functions for MagicalScepter
-[15:49:49] [main/INFO]: Constructing components for mutantmonsters:common
-[15:49:49] [main/INFO]: Dispatching loading event for config mutantmonsters-common.toml
-[15:49:49] [main/INFO]: Constructing components for puzzleslib:common
-[15:49:49] [main/INFO]: Config 'appearance.json' from type 'CLIENT' was skipped.
-[15:49:49] [main/INFO]: [ServerCore] Loaded V1.5.15+1.21.11!
-[15:49:50] [main/INFO]: [voicechat] Compatibility version 20
-[15:49:50] [main/INFO]: [voicechat] Loading plugins
-[15:49:50] [main/INFO]: [voicechat] Loaded 1 plugin(s)
-[15:49:50] [main/INFO]: [voicechat] Initializing plugins
-[15:49:50] [main/INFO]: [voicechat] Initialized 1 plugin(s)
-[15:49:50] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
-[15:49:50] [main/INFO]: [STDOUT]: Initialize WeaponMaster
-[15:49:50] [main/ERROR]: Couldn't load mr_grim_kingdomsloststructuresruins pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
-[15:49:50] [main/ERROR]: Couldn't load mr_lukis_grandcapitals pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
-[15:49:50] [main/ERROR]: Couldn't load mr_grim_kingdomsloststructuresruins pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
-[15:49:50] [main/ERROR]: Couldn't load mr_lukis_grandcapitals pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
-[15:49:50] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[15:49:50] [main/ERROR]: Couldn't load mr_grim_kingdomsloststructuresruins pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
-[15:49:50] [main/ERROR]: Couldn't load mr_lukis_grandcapitals pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
-[15:49:56] [main/INFO]: Loaded 1556 recipes
-[15:49:56] [main/INFO]: Loaded 1772 advancements
-[15:49:56] [main/INFO]: Loaded 27 entity animations
-[15:49:56] [main/INFO]: Loaded 1 moobloom variants
-[15:49:56] [main/INFO]: Applied 894 biome modifications to 163 of 163 new biomes in 41.96 ms
-[15:49:56] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
-[15:49:56] [Server thread/INFO]: Dispatching loading event for config mutantmonsters-server.toml
-[15:49:56] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 2607 bytes (in 1 string chunks with the size of 10000)
-[15:49:56] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[15:49:56] [Server thread/INFO]: Loading properties
-[15:49:56] [Server thread/INFO]: Default game type: SURVIVAL
-[15:49:56] [Server thread/INFO]: Generating keypair
-[15:49:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:49:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:49:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:49:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:49:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:49:57] [Server thread/INFO]: Preparing level "world"
-[15:49:58] [Server thread/INFO]: Loading 0 persistent chunks...
-[15:49:58] [Server thread/INFO]: Preparing spawn area: 100%
-[15:49:58] [Server thread/INFO]: Time elapsed: 16 ms
-[15:49:58] [Server thread/INFO]: Done (1.193s)! For help, type "help"
-[15:49:58] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[15:49:58] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[15:51:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4073ms or 81 ticks behind
-[15:51:40] [Server thread/INFO]: Leg15[/109.94.171.210:24960] logged in with entity id 74 at (-3514.6607280488797, 64.0625, -1256.0530323623636)
-[15:51:41] [Server thread/INFO]: Syncing Server Configs with Client
-[15:51:41] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[15:51:41] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[15:51:41] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[15:51:41] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[15:51:41] [Server thread/INFO]: Leg15 joined the game
-[15:51:41] [Server thread/INFO]: [voicechat] Received secret request of Leg15 (20)
-[15:51:41] [Server thread/INFO]: [voicechat] Sent secret to Leg15
-[15:51:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6b860760-8ea0-3174-8836-9814883d55e7
-[15:51:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6b860760-8ea0-3174-8836-9814883d55e7
-[15:51:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Leg15 (6b860760-8ea0-3174-8836-9814883d55e7) successfully connected to voice chat
-[15:51:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Initializing Opus
-[15:51:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully initialized Opus
-[15:54:31] [Server thread/INFO]: [Leg15: Set own game mode to Creative Mode]
-[15:55:52] [Server thread/INFO]: Leg15 lost connection: Disconnected
-[15:55:52] [Server thread/INFO]: Leg15 left the game
-[15:55:52] [Server thread/INFO]: [voicechat] Disconnecting client Leg15
+[11:27:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/opt/minecraft/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[11:27:19] [main/INFO]: Compatibility level set to JAVA_21
+[11:27:19] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'tiny_config-common-common-refmap.json' for tiny_config.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'wardentools.refmap.json' for wardentools.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'wardentools.refmap.json' for wardentools.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:19] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:27:20] [main/WARN]: Error loading class: com/tom/storagemod/block/entity/StorageTerminalBlockEntity (java.lang.ClassNotFoundException: com/tom/storagemod/block/entity/StorageTerminalBlockEntity)
+[11:27:20] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[11:27:20] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[11:27:20] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[11:27:20] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[11:27:20] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[11:27:20] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext)
+[11:27:20] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.frapi.render.AbstractBlockRenderContext was not found mixins.sodiumleafculling.json:AbstractBlockRenderContextAccessor from mod sodiumleafculling
+[11:27:20] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache)
+[11:27:20] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache was not found mixins.sodiumleafculling.json:BlockOcclusionCacheMixin from mod sodiumleafculling
+[11:27:20] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer)
+[11:27:20] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer was not found mixins.sodiumleafculling.json:BlockRendererMixin from mod sodiumleafculling
+[11:27:20] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings)
+[11:27:20] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptions$PerformanceSettings was not found mixins.sodiumleafculling.json:PerformanceSettingsMixin from mod sodiumleafculling
+[11:27:20] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages)
+[11:27:20] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptionPages was not found mixins.sodiumleafculling.json:SodiumGameOptionPagesMixin from mod sodiumleafculling
+[11:27:21] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[11:27:33] [main/ERROR]: nova_structures:underground_house {nova_structures:taverns=PlacementConfig[frequency=1.0, salt=783, separation=30, spacing=50], nova_structures:small_cave_structures=PlacementConfig[frequency=1.0, salt=79984849, separation=12, spacing=32], nova_structures:end_lighthouses=PlacementConfig[frequency=1.0, salt=435656543, separation=22, spacing=70], nova_structures:ruin_town=PlacementConfig[frequency=1.0, salt=39043, separation=30, spacing=72], nova_structures:villages_jungle=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:bunker=PlacementConfig[frequency=1.0, salt=6798544, separation=30, spacing=70], nova_structures:mangrove_witch_hut=PlacementConfig[frequency=1.0, salt=594, separation=8, spacing=32], nova_structures:wild_ruin=PlacementConfig[frequency=1.0, salt=75489234, separation=18, spacing=40], nova_structures:nether_encampments=PlacementConfig[frequency=1.0, salt=940354935, separation=16, spacing=32], nova_structures:conduit_ruin=PlacementConfig[frequency=1.0, salt=394, separation=90, spacing=140], nova_structures:creeping_crypt=PlacementConfig[frequency=1.0, salt=7498398, separation=10, spacing=100], nova_structures:end_ship=PlacementConfig[frequency=0.25, salt=79584390, separation=10, spacing=70], nova_structures:wells=PlacementConfig[frequency=1.0, salt=430930, separation=15, spacing=40], nova_structures:illager_manor=PlacementConfig[frequency=1.0, salt=10387319, separation=90, spacing=180], nova_structures:villages_birch=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:desert_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:firewatch_towers=PlacementConfig[frequency=1.0, salt=123, separation=15, spacing=50], nova_structures:nether_structures=PlacementConfig[frequency=1.0, salt=5894302, separation=40, spacing=90], nova_structures:shrines=PlacementConfig[frequency=1.0, salt=78409300, separation=26, spacing=70], nova_structures:illager_hideout=PlacementConfig[frequency=1.0, salt=3094032, separation=12, spacing=200], nova_structures:stray_big_structures=PlacementConfig[frequency=1.0, salt=709971604, separation=16, spacing=100], nova_structures:badlands_miner_outpost_mineshafts=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60], nova_structures:swamp_structure=PlacementConfig[frequency=1.0, salt=3042970, separation=20, spacing=80], nova_structures:pale_residence=PlacementConfig[frequency=1.0, salt=560486059, separation=15, spacing=60], nova_structures:villages_swamp=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:jungle_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:undead_crypt=PlacementConfig[frequency=1.0, salt=96586859, separation=20, spacing=100], nova_structures:trident_trial_monument=PlacementConfig[frequency=1.0, salt=69846574, separation=190, spacing=200], nova_structures:shrine_tower=PlacementConfig[frequency=1.0, salt=78409300, separation=150, spacing=250], nova_structures:remnants=PlacementConfig[frequency=1.0, salt=1195802790, separation=30, spacing=80], nova_structures:catacomb=PlacementConfig[frequency=1.0, salt=3474584, separation=16, spacing=70], nova_structures:illager_camp=PlacementConfig[frequency=1.0, salt=4533232, separation=32, spacing=50], nova_structures:badlands_miner_outpost=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60]}
+[11:27:33] [main/ERROR]: nova_structures:stray_fort {nova_structures:taverns=PlacementConfig[frequency=1.0, salt=783, separation=30, spacing=50], nova_structures:small_cave_structures=PlacementConfig[frequency=1.0, salt=79984849, separation=12, spacing=32], nova_structures:end_lighthouses=PlacementConfig[frequency=1.0, salt=435656543, separation=22, spacing=70], nova_structures:ruin_town=PlacementConfig[frequency=1.0, salt=39043, separation=30, spacing=72], nova_structures:villages_jungle=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:bunker=PlacementConfig[frequency=1.0, salt=6798544, separation=30, spacing=70], nova_structures:mangrove_witch_hut=PlacementConfig[frequency=1.0, salt=594, separation=8, spacing=32], nova_structures:wild_ruin=PlacementConfig[frequency=1.0, salt=75489234, separation=18, spacing=40], nova_structures:nether_encampments=PlacementConfig[frequency=1.0, salt=940354935, separation=16, spacing=32], nova_structures:conduit_ruin=PlacementConfig[frequency=1.0, salt=394, separation=90, spacing=140], nova_structures:creeping_crypt=PlacementConfig[frequency=1.0, salt=7498398, separation=10, spacing=100], nova_structures:end_ship=PlacementConfig[frequency=0.25, salt=79584390, separation=10, spacing=70], nova_structures:wells=PlacementConfig[frequency=1.0, salt=430930, separation=15, spacing=40], nova_structures:illager_manor=PlacementConfig[frequency=1.0, salt=10387319, separation=90, spacing=180], nova_structures:villages_birch=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:desert_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:firewatch_towers=PlacementConfig[frequency=1.0, salt=123, separation=15, spacing=50], nova_structures:nether_structures=PlacementConfig[frequency=1.0, salt=5894302, separation=40, spacing=90], nova_structures:shrines=PlacementConfig[frequency=1.0, salt=78409300, separation=26, spacing=70], nova_structures:illager_hideout=PlacementConfig[frequency=1.0, salt=3094032, separation=12, spacing=200], nova_structures:stray_big_structures=PlacementConfig[frequency=1.0, salt=709971604, separation=16, spacing=100], nova_structures:badlands_miner_outpost_mineshafts=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60], nova_structures:swamp_structure=PlacementConfig[frequency=1.0, salt=3042970, separation=20, spacing=80], nova_structures:pale_residence=PlacementConfig[frequency=1.0, salt=560486059, separation=15, spacing=60], nova_structures:villages_swamp=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:jungle_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:undead_crypt=PlacementConfig[frequency=1.0, salt=96586859, separation=20, spacing=100], nova_structures:trident_trial_monument=PlacementConfig[frequency=1.0, salt=69846574, separation=190, spacing=200], nova_structures:shrine_tower=PlacementConfig[frequency=1.0, salt=78409300, separation=150, spacing=250], nova_structures:remnants=PlacementConfig[frequency=1.0, salt=1195802790, separation=30, spacing=80], nova_structures:catacomb=PlacementConfig[frequency=1.0, salt=3474584, separation=16, spacing=70], nova_structures:illager_camp=PlacementConfig[frequency=1.0, salt=4533232, separation=32, spacing=50], nova_structures:badlands_miner_outpost=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60]}
+[11:27:33] [main/ERROR]: nova_structures:nether_skeleton_towers {nova_structures:taverns=PlacementConfig[frequency=1.0, salt=783, separation=30, spacing=50], nova_structures:small_cave_structures=PlacementConfig[frequency=1.0, salt=79984849, separation=12, spacing=32], nova_structures:end_lighthouses=PlacementConfig[frequency=1.0, salt=435656543, separation=22, spacing=70], nova_structures:ruin_town=PlacementConfig[frequency=1.0, salt=39043, separation=30, spacing=72], nova_structures:villages_jungle=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:bunker=PlacementConfig[frequency=1.0, salt=6798544, separation=30, spacing=70], nova_structures:mangrove_witch_hut=PlacementConfig[frequency=1.0, salt=594, separation=8, spacing=32], nova_structures:wild_ruin=PlacementConfig[frequency=1.0, salt=75489234, separation=18, spacing=40], nova_structures:nether_encampments=PlacementConfig[frequency=1.0, salt=940354935, separation=16, spacing=32], nova_structures:conduit_ruin=PlacementConfig[frequency=1.0, salt=394, separation=90, spacing=140], nova_structures:creeping_crypt=PlacementConfig[frequency=1.0, salt=7498398, separation=10, spacing=100], nova_structures:end_ship=PlacementConfig[frequency=0.25, salt=79584390, separation=10, spacing=70], nova_structures:wells=PlacementConfig[frequency=1.0, salt=430930, separation=15, spacing=40], nova_structures:illager_manor=PlacementConfig[frequency=1.0, salt=10387319, separation=90, spacing=180], nova_structures:villages_birch=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:desert_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:firewatch_towers=PlacementConfig[frequency=1.0, salt=123, separation=15, spacing=50], nova_structures:nether_structures=PlacementConfig[frequency=1.0, salt=5894302, separation=40, spacing=90], nova_structures:shrines=PlacementConfig[frequency=1.0, salt=78409300, separation=26, spacing=70], nova_structures:illager_hideout=PlacementConfig[frequency=1.0, salt=3094032, separation=12, spacing=200], nova_structures:stray_big_structures=PlacementConfig[frequency=1.0, salt=709971604, separation=16, spacing=100], nova_structures:badlands_miner_outpost_mineshafts=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60], nova_structures:swamp_structure=PlacementConfig[frequency=1.0, salt=3042970, separation=20, spacing=80], nova_structures:pale_residence=PlacementConfig[frequency=1.0, salt=560486059, separation=15, spacing=60], nova_structures:villages_swamp=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:jungle_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:undead_crypt=PlacementConfig[frequency=1.0, salt=96586859, separation=20, spacing=100], nova_structures:trident_trial_monument=PlacementConfig[frequency=1.0, salt=69846574, separation=190, spacing=200], nova_structures:shrine_tower=PlacementConfig[frequency=1.0, salt=78409300, separation=150, spacing=250], nova_structures:remnants=PlacementConfig[frequency=1.0, salt=1195802790, separation=30, spacing=80], nova_structures:catacomb=PlacementConfig[frequency=1.0, salt=3474584, separation=16, spacing=70], nova_structures:illager_camp=PlacementConfig[frequency=1.0, salt=4533232, separation=32, spacing=50], nova_structures:badlands_miner_outpost=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60]}
+[11:27:33] [main/ERROR]: nova_structures:nether_camps {nova_structures:taverns=PlacementConfig[frequency=1.0, salt=783, separation=30, spacing=50], nova_structures:small_cave_structures=PlacementConfig[frequency=1.0, salt=79984849, separation=12, spacing=32], nova_structures:end_lighthouses=PlacementConfig[frequency=1.0, salt=435656543, separation=22, spacing=70], nova_structures:ruin_town=PlacementConfig[frequency=1.0, salt=39043, separation=30, spacing=72], nova_structures:villages_jungle=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:bunker=PlacementConfig[frequency=1.0, salt=6798544, separation=30, spacing=70], nova_structures:mangrove_witch_hut=PlacementConfig[frequency=1.0, salt=594, separation=8, spacing=32], nova_structures:wild_ruin=PlacementConfig[frequency=1.0, salt=75489234, separation=18, spacing=40], nova_structures:nether_encampments=PlacementConfig[frequency=1.0, salt=940354935, separation=16, spacing=32], nova_structures:conduit_ruin=PlacementConfig[frequency=1.0, salt=394, separation=90, spacing=140], nova_structures:creeping_crypt=PlacementConfig[frequency=1.0, salt=7498398, separation=10, spacing=100], nova_structures:end_ship=PlacementConfig[frequency=0.25, salt=79584390, separation=10, spacing=70], nova_structures:wells=PlacementConfig[frequency=1.0, salt=430930, separation=15, spacing=40], nova_structures:illager_manor=PlacementConfig[frequency=1.0, salt=10387319, separation=90, spacing=180], nova_structures:villages_birch=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:desert_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:firewatch_towers=PlacementConfig[frequency=1.0, salt=123, separation=15, spacing=50], nova_structures:nether_structures=PlacementConfig[frequency=1.0, salt=5894302, separation=40, spacing=90], nova_structures:shrines=PlacementConfig[frequency=1.0, salt=78409300, separation=26, spacing=70], nova_structures:illager_hideout=PlacementConfig[frequency=1.0, salt=3094032, separation=12, spacing=200], nova_structures:stray_big_structures=PlacementConfig[frequency=1.0, salt=709971604, separation=16, spacing=100], nova_structures:badlands_miner_outpost_mineshafts=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60], nova_structures:swamp_structure=PlacementConfig[frequency=1.0, salt=3042970, separation=20, spacing=80], nova_structures:pale_residence=PlacementConfig[frequency=1.0, salt=560486059, separation=15, spacing=60], nova_structures:villages_swamp=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:jungle_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:undead_crypt=PlacementConfig[frequency=1.0, salt=96586859, separation=20, spacing=100], nova_structures:trident_trial_monument=PlacementConfig[frequency=1.0, salt=69846574, separation=190, spacing=200], nova_structures:shrine_tower=PlacementConfig[frequency=1.0, salt=78409300, separation=150, spacing=250], nova_structures:remnants=PlacementConfig[frequency=1.0, salt=1195802790, separation=30, spacing=80], nova_structures:catacomb=PlacementConfig[frequency=1.0, salt=3474584, separation=16, spacing=70], nova_structures:illager_camp=PlacementConfig[frequency=1.0, salt=4533232, separation=32, spacing=50], nova_structures:badlands_miner_outpost=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60]}
+[11:27:33] [main/ERROR]: nova_structures:deepslate_camp {nova_structures:taverns=PlacementConfig[frequency=1.0, salt=783, separation=30, spacing=50], nova_structures:small_cave_structures=PlacementConfig[frequency=1.0, salt=79984849, separation=12, spacing=32], nova_structures:end_lighthouses=PlacementConfig[frequency=1.0, salt=435656543, separation=22, spacing=70], nova_structures:ruin_town=PlacementConfig[frequency=1.0, salt=39043, separation=30, spacing=72], nova_structures:villages_jungle=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:bunker=PlacementConfig[frequency=1.0, salt=6798544, separation=30, spacing=70], nova_structures:mangrove_witch_hut=PlacementConfig[frequency=1.0, salt=594, separation=8, spacing=32], nova_structures:wild_ruin=PlacementConfig[frequency=1.0, salt=75489234, separation=18, spacing=40], nova_structures:nether_encampments=PlacementConfig[frequency=1.0, salt=940354935, separation=16, spacing=32], nova_structures:conduit_ruin=PlacementConfig[frequency=1.0, salt=394, separation=90, spacing=140], nova_structures:creeping_crypt=PlacementConfig[frequency=1.0, salt=7498398, separation=10, spacing=100], nova_structures:end_ship=PlacementConfig[frequency=0.25, salt=79584390, separation=10, spacing=70], nova_structures:wells=PlacementConfig[frequency=1.0, salt=430930, separation=15, spacing=40], nova_structures:illager_manor=PlacementConfig[frequency=1.0, salt=10387319, separation=90, spacing=180], nova_structures:villages_birch=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:desert_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:firewatch_towers=PlacementConfig[frequency=1.0, salt=123, separation=15, spacing=50], nova_structures:nether_structures=PlacementConfig[frequency=1.0, salt=5894302, separation=40, spacing=90], nova_structures:shrines=PlacementConfig[frequency=1.0, salt=78409300, separation=26, spacing=70], nova_structures:illager_hideout=PlacementConfig[frequency=1.0, salt=3094032, separation=12, spacing=200], nova_structures:stray_big_structures=PlacementConfig[frequency=1.0, salt=709971604, separation=16, spacing=100], nova_structures:badlands_miner_outpost_mineshafts=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60], nova_structures:swamp_structure=PlacementConfig[frequency=1.0, salt=3042970, separation=20, spacing=80], nova_structures:pale_residence=PlacementConfig[frequency=1.0, salt=560486059, separation=15, spacing=60], nova_structures:villages_swamp=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:jungle_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:undead_crypt=PlacementConfig[frequency=1.0, salt=96586859, separation=20, spacing=100], nova_structures:trident_trial_monument=PlacementConfig[frequency=1.0, salt=69846574, separation=190, spacing=200], nova_structures:shrine_tower=PlacementConfig[frequency=1.0, salt=78409300, separation=150, spacing=250], nova_structures:remnants=PlacementConfig[frequency=1.0, salt=1195802790, separation=30, spacing=80], nova_structures:catacomb=PlacementConfig[frequency=1.0, salt=3474584, separation=16, spacing=70], nova_structures:illager_camp=PlacementConfig[frequency=1.0, salt=4533232, separation=32, spacing=50], nova_structures:badlands_miner_outpost=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60]}
+[11:27:33] [main/ERROR]: minecraft:woodland_mansions {nova_structures:taverns=PlacementConfig[frequency=1.0, salt=783, separation=30, spacing=50], nova_structures:small_cave_structures=PlacementConfig[frequency=1.0, salt=79984849, separation=12, spacing=32], nova_structures:end_lighthouses=PlacementConfig[frequency=1.0, salt=435656543, separation=22, spacing=70], nova_structures:ruin_town=PlacementConfig[frequency=1.0, salt=39043, separation=30, spacing=72], nova_structures:villages_jungle=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:bunker=PlacementConfig[frequency=1.0, salt=6798544, separation=30, spacing=70], nova_structures:mangrove_witch_hut=PlacementConfig[frequency=1.0, salt=594, separation=8, spacing=32], nova_structures:wild_ruin=PlacementConfig[frequency=1.0, salt=75489234, separation=18, spacing=40], nova_structures:nether_encampments=PlacementConfig[frequency=1.0, salt=940354935, separation=16, spacing=32], nova_structures:conduit_ruin=PlacementConfig[frequency=1.0, salt=394, separation=90, spacing=140], nova_structures:creeping_crypt=PlacementConfig[frequency=1.0, salt=7498398, separation=10, spacing=100], nova_structures:end_ship=PlacementConfig[frequency=0.25, salt=79584390, separation=10, spacing=70], nova_structures:wells=PlacementConfig[frequency=1.0, salt=430930, separation=15, spacing=40], nova_structures:illager_manor=PlacementConfig[frequency=1.0, salt=10387319, separation=90, spacing=180], nova_structures:villages_birch=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:desert_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:firewatch_towers=PlacementConfig[frequency=1.0, salt=123, separation=15, spacing=50], nova_structures:nether_structures=PlacementConfig[frequency=1.0, salt=5894302, separation=40, spacing=90], nova_structures:shrines=PlacementConfig[frequency=1.0, salt=78409300, separation=26, spacing=70], nova_structures:illager_hideout=PlacementConfig[frequency=1.0, salt=3094032, separation=12, spacing=200], nova_structures:stray_big_structures=PlacementConfig[frequency=1.0, salt=709971604, separation=16, spacing=100], nova_structures:badlands_miner_outpost_mineshafts=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60], nova_structures:swamp_structure=PlacementConfig[frequency=1.0, salt=3042970, separation=20, spacing=80], nova_structures:pale_residence=PlacementConfig[frequency=1.0, salt=560486059, separation=15, spacing=60], nova_structures:villages_swamp=PlacementConfig[frequency=1.0, salt=10387312, separation=8, spacing=34], nova_structures:jungle_ruins=PlacementConfig[frequency=1.0, salt=239021, separation=12, spacing=80], nova_structures:undead_crypt=PlacementConfig[frequency=1.0, salt=96586859, separation=20, spacing=100], nova_structures:trident_trial_monument=PlacementConfig[frequency=1.0, salt=69846574, separation=190, spacing=200], nova_structures:shrine_tower=PlacementConfig[frequency=1.0, salt=78409300, separation=150, spacing=250], nova_structures:remnants=PlacementConfig[frequency=1.0, salt=1195802790, separation=30, spacing=80], nova_structures:catacomb=PlacementConfig[frequency=1.0, salt=3474584, separation=16, spacing=70], nova_structures:illager_camp=PlacementConfig[frequency=1.0, salt=4533232, separation=32, spacing=50], nova_structures:badlands_miner_outpost=PlacementConfig[frequency=1.0, salt=783, separation=12, spacing=60]}
+[11:27:34] [main/ERROR]: nova_structures:underground_house {nova_structures:end_castle=EDConfig[setStructureInfo={end_castle=true}], nova_structures:taverns=EDConfig[setStructureInfo={tavern_dark_oak=true, tavern_pale=true, tavern_spruce=true, tavern_swamp=true, tavern_cherry=true, tavern_acacia=true, tavern_jungle=true, tavern_snowy=true, tavern_oak=true, tavern_desert=true, tavern_mangrove=true, tavern_birch=true}], nova_structures:small_cave_structures=EDConfig[setStructureInfo={cave_chamber=true, cave_chamber_archeology_ruins=true, cave_chamber_dungeon_colony=true, underground_house=true, cave_chamber_colony=true, cave_hut=true, deepslate_camp=true, trial_dungeon=true}], nova_structures:end_lighthouses=EDConfig[setStructureInfo={end_lighthouse=true}], nova_structures:ruin_town=EDConfig[setStructureInfo={ruin_town=true}], nova_structures:villages_jungle=EDConfig[setStructureInfo={village_jungle=true}], nova_structures:bunker=EDConfig[setStructureInfo={bunker=true}], nova_structures:mangrove_witch_hut=EDConfig[setStructureInfo={mangrove_witch_hut=true}], nova_structures:wild_ruin=EDConfig[setStructureInfo={wild_ruin=true}], nova_structures:nether_encampments=EDConfig[setStructureInfo={nether_skeleton_tower_soul=true, piglin_camp_collony=true, nether_skeleton_tower_crimson=true, nether_skeleton_tower_fort=true, nether_skeleton_tower_warped=true, piglin_camp=true}], nova_structures:conduit_ruin=EDConfig[setStructureInfo={conduit_ruin=true}], nova_structures:creeping_crypt=EDConfig[setStructureInfo={creeping_crypt=true}], nova_structures:end_ship=EDConfig[setStructureInfo={end_ship=true}], nova_structures:wells=EDConfig[setStructureInfo={well_spruce=true, well_jungle=true, well_oak=true, well_dark_oak=true, well_birch=true, well_savana=true}], nova_structures:illager_manor=EDConfig[setStructureInfo={illager_manor=true}], nova_structures:villages_birch=EDConfig[setStructureInfo={village_birch=true}], nova_structures:desert_ruins=EDConfig[setStructureInfo={desert_ruins=true}], nova_structures:firewatch_towers=EDConfig[setStructureInfo={firewatch_tower_forest=true, firewatch_tower_cherry=true, firewatch_tower_swamp=true, firewatch_tower_birch=true, firewatch_tower_jungle=true, firewatch_tower_savanna=true, firewatch_tower_pale=true, firewatch_tower_taiga=true, firewatch_tower_dark_oak=true, firewatch_tower_mangrove=true}], nova_structures:nether_structures=EDConfig[setStructureInfo={nether_port=true, piglin_outstation=true, piglin_donjon=true, hamlet=true, nether_keep=true, sealing_halls=true}], nova_structures:shrines=EDConfig[setStructureInfo={shrine_combat_tier_6=true, shrine_biome_tier_1=true, shrine_biome_tier_2=true, shrine_biome_tier_3=true, shrine_biome_tier_4=true, shrine_combat_tier_1=true, shrine_biome_tier_5=true, shrine_combat_tier_3=true, shrine_combat_tier_2=true, shrine_combat_tier_5=true, shrine_combat_tier_4=true}], nova_structures:illager_hideout=EDConfig[setStructureInfo={illager_hideout=true}], nova_structures:stray_big_structures=EDConfig[setStructureInfo={stray_fort=true, stray_outlook=true, lone_citadel=true}], nova_structures:badlands_miner_outpost_mineshafts=EDConfig[setStructureInfo={minecraft:mineshaft_mesa=true}], nova_structures:swamp_structure=EDConfig[setStructureInfo={toxic_lair=true, witch_villa=true}], nova_structures:pale_residence=EDConfig[setStructureInfo={pale_residence=true}], nova_structures:villages_swamp=EDConfig[setStructureInfo={village_swamp=true}], nova_structures:jungle_ruins=EDConfig[setStructureInfo={jungle_ruins=true}], nova_structures:undead_crypt=EDConfig[setStructureInfo={undead_crypt=true}], nova_structures:trident_trial_monument=EDConfig[setStructureInfo={trident_trial_monument=true}], nova_structures:shrine_tower=EDConfig[setStructureInfo={shrine_tower=true}], nova_structures:remnants=EDConfig[setStructureInfo={remnant_ruin_farmer=true, remnant_medium_remnant=true, remnant_mud_brick_constructor=true, remnant_woodland_hud=true, remnant_big_remnant_3=true, remnant_big_remnant_2=true, remnant_ominous_shop=true, remnant_taiga_castle=true, remnant_bunny_base=true, remnant_zombie_horse_ranch=true, remnant_desert_remnant=true, remnant_sawmill=true, remnant_forest_smith=true, remnant_classic_village=true, remnant_ruin_smith=true, remnant_miner_hut=true, remnant_bridge_remnant=true, remnant_graveyard=true, remnant_medium_remnant_2=true, remnant_bundle_tent=true, remnant_big_remnant=true, remnant_bee_keeper=true, remnant_birch_graveyard=true, remnant_frog_ranch=true, remnant_school_remnant=true}], nova_structures:catacomb=EDConfig[setStructureInfo={catacomb=true}], nova_structures:illager_camp=EDConfig[setStructureInfo={illager_camp=true}], nova_structures:badlands_miner_outpost=EDConfig[setStructureInfo={badlands_miner_outpost=true}]}
+[11:27:34] [main/ERROR]: nova_structures:stray_fort {nova_structures:end_castle=EDConfig[setStructureInfo={end_castle=true}], nova_structures:taverns=EDConfig[setStructureInfo={tavern_dark_oak=true, tavern_pale=true, tavern_spruce=true, tavern_swamp=true, tavern_cherry=true, tavern_acacia=true, tavern_jungle=true, tavern_snowy=true, tavern_oak=true, tavern_desert=true, tavern_mangrove=true, tavern_birch=true}], nova_structures:small_cave_structures=EDConfig[setStructureInfo={cave_chamber=true, cave_chamber_archeology_ruins=true, cave_chamber_dungeon_colony=true, underground_house=true, cave_chamber_colony=true, cave_hut=true, deepslate_camp=true, trial_dungeon=true}], nova_structures:end_lighthouses=EDConfig[setStructureInfo={end_lighthouse=true}], nova_structures:ruin_town=EDConfig[setStructureInfo={ruin_town=true}], nova_structures:villages_jungle=EDConfig[setStructureInfo={village_jungle=true}], nova_structures:bunker=EDConfig[setStructureInfo={bunker=true}], nova_structures:mangrove_witch_hut=EDConfig[setStructureInfo={mangrove_witch_hut=true}], nova_structures:wild_ruin=EDConfig[setStructureInfo={wild_ruin=true}], nova_structures:nether_encampments=EDConfig[setStructureInfo={nether_skeleton_tower_soul=true, piglin_camp_collony=true, nether_skeleton_tower_crimson=true, nether_skeleton_tower_fort=true, nether_skeleton_tower_warped=true, piglin_camp=true}], nova_structures:conduit_ruin=EDConfig[setStructureInfo={conduit_ruin=true}], nova_structures:creeping_crypt=EDConfig[setStructureInfo={creeping_crypt=true}], nova_structures:end_ship=EDConfig[setStructureInfo={end_ship=true}], nova_structures:wells=EDConfig[setStructureInfo={well_spruce=true, well_jungle=true, well_oak=true, well_dark_oak=true, well_birch=true, well_savana=true}], nova_structures:illager_manor=EDConfig[setStructureInfo={illager_manor=true}], nova_structures:villages_birch=EDConfig[setStructureInfo={village_birch=true}], nova_structures:desert_ruins=EDConfig[setStructureInfo={desert_ruins=true}], nova_structures:firewatch_towers=EDConfig[setStructureInfo={firewatch_tower_forest=true, firewatch_tower_cherry=true, firewatch_tower_swamp=true, firewatch_tower_birch=true, firewatch_tower_jungle=true, firewatch_tower_savanna=true, firewatch_tower_pale=true, firewatch_tower_taiga=true, firewatch_tower_dark_oak=true, firewatch_tower_mangrove=true}], nova_structures:nether_structures=EDConfig[setStructureInfo={nether_port=true, piglin_outstation=true, piglin_donjon=true, hamlet=true, nether_keep=true, sealing_halls=true}], nova_structures:shrines=EDConfig[setStructureInfo={shrine_combat_tier_6=true, shrine_biome_tier_1=true, shrine_biome_tier_2=true, shrine_biome_tier_3=true, shrine_biome_tier_4=true, shrine_combat_tier_1=true, shrine_biome_tier_5=true, shrine_combat_tier_3=true, shrine_combat_tier_2=true, shrine_combat_tier_5=true, shrine_combat_tier_4=true}], nova_structures:illager_hideout=EDConfig[setStructureInfo={illager_hideout=true}], nova_structures:stray_big_structures=EDConfig[setStructureInfo={stray_fort=true, stray_outlook=true, lone_citadel=true}], nova_structures:badlands_miner_outpost_mineshafts=EDConfig[setStructureInfo={minecraft:mineshaft_mesa=true}], nova_structures:swamp_structure=EDConfig[setStructureInfo={toxic_lair=true, witch_villa=true}], nova_structures:pale_residence=EDConfig[setStructureInfo={pale_residence=true}], nova_structures:villages_swamp=EDConfig[setStructureInfo={village_swamp=true}], nova_structures:jungle_ruins=EDConfig[setStructureInfo={jungle_ruins=true}], nova_structures:undead_crypt=EDConfig[setStructureInfo={undead_crypt=true}], nova_structures:trident_trial_monument=EDConfig[setStructureInfo={trident_trial_monument=true}], nova_structures:shrine_tower=EDConfig[setStructureInfo={shrine_tower=true}], nova_structures:remnants=EDConfig[setStructureInfo={remnant_ruin_farmer=true, remnant_medium_remnant=true, remnant_mud_brick_constructor=true, remnant_woodland_hud=true, remnant_big_remnant_3=true, remnant_big_remnant_2=true, remnant_ominous_shop=true, remnant_taiga_castle=true, remnant_bunny_base=true, remnant_zombie_horse_ranch=true, remnant_desert_remnant=true, remnant_sawmill=true, remnant_forest_smith=true, remnant_classic_village=true, remnant_ruin_smith=true, remnant_miner_hut=true, remnant_bridge_remnant=true, remnant_graveyard=true, remnant_medium_remnant_2=true, remnant_bundle_tent=true, remnant_big_remnant=true, remnant_bee_keeper=true, remnant_birch_graveyard=true, remnant_frog_ranch=true, remnant_school_remnant=true}], nova_structures:catacomb=EDConfig[setStructureInfo={catacomb=true}], nova_structures:illager_camp=EDConfig[setStructureInfo={illager_camp=true}], nova_structures:badlands_miner_outpost=EDConfig[setStructureInfo={badlands_miner_outpost=true}]}
+[11:27:34] [main/ERROR]: nova_structures:nether_skeleton_towers {nova_structures:end_castle=EDConfig[setStructureInfo={end_castle=true}], nova_structures:taverns=EDConfig[setStructureInfo={tavern_dark_oak=true, tavern_pale=true, tavern_spruce=true, tavern_swamp=true, tavern_cherry=true, tavern_acacia=true, tavern_jungle=true, tavern_snowy=true, tavern_oak=true, tavern_desert=true, tavern_mangrove=true, tavern_birch=true}], nova_structures:small_cave_structures=EDConfig[setStructureInfo={cave_chamber=true, cave_chamber_archeology_ruins=true, cave_chamber_dungeon_colony=true, underground_house=true, cave_chamber_colony=true, cave_hut=true, deepslate_camp=true, trial_dungeon=true}], nova_structures:end_lighthouses=EDConfig[setStructureInfo={end_lighthouse=true}], nova_structures:ruin_town=EDConfig[setStructureInfo={ruin_town=true}], nova_structures:villages_jungle=EDConfig[setStructureInfo={village_jungle=true}], nova_structures:bunker=EDConfig[setStructureInfo={bunker=true}], nova_structures:mangrove_witch_hut=EDConfig[setStructureInfo={mangrove_witch_hut=true}], nova_structures:wild_ruin=EDConfig[setStructureInfo={wild_ruin=true}], nova_structures:nether_encampments=EDConfig[setStructureInfo={nether_skeleton_tower_soul=true, piglin_camp_collony=true, nether_skeleton_tower_crimson=true, nether_skeleton_tower_fort=true, nether_skeleton_tower_warped=true, piglin_camp=true}], nova_structures:conduit_ruin=EDConfig[setStructureInfo={conduit_ruin=true}], nova_structures:creeping_crypt=EDConfig[setStructureInfo={creeping_crypt=true}], nova_structures:end_ship=EDConfig[setStructureInfo={end_ship=true}], nova_structures:wells=EDConfig[setStructureInfo={well_spruce=true, well_jungle=true, well_oak=true, well_dark_oak=true, well_birch=true, well_savana=true}], nova_structures:illager_manor=EDConfig[setStructureInfo={illager_manor=true}], nova_structures:villages_birch=EDConfig[setStructureInfo={village_birch=true}], nova_structures:desert_ruins=EDConfig[setStructureInfo={desert_ruins=true}], nova_structures:firewatch_towers=EDConfig[setStructureInfo={firewatch_tower_forest=true, firewatch_tower_cherry=true, firewatch_tower_swamp=true, firewatch_tower_birch=true, firewatch_tower_jungle=true, firewatch_tower_savanna=true, firewatch_tower_pale=true, firewatch_tower_taiga=true, firewatch_tower_dark_oak=true, firewatch_tower_mangrove=true}], nova_structures:nether_structures=EDConfig[setStructureInfo={nether_port=true, piglin_outstation=true, piglin_donjon=true, hamlet=true, nether_keep=true, sealing_halls=true}], nova_structures:shrines=EDConfig[setStructureInfo={shrine_combat_tier_6=true, shrine_biome_tier_1=true, shrine_biome_tier_2=true, shrine_biome_tier_3=true, shrine_biome_tier_4=true, shrine_combat_tier_1=true, shrine_biome_tier_5=true, shrine_combat_tier_3=true, shrine_combat_tier_2=true, shrine_combat_tier_5=true, shrine_combat_tier_4=true}], nova_structures:illager_hideout=EDConfig[setStructureInfo={illager_hideout=true}], nova_structures:stray_big_structures=EDConfig[setStructureInfo={stray_fort=true, stray_outlook=true, lone_citadel=true}], nova_structures:badlands_miner_outpost_mineshafts=EDConfig[setStructureInfo={minecraft:mineshaft_mesa=true}], nova_structures:swamp_structure=EDConfig[setStructureInfo={toxic_lair=true, witch_villa=true}], nova_structures:pale_residence=EDConfig[setStructureInfo={pale_residence=true}], nova_structures:villages_swamp=EDConfig[setStructureInfo={village_swamp=true}], nova_structures:jungle_ruins=EDConfig[setStructureInfo={jungle_ruins=true}], nova_structures:undead_crypt=EDConfig[setStructureInfo={undead_crypt=true}], nova_structures:trident_trial_monument=EDConfig[setStructureInfo={trident_trial_monument=true}], nova_structures:shrine_tower=EDConfig[setStructureInfo={shrine_tower=true}], nova_structures:remnants=EDConfig[setStructureInfo={remnant_ruin_farmer=true, remnant_medium_remnant=true, remnant_mud_brick_constructor=true, remnant_woodland_hud=true, remnant_big_remnant_3=true, remnant_big_remnant_2=true, remnant_ominous_shop=true, remnant_taiga_castle=true, remnant_bunny_base=true, remnant_zombie_horse_ranch=true, remnant_desert_remnant=true, remnant_sawmill=true, remnant_forest_smith=true, remnant_classic_village=true, remnant_ruin_smith=true, remnant_miner_hut=true, remnant_bridge_remnant=true, remnant_graveyard=true, remnant_medium_remnant_2=true, remnant_bundle_tent=true, remnant_big_remnant=true, remnant_bee_keeper=true, remnant_birch_graveyard=true, remnant_frog_ranch=true, remnant_school_remnant=true}], nova_structures:catacomb=EDConfig[setStructureInfo={catacomb=true}], nova_structures:illager_camp=EDConfig[setStructureInfo={illager_camp=true}], nova_structures:badlands_miner_outpost=EDConfig[setStructureInfo={badlands_miner_outpost=true}]}
+[11:27:34] [main/ERROR]: nova_structures:nether_camps {nova_structures:end_castle=EDConfig[setStructureInfo={end_castle=true}], nova_structures:taverns=EDConfig[setStructureInfo={tavern_dark_oak=true, tavern_pale=true, tavern_spruce=true, tavern_swamp=true, tavern_cherry=true, tavern_acacia=true, tavern_jungle=true, tavern_snowy=true, tavern_oak=true, tavern_desert=true, tavern_mangrove=true, tavern_birch=true}], nova_structures:small_cave_structures=EDConfig[setStructureInfo={cave_chamber=true, cave_chamber_archeology_ruins=true, cave_chamber_dungeon_colony=true, underground_house=true, cave_chamber_colony=true, cave_hut=true, deepslate_camp=true, trial_dungeon=true}], nova_structures:end_lighthouses=EDConfig[setStructureInfo={end_lighthouse=true}], nova_structures:ruin_town=EDConfig[setStructureInfo={ruin_town=true}], nova_structures:villages_jungle=EDConfig[setStructureInfo={village_jungle=true}], nova_structures:bunker=EDConfig[setStructureInfo={bunker=true}], nova_structures:mangrove_witch_hut=EDConfig[setStructureInfo={mangrove_witch_hut=true}], nova_structures:wild_ruin=EDConfig[setStructureInfo={wild_ruin=true}], nova_structures:nether_encampments=EDConfig[setStructureInfo={nether_skeleton_tower_soul=true, piglin_camp_collony=true, nether_skeleton_tower_crimson=true, nether_skeleton_tower_fort=true, nether_skeleton_tower_warped=true, piglin_camp=true}], nova_structures:conduit_ruin=EDConfig[setStructureInfo={conduit_ruin=true}], nova_structures:creeping_crypt=EDConfig[setStructureInfo={creeping_crypt=true}], nova_structures:end_ship=EDConfig[setStructureInfo={end_ship=true}], nova_structures:wells=EDConfig[setStructureInfo={well_spruce=true, well_jungle=true, well_oak=true, well_dark_oak=true, well_birch=true, well_savana=true}], nova_structures:illager_manor=EDConfig[setStructureInfo={illager_manor=true}], nova_structures:villages_birch=EDConfig[setStructureInfo={village_birch=true}], nova_structures:desert_ruins=EDConfig[setStructureInfo={desert_ruins=true}], nova_structures:firewatch_towers=EDConfig[setStructureInfo={firewatch_tower_forest=true, firewatch_tower_cherry=true, firewatch_tower_swamp=true, firewatch_tower_birch=true, firewatch_tower_jungle=true, firewatch_tower_savanna=true, firewatch_tower_pale=true, firewatch_tower_taiga=true, firewatch_tower_dark_oak=true, firewatch_tower_mangrove=true}], nova_structures:nether_structures=EDConfig[setStructureInfo={nether_port=true, piglin_outstation=true, piglin_donjon=true, hamlet=true, nether_keep=true, sealing_halls=true}], nova_structures:shrines=EDConfig[setStructureInfo={shrine_combat_tier_6=true, shrine_biome_tier_1=true, shrine_biome_tier_2=true, shrine_biome_tier_3=true, shrine_biome_tier_4=true, shrine_combat_tier_1=true, shrine_biome_tier_5=true, shrine_combat_tier_3=true, shrine_combat_tier_2=true, shrine_combat_tier_5=true, shrine_combat_tier_4=true}], nova_structures:illager_hideout=EDConfig[setStructureInfo={illager_hideout=true}], nova_structures:stray_big_structures=EDConfig[setStructureInfo={stray_fort=true, stray_outlook=true, lone_citadel=true}], nova_structures:badlands_miner_outpost_mineshafts=EDConfig[setStructureInfo={minecraft:mineshaft_mesa=true}], nova_structures:swamp_structure=EDConfig[setStructureInfo={toxic_lair=true, witch_villa=true}], nova_structures:pale_residence=EDConfig[setStructureInfo={pale_residence=true}], nova_structures:villages_swamp=EDConfig[setStructureInfo={village_swamp=true}], nova_structures:jungle_ruins=EDConfig[setStructureInfo={jungle_ruins=true}], nova_structures:undead_crypt=EDConfig[setStructureInfo={undead_crypt=true}], nova_structures:trident_trial_monument=EDConfig[setStructureInfo={trident_trial_monument=true}], nova_structures:shrine_tower=EDConfig[setStructureInfo={shrine_tower=true}], nova_structures:remnants=EDConfig[setStructureInfo={remnant_ruin_farmer=true, remnant_medium_remnant=true, remnant_mud_brick_constructor=true, remnant_woodland_hud=true, remnant_big_remnant_3=true, remnant_big_remnant_2=true, remnant_ominous_shop=true, remnant_taiga_castle=true, remnant_bunny_base=true, remnant_zombie_horse_ranch=true, remnant_desert_remnant=true, remnant_sawmill=true, remnant_forest_smith=true, remnant_classic_village=true, remnant_ruin_smith=true, remnant_miner_hut=true, remnant_bridge_remnant=true, remnant_graveyard=true, remnant_medium_remnant_2=true, remnant_bundle_tent=true, remnant_big_remnant=true, remnant_bee_keeper=true, remnant_birch_graveyard=true, remnant_frog_ranch=true, remnant_school_remnant=true}], nova_structures:catacomb=EDConfig[setStructureInfo={catacomb=true}], nova_structures:illager_camp=EDConfig[setStructureInfo={illager_camp=true}], nova_structures:badlands_miner_outpost=EDConfig[setStructureInfo={badlands_miner_outpost=true}]}
+[11:27:34] [main/ERROR]: nova_structures:deepslate_camp {nova_structures:end_castle=EDConfig[setStructureInfo={end_castle=true}], nova_structures:taverns=EDConfig[setStructureInfo={tavern_dark_oak=true, tavern_pale=true, tavern_spruce=true, tavern_swamp=true, tavern_cherry=true, tavern_acacia=true, tavern_jungle=true, tavern_snowy=true, tavern_oak=true, tavern_desert=true, tavern_mangrove=true, tavern_birch=true}], nova_structures:small_cave_structures=EDConfig[setStructureInfo={cave_chamber=true, cave_chamber_archeology_ruins=true, cave_chamber_dungeon_colony=true, underground_house=true, cave_chamber_colony=true, cave_hut=true, deepslate_camp=true, trial_dungeon=true}], nova_structures:end_lighthouses=EDConfig[setStructureInfo={end_lighthouse=true}], nova_structures:ruin_town=EDConfig[setStructureInfo={ruin_town=true}], nova_structures:villages_jungle=EDConfig[setStructureInfo={village_jungle=true}], nova_structures:bunker=EDConfig[setStructureInfo={bunker=true}], nova_structures:mangrove_witch_hut=EDConfig[setStructureInfo={mangrove_witch_hut=true}], nova_structures:wild_ruin=EDConfig[setStructureInfo={wild_ruin=true}], nova_structures:nether_encampments=EDConfig[setStructureInfo={nether_skeleton_tower_soul=true, piglin_camp_collony=true, nether_skeleton_tower_crimson=true, nether_skeleton_tower_fort=true, nether_skeleton_tower_warped=true, piglin_camp=true}], nova_structures:conduit_ruin=EDConfig[setStructureInfo={conduit_ruin=true}], nova_structures:creeping_crypt=EDConfig[setStructureInfo={creeping_crypt=true}], nova_structures:end_ship=EDConfig[setStructureInfo={end_ship=true}], nova_structures:wells=EDConfig[setStructureInfo={well_spruce=true, well_jungle=true, well_oak=true, well_dark_oak=true, well_birch=true, well_savana=true}], nova_structures:illager_manor=EDConfig[setStructureInfo={illager_manor=true}], nova_structures:villages_birch=EDConfig[setStructureInfo={village_birch=true}], nova_structures:desert_ruins=EDConfig[setStructureInfo={desert_ruins=true}], nova_structures:firewatch_towers=EDConfig[setStructureInfo={firewatch_tower_forest=true, firewatch_tower_cherry=true, firewatch_tower_swamp=true, firewatch_tower_birch=true, firewatch_tower_jungle=true, firewatch_tower_savanna=true, firewatch_tower_pale=true, firewatch_tower_taiga=true, firewatch_tower_dark_oak=true, firewatch_tower_mangrove=true}], nova_structures:nether_structures=EDConfig[setStructureInfo={nether_port=true, piglin_outstation=true, piglin_donjon=true, hamlet=true, nether_keep=true, sealing_halls=true}], nova_structures:shrines=EDConfig[setStructureInfo={shrine_combat_tier_6=true, shrine_biome_tier_1=true, shrine_biome_tier_2=true, shrine_biome_tier_3=true, shrine_biome_tier_4=true, shrine_combat_tier_1=true, shrine_biome_tier_5=true, shrine_combat_tier_3=true, shrine_combat_tier_2=true, shrine_combat_tier_5=true, shrine_combat_tier_4=true}], nova_structures:illager_hideout=EDConfig[setStructureInfo={illager_hideout=true}], nova_structures:stray_big_structures=EDConfig[setStructureInfo={stray_fort=true, stray_outlook=true, lone_citadel=true}], nova_structures:badlands_miner_outpost_mineshafts=EDConfig[setStructureInfo={minecraft:mineshaft_mesa=true}], nova_structures:swamp_structure=EDConfig[setStructureInfo={toxic_lair=true, witch_villa=true}], nova_structures:pale_residence=EDConfig[setStructureInfo={pale_residence=true}], nova_structures:villages_swamp=EDConfig[setStructureInfo={village_swamp=true}], nova_structures:jungle_ruins=EDConfig[setStructureInfo={jungle_ruins=true}], nova_structures:undead_crypt=EDConfig[setStructureInfo={undead_crypt=true}], nova_structures:trident_trial_monument=EDConfig[setStructureInfo={trident_trial_monument=true}], nova_structures:shrine_tower=EDConfig[setStructureInfo={shrine_tower=true}], nova_structures:remnants=EDConfig[setStructureInfo={remnant_ruin_farmer=true, remnant_medium_remnant=true, remnant_mud_brick_constructor=true, remnant_woodland_hud=true, remnant_big_remnant_3=true, remnant_big_remnant_2=true, remnant_ominous_shop=true, remnant_taiga_castle=true, remnant_bunny_base=true, remnant_zombie_horse_ranch=true, remnant_desert_remnant=true, remnant_sawmill=true, remnant_forest_smith=true, remnant_classic_village=true, remnant_ruin_smith=true, remnant_miner_hut=true, remnant_bridge_remnant=true, remnant_graveyard=true, remnant_medium_remnant_2=true, remnant_bundle_tent=true, remnant_big_remnant=true, remnant_bee_keeper=true, remnant_birch_graveyard=true, remnant_frog_ranch=true, remnant_school_remnant=true}], nova_structures:catacomb=EDConfig[setStructureInfo={catacomb=true}], nova_structures:illager_camp=EDConfig[setStructureInfo={illager_camp=true}], nova_structures:badlands_miner_outpost=EDConfig[setStructureInfo={badlands_miner_outpost=true}]}
+[11:27:34] [main/ERROR]: minecraft:woodland_mansions {nova_structures:end_castle=EDConfig[setStructureInfo={end_castle=true}], nova_structures:taverns=EDConfig[setStructureInfo={tavern_dark_oak=true, tavern_pale=true, tavern_spruce=true, tavern_swamp=true, tavern_cherry=true, tavern_acacia=true, tavern_jungle=true, tavern_snowy=true, tavern_oak=true, tavern_desert=true, tavern_mangrove=true, tavern_birch=true}], nova_structures:small_cave_structures=EDConfig[setStructureInfo={cave_chamber=true, cave_chamber_archeology_ruins=true, cave_chamber_dungeon_colony=true, underground_house=true, cave_chamber_colony=true, cave_hut=true, deepslate_camp=true, trial_dungeon=true}], nova_structures:end_lighthouses=EDConfig[setStructureInfo={end_lighthouse=true}], nova_structures:ruin_town=EDConfig[setStructureInfo={ruin_town=true}], nova_structures:villages_jungle=EDConfig[setStructureInfo={village_jungle=true}], nova_structures:bunker=EDConfig[setStructureInfo={bunker=true}], nova_structures:mangrove_witch_hut=EDConfig[setStructureInfo={mangrove_witch_hut=true}], nova_structures:wild_ruin=EDConfig[setStructureInfo={wild_ruin=true}], nova_structures:nether_encampments=EDConfig[setStructureInfo={nether_skeleton_tower_soul=true, piglin_camp_collony=true, nether_skeleton_tower_crimson=true, nether_skeleton_tower_fort=true, nether_skeleton_tower_warped=true, piglin_camp=true}], nova_structures:conduit_ruin=EDConfig[setStructureInfo={conduit_ruin=true}], nova_structures:creeping_crypt=EDConfig[setStructureInfo={creeping_crypt=true}], nova_structures:end_ship=EDConfig[setStructureInfo={end_ship=true}], nova_structures:wells=EDConfig[setStructureInfo={well_spruce=true, well_jungle=true, well_oak=true, well_dark_oak=true, well_birch=true, well_savana=true}], nova_structures:illager_manor=EDConfig[setStructureInfo={illager_manor=true}], nova_structures:villages_birch=EDConfig[setStructureInfo={village_birch=true}], nova_structures:desert_ruins=EDConfig[setStructureInfo={desert_ruins=true}], nova_structures:firewatch_towers=EDConfig[setStructureInfo={firewatch_tower_forest=true, firewatch_tower_cherry=true, firewatch_tower_swamp=true, firewatch_tower_birch=true, firewatch_tower_jungle=true, firewatch_tower_savanna=true, firewatch_tower_pale=true, firewatch_tower_taiga=true, firewatch_tower_dark_oak=true, firewatch_tower_mangrove=true}], nova_structures:nether_structures=EDConfig[setStructureInfo={nether_port=true, piglin_outstation=true, piglin_donjon=true, hamlet=true, nether_keep=true, sealing_halls=true}], nova_structures:shrines=EDConfig[setStructureInfo={shrine_combat_tier_6=true, shrine_biome_tier_1=true, shrine_biome_tier_2=true, shrine_biome_tier_3=true, shrine_biome_tier_4=true, shrine_combat_tier_1=true, shrine_biome_tier_5=true, shrine_combat_tier_3=true, shrine_combat_tier_2=true, shrine_combat_tier_5=true, shrine_combat_tier_4=true}], nova_structures:illager_hideout=EDConfig[setStructureInfo={illager_hideout=true}], nova_structures:stray_big_structures=EDConfig[setStructureInfo={stray_fort=true, stray_outlook=true, lone_citadel=true}], nova_structures:badlands_miner_outpost_mineshafts=EDConfig[setStructureInfo={minecraft:mineshaft_mesa=true}], nova_structures:swamp_structure=EDConfig[setStructureInfo={toxic_lair=true, witch_villa=true}], nova_structures:pale_residence=EDConfig[setStructureInfo={pale_residence=true}], nova_structures:villages_swamp=EDConfig[setStructureInfo={village_swamp=true}], nova_structures:jungle_ruins=EDConfig[setStructureInfo={jungle_ruins=true}], nova_structures:undead_crypt=EDConfig[setStructureInfo={undead_crypt=true}], nova_structures:trident_trial_monument=EDConfig[setStructureInfo={trident_trial_monument=true}], nova_structures:shrine_tower=EDConfig[setStructureInfo={shrine_tower=true}], nova_structures:remnants=EDConfig[setStructureInfo={remnant_ruin_farmer=true, remnant_medium_remnant=true, remnant_mud_brick_constructor=true, remnant_woodland_hud=true, remnant_big_remnant_3=true, remnant_big_remnant_2=true, remnant_ominous_shop=true, remnant_taiga_castle=true, remnant_bunny_base=true, remnant_zombie_horse_ranch=true, remnant_desert_remnant=true, remnant_sawmill=true, remnant_forest_smith=true, remnant_classic_village=true, remnant_ruin_smith=true, remnant_miner_hut=true, remnant_bridge_remnant=true, remnant_graveyard=true, remnant_medium_remnant_2=true, remnant_bundle_tent=true, remnant_big_remnant=true, remnant_bee_keeper=true, remnant_birch_graveyard=true, remnant_frog_ranch=true, remnant_school_remnant=true}], nova_structures:catacomb=EDConfig[setStructureInfo={catacomb=true}], nova_structures:illager_camp=EDConfig[setStructureInfo={illager_camp=true}], nova_structures:badlands_miner_outpost=EDConfig[setStructureInfo={badlands_miner_outpost=true}]}
+[11:27:34] [main/INFO]: Loading Collective version 8.13.
+[11:27:34] [main/INFO]: Initializing network...
+[11:27:34] [main/INFO]: Initialized network!
+[11:27:35] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[11:27:35] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[11:27:35] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[11:27:35] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[11:27:35] [main/ERROR]: No data fixer registered for deeperdarker:shattered
+[11:27:35] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[11:27:35] [main/ERROR]: No data fixer registered for deeperdarker:sludge
+[11:27:35] [main/ERROR]: No data fixer registered for deeperdarker:stalker
+[11:27:35] [main/ERROR]: No data fixer registered for crystallized_amber
+[11:27:35] [main/ERROR]: No data fixer registered for sculk_jaw
+[11:27:36] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[11:27:36] [main/INFO]: Constructing common components for enchantinginfuser:main
+[11:27:36] [main/INFO]: EquipLib was successfully loaded
+[11:27:37] [main/INFO]: Initializing ServerSide Packet Registries
+[11:27:38] [main/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[11:27:38] [main/INFO]: blod: he her
+[11:27:38] [main/INFO]: Constructing common components for puzzleslib:main
+[11:27:39] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[11:27:39] [main/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
+[11:27:39] [main/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
+[11:27:39] [main/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
+[11:27:39] [main/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
+[11:27:39] [main/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
+[11:27:39] [main/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
+[11:27:39] [main/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
+[11:27:39] [main/INFO]: New compacting rule 9 minecraft:bamboo = 1 minecraft:bamboo_block
+[11:27:39] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[11:27:39] [main/INFO]: New denied storage item storagedrawers:creative_vending_upgrade
+[11:27:39] [main/INFO]: Adding ore conversions for types: c:storage_blocks, c:ingots, c:nuggets
+[11:27:39] [main/INFO]: Adding ore conversions for materials: aluminum, constantan, steel, uranium, invar, tin, lead, silver, platinum, nickel, osmium, bronze, electrum
+[11:27:39] [main/INFO]: [voicechat] Compatibility version 20
+[11:27:39] [main/INFO]: [voicechat] Loading plugins
+[11:27:39] [main/INFO]: [voicechat] Loaded 2 plugin(s)
+[11:27:39] [main/INFO]: [voicechat] Initializing plugins
+[11:27:39] [main/INFO]: Initializing Simple Voice Chat integration
+[11:27:39] [main/INFO]: [voicechat] Initialized 2 plugin(s)
+[11:27:39] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[11:27:39] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
+[11:27:39] [main/INFO]: Adding Warden Tools Game Events
+[11:27:39] [main/INFO]: Registering Effects for Warden Tools...
+[11:27:39] [main/INFO]: adding armor sets...
+[11:27:39] [main/INFO]: Registering items for Warden Tools...
+[11:27:39] [main/INFO]: Registering blocks for Warden Tools
+[11:27:39] [main/INFO]: Registering armor materials for Warden Tools...
+[11:27:39] [main/INFO]: Registering particles for Warden Tools...
+[11:27:39] [main/INFO]: Adding Warden Tools potions to the game...
+[11:27:39] [main/INFO]: Registering warden data components...
+[11:27:39] [main/INFO]: Registering warden enchantment effect components...
+[11:27:39] [main/ERROR]: No data fixer registered for sculk_arrow
+[11:27:39] [main/INFO]: Registering Warden Tools Entities...
+[11:27:39] [main/INFO]: Registering Warden Tools triggers...
+[11:27:39] [main/INFO]: Adding creative tab for Warden Tools
+[11:27:39] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[11:27:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:27:40] [main/INFO]: Found non-pack entry './world/datapacks/client_sound_pack_data.json', ignoring
+[11:27:43] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:predicate/veinminer_enchantment:smelting - Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "smelting_enchantment:smelting"; Second: Failed to get element smelting_enchantment:smelting missed input: {"minecraft:enchantments":[{"enchantments":"smelting_enchantment:smelting"}]}
+[11:27:44] [Worker-Main-1/ERROR]: Couldn't read tag list c:rods/wooden from c:tags/item/rods/wooden.json in data pack magistuarmory
+java.lang.IllegalStateException: Not a boolean: "false"
+	at knot/com.mojang.serialization.DataResult$Error.mda7f53b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_3503.method_33174(class_3503.java:53) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3503.method_33176(class_3503.java:128) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3505.method_33181(class_3505.java:46) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[11:27:45] [main/ERROR]: Parsing error loading recipe magistuarmory:steel_ingot_blasting
+com.google.gson.JsonParseException: Not a JSON object: "magistuarmory:steel_ingot"
+	at knot/com.mojang.serialization.DataResult$Error.mda7f53b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [server-launch.jar:1.0.1]
+[11:27:45] [main/ERROR]: Parsing error loading recipe magistuarmory:barbedclub
+com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:barbedclub","count":1}]
+	at knot/com.mojang.serialization.DataResult$Error.mda7f53b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [server-launch.jar:1.0.1]
+[11:27:45] [main/ERROR]: Parsing error loading recipe magistuarmory:pitchfork
+com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:pitchfork","count":1}]
+	at knot/com.mojang.serialization.DataResult$Error.mda7f53b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [server-launch.jar:1.0.1]
+[11:27:45] [main/ERROR]: Parsing error loading recipe magistuarmory:blacksmith_hammer
+com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:blacksmith_hammer","count":1}]
+	at knot/com.mojang.serialization.DataResult$Error.mda7f53b$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [server-launch.jar:1.0.1]
+[11:27:45] [main/INFO]: Loaded 2930 recipes
+[11:27:45] [main/ERROR]: Failed to load function veinminer_enchantment:veinminer/smelting/custom_mine
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Failed to parse structure: Failed to get element ResourceKey[minecraft:predicate / veinminer_enchantment:smelting] at position 51: ...t:smelting<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Failed to parse structure: Failed to get element ResourceKey[minecraft:predicate / veinminer_enchantment:smelting] at position 51: ...t:smelting<--[HERE]
+	at knot/net.minecraft.class_2158.method_9195(class_2158.java:80) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5349.method_29451(class_5349.java:89) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[11:27:45] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
+[11:27:45] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
+[11:27:46] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
+[11:27:46] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
+[11:27:46] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
+[11:27:46] [main/ERROR]: Couldn't load advancements: [dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut, minecraft:give_quest_trader_trade]
+[11:27:46] [main/INFO]: Loaded 1905 advancements
+[11:27:48] [main/INFO]: Applied 71 biome modifications to 63 of 181 new biomes in 20.20 ms
+[11:27:48] [main/INFO]: Invocation not needed
+[11:27:48] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
+[11:27:49] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 12641 bytes (in 2 string chunks with the size of 10000)
+[11:27:49] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[11:27:49] [Server thread/INFO]: Loading properties
+[11:27:49] [Server thread/INFO]: Default game type: SURVIVAL
+[11:27:49] [Server thread/INFO]: Generating keypair
+[11:27:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:27:50] [Server thread/INFO]: Using epoll channel type
+[11:27:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:27:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:27:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:27:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:27:50] [Server thread/INFO]: Preparing level "world"
+[11:28:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:28:20] [Server thread/INFO]: Time elapsed: 5619 ms
+[11:28:20] [Server thread/INFO]: Done (29.716s)! For help, type "help"
+[11:28:20] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[11:28:20] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@725d8187 for service interface journeymap.api.services.ClientPlatformService
+[11:28:20] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@766fba7 for service interface journeymap.api.services.CommonPlatformService
+[11:28:20] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[11:28:20] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[11:28:33] [Server thread/INFO]: Leg15[/213.187.101.151:61329] logged in with entity id 20 at (330.0177099954942, 67.0, -352.29955919736574)
+[11:28:33] [Server thread/INFO]: Sending sound pack to client
+[11:28:33] [Server thread/INFO]: Leg15 joined the game
+[11:28:34] [Server thread/INFO]: [voicechat] Received secret request of Leg15 (20)
+[11:28:34] [Server thread/INFO]: [voicechat] Sent secret to Leg15
+[11:28:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6b860760-8ea0-3174-8836-9814883d55e7
+[11:28:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6b860760-8ea0-3174-8836-9814883d55e7
+[11:28:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Leg15 (6b860760-8ea0-3174-8836-9814883d55e7) successfully connected to voice chat
+[11:28:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Initializing Opus
+[11:28:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully initialized Opus
+[11:28:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[11:29:36] [Server thread/INFO]: Leg15 has made the advancement [Sweet Dreams]
+[11:35:11] [Server thread/INFO]: Leg15 has made the advancement [Stone Age]
+[11:35:27] [Server thread/INFO]: Leg15 has made the advancement [Getting an Upgrade]
+[11:35:36] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
+[11:37:22] [Server thread/INFO]: [Leg15: Set own game mode to Creative Mode]
+[11:37:49] [Server thread/WARN]: Leg15 moved too quickly! -0.509738732273533,0.0,10.873329259144896
+[11:37:56] [Server thread/WARN]: Leg15 moved too quickly! 1.6372470785868103,0.0,10.23238288539227
+[11:38:09] [Server thread/WARN]: Leg15 moved too quickly! 1.2251032058031868,0.0,10.309062527200979
+[11:38:16] [Server thread/WARN]: Leg15 moved too quickly! 4.889740145222088,0.0,8.777476999244186
+[11:38:21] [Server thread/WARN]: Leg15 moved too quickly! -5.925531721659038,0.0,8.119292491727279
+[11:38:28] [Server thread/WARN]: Leg15 moved too quickly! -0.01277769870263512,0.0,10.301540000199864
+[11:38:40] [Server thread/WARN]: Leg15 moved too quickly! -2.926683422559819,0.0,9.576874607168701
+[11:38:48] [Server thread/WARN]: Leg15 moved too quickly! -1.9825088244018971,0.0,10.196681999349813
+[11:39:03] [Server thread/WARN]: Leg15 moved too quickly! -4.881955317820747,0.0,-8.857194795138163
+[11:40:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:40:27] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:40:27] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:40:27] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:40:40] [Server thread/WARN]: Leg15 moved too quickly! 2.17700467928006,6.7500002682207025,7.390005889669993
+[11:40:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
+[11:40:46] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:40:46] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:40:46] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:40:46] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:40:54] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:40:54] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:01] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:01] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:01] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:01] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:01] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:01] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:01] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:09] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:09] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:09] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:41:14] [Server thread/INFO]: [Leg15: Applied effect Night Vision to Leg15]
+[11:41:30] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=-19, y=-53, z=1724}
+[11:42:16] [Server thread/INFO]: Villager class_1646['Villager'/7219, l='ServerLevel[world]', x=-561.42, y=106.00, z=418.51] died, message: 'Villager was slain by Zombie'
+[11:43:16] [Server thread/INFO]: Villager class_1646['Villager'/7274, l='ServerLevel[world]', x=-637.25, y=106.00, z=435.54] died, message: 'Villager was slain by Zombie'
+[11:43:39] [Server thread/INFO]: [Leg15: Applied effect Night Vision to Leg15]
+[11:43:43] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:43:58] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:43:58] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:44:46] [Server thread/WARN]: Leg15 moved too quickly! 1.799537637403887,-9.845617702156403,-0.9959284257772651
+[11:44:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[11:44:54] [Server thread/INFO]: [Leg15: Set own game mode to Survival Mode]
+[11:45:13] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=202, y=47, z=211}
+[11:45:21] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:45:21] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:45:47] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:45:47] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:20] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:20] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:20] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:20] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:20] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:23] [Server thread/INFO]: Leg15 has made the advancement [Suit Up]
+[11:46:41] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:46:41] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:47:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:47:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[11:51:39] [Server thread/INFO]: Leg15 was slain by Slime
+[11:52:18] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[11:52:18] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 48 packets
+[12:02:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:02:50] [Server thread/INFO]: <--[HERE]
+[12:08:33] [Server thread/INFO]: Leg15 has made the advancement [Monster Hunter]
+[12:08:33] [Server thread/INFO]: Leg15 was blown up by Creeper
+[12:08:49] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[12:08:49] [VoiceChatPacketProcessingThread/WARN]: [voicechat] Packet queue has 41 packets
+[12:10:22] [Server thread/INFO]: Ouiper[/78.41.181.69:37008] logged in with entity id 17679 at (148.1730545844652, 65.0, -38.76610315495389)
+[12:10:22] [Server thread/INFO]: Sending sound pack to client
+[12:10:22] [Server thread/INFO]: Ouiper joined the game
+[12:10:22] [Server thread/INFO]: [voicechat] Received secret request of Ouiper (20)
+[12:10:22] [Server thread/INFO]: [voicechat] Sent secret to Ouiper
+[12:10:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player ed142b76-0664-3cd5-92cb-911263a6bca8
+[12:10:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player ed142b76-0664-3cd5-92cb-911263a6bca8
+[12:10:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Ouiper (ed142b76-0664-3cd5-92cb-911263a6bca8) successfully connected to voice chat
+[12:10:35] [Server thread/INFO]: [Not Secure] <Ouiper> Ну вот типа
+[12:10:43] [Server thread/INFO]: [Not Secure] <Leg15> ыыыыы
+[12:11:02] [Server thread/INFO]: [Not Secure] <Ouiper> Ну и что вот тут вот эта тут
+[12:11:14] [Server thread/INFO]: [Not Secure] <Leg15> уюбить драеона
+[12:11:32] [Server thread/INFO]: [Not Secure] <Ouiper> Это слишком просто
+[12:11:39] [Server thread/INFO]: [Not Secure] <Leg15> неееь
+[12:11:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[12:11:51] [Server thread/INFO]: [Not Secure] <Ouiper> Просто позови еще 20 человек
+[12:12:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3758ms or 75 ticks behind
+[12:12:19] [Server thread/INFO]: [Not Secure] <Leg15> Дракон на стероидах
+[12:12:20] [Server thread/INFO]: Ouiper has made the advancement [Stone Age]
+[12:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12:12:40] [Server thread/INFO]: Ouiper has made the advancement [Getting an Upgrade]
+[12:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2796ms or 55 ticks behind
+[12:12:50] [Server thread/INFO]: [Not Secure] <Ouiper> Почему тут нет рюкзака?
+[12:12:58] [Server thread/INFO]: [Not Secure] <Ouiper> как я должен достать шалкер
+[12:13:05] [Server thread/INFO]: [Not Secure] <Ouiper> на 1 минуте
+[12:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[12:13:15] [Server thread/INFO]: [Not Secure] <Leg15> Должен быть рюкзак
+[12:13:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3607ms or 72 ticks behind
+[12:13:27] [Server thread/INFO]: [Not Secure] <Leg15> Д\Найди кожу рецепт откроется
+[12:13:30] [Server thread/INFO]: [Not Secure] <Leg15> наверно
+[12:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4652ms or 93 ticks behind
+[12:14:11] [Server thread/INFO]: [Not Secure] <Ouiper> у тебя уже 100% 200 алмазов, просто отдай их мне\
+[12:14:34] [Server thread/INFO]: [Not Secure] <Ouiper> это выгодное предложение
+[12:14:54] [Server thread/INFO]: [Not Secure] <Leg15> У меня нет ничего
+[12:15:00] [Server thread/INFO]: [Not Secure] <Leg15> 6 железа
+[12:15:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[12:15:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3073ms or 61 ticks behind
+[12:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[12:16:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:16:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:16:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:16:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:16:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:16:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:16:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:16:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:16:01] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[12:16:37] [Server thread/INFO]: [Not Secure] <Ouiper> ок
+[12:16:43] [Server thread/INFO]: [Not Secure] <Ouiper> готов купить 5 железа\
+[12:16:49] [Server thread/INFO]: [Not Secure] <Ouiper> за 2 цветочка
+[12:16:56] [Server thread/INFO]: [Not Secure] <Ouiper> и 4 куста роз
+[12:17:03] [Server thread/INFO]: [Not Secure] <Leg15> Выгодно конечно
+[12:17:18] [Server thread/INFO]: [Not Secure] <Leg15> Но я не факт что без смерти из шахты выйду
+[12:17:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[12:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[12:18:22] [Server thread/INFO]: [Not Secure] <Leg15> И мне надо будет уйти др вечера
+[12:18:27] [Server thread/INFO]: [Not Secure] <Leg15> Родители забирают
+[12:18:48] [Server thread/INFO]: Leg15 fell from a high place
+[12:18:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
+[12:18:56] [Server thread/INFO]: [Not Secure] <Ouiper> хм
+[12:19:25] [Server thread/WARN]: Leg15 moved too quickly! -0.8512808593935688,-10.357681303126384,0.06081735187785853
+[12:19:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[12:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[12:20:01] [Server thread/INFO]: Leg15 lost connection: Disconnected
+[12:20:01] [Server thread/INFO]: Leg15 left the game
+[12:20:01] [Server thread/INFO]: [voicechat] Disconnecting client Leg15
+[12:20:07] [Server thread/INFO]: Ouiper has made the advancement [Sweet Dreams]
+[12:32:19] [Server thread/INFO]: Ouiper lost connection: Disconnected
+[12:32:19] [Server thread/INFO]: Ouiper left the game
+[12:32:19] [Server thread/INFO]: [voicechat] Disconnecting client Ouiper
+[12:32:37] [Server thread/INFO]: Ouiper[/78.41.181.69:37316] logged in with entity id 27214 at (157.30000001192093, 4.0, 79.27592204593851)
+[12:32:37] [Server thread/INFO]: Sending sound pack to client
+[12:32:37] [Server thread/INFO]: Ouiper joined the game
+[12:32:37] [Server thread/INFO]: [voicechat] Received secret request of Ouiper (20)
+[12:32:37] [Server thread/INFO]: [voicechat] Sent secret to Ouiper
+[12:32:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player ed142b76-0664-3cd5-92cb-911263a6bca8
+[12:32:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player ed142b76-0664-3cd5-92cb-911263a6bca8
+[12:32:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Ouiper (ed142b76-0664-3cd5-92cb-911263a6bca8) successfully connected to voice chat
+[12:46:17] [Server thread/INFO]: Ouiper has made the advancement [Acquire Hardware]
+[12:46:28] [Server thread/INFO]: Ouiper has made the advancement [Suit Up]
+[12:47:06] [Server thread/INFO]: Ouiper has made the advancement [Isn't It Iron Pick]
+[13:17:32] [Server thread/INFO]: Ouiper has made the advancement [Not Today, Thank You]
+[13:32:16] [Server thread/INFO]: Ouiper has made the advancement [Diamonds!]
+[13:59:02] [Server thread/INFO]: Ouiper lost connection: Disconnected
+[13:59:02] [Server thread/INFO]: Ouiper left the game
+[13:59:02] [Server thread/INFO]: [voicechat] Disconnecting client Ouiper
+[16:35:56] [Server thread/INFO]: Leg15[/213.187.101.151:57127] logged in with entity id 53995 at (-486.98805182497307, 60.0, 468.5648232032359)
+[16:35:56] [Server thread/INFO]: Sending sound pack to client
+[16:35:56] [Server thread/INFO]: Leg15 joined the game
+[16:35:57] [Server thread/INFO]: [voicechat] Received secret request of Leg15 (20)
+[16:35:57] [Server thread/INFO]: [voicechat] Sent secret to Leg15
+[16:35:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 6b860760-8ea0-3174-8836-9814883d55e7
+[16:35:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 6b860760-8ea0-3174-8836-9814883d55e7
+[16:35:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Leg15 (6b860760-8ea0-3174-8836-9814883d55e7) successfully connected to voice chat
+[16:38:17] [Server thread/INFO]: Leg15 has made the advancement [Acquire Hardware]
+[16:50:13] [Server thread/INFO]: Leg15 has made the advancement [Isn't It Iron Pick]

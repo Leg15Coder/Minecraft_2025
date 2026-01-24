@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.clark"
+	},
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.clark"
+	},
+	"length_in_seconds": 201.58537,
+	"comparator_output": 15
+}

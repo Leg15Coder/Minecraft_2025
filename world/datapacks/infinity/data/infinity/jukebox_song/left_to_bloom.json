@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.left_to_bloom"
+	},
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.left_to_bloom"
+	},
+	"length_in_seconds": 342.96,
+	"comparator_output": 15
+}

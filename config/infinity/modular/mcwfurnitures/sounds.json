@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:cabinet_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:cabinet_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:drawer_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "mcwfurnitures:drawer_open"
+		}
+	]
+}

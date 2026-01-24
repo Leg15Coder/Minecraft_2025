@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "veinminer_enchantment:veinminer",
+			"data": {
+				"Type": "generic"
+			}
+		}
+	]
+}

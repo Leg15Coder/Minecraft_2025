@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.stand_tall"
+	},
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.stand_tall"
+	},
+	"length_in_seconds": 308.4,
+	"comparator_output": 15
+}

@@ -1,0 +1,629 @@
+{
+	"features": [
+		[
+		],
+		[
+		],
+		[
+		],
+		[
+		],
+		[
+		],
+		[
+		],
+		[
+			"minecraft:ore_coal_upper",
+			"minecraft:ore_coal_lower",
+			"minecraft:ore_iron_upper",
+			"minecraft:ore_iron_middle",
+			"minecraft:ore_iron_small",
+			"minecraft:ore_gold",
+			"minecraft:ore_gold_lower",
+			"minecraft:ore_diamond",
+			"minecraft:ore_diamond_large",
+			"minecraft:ore_diamond_buried"
+		],
+		[
+		],
+		[
+			"minecraft:spring_water",
+			"minecraft:spring_lava"
+		],
+		[
+			"minecraft:patch_tall_grass",
+			"minecraft:patch_grass_savanna"
+		],
+		[
+		]
+	],
+	"effects": {
+		"sky_color": 12171705,
+		"grass_color": 7832178,
+		"water_fog_color": 5597568,
+		"foliage_color": 8883574,
+		"fog_color": 8484720,
+		"water_color": 7768221
+	},
+	"has_precipitation": true,
+	"carvers": {
+	},
+	"temperature": 0.8,
+	"downfall": 0.4,
+	"spawn_costs": {
+	},
+	"spawners": {
+		"water_creature": [
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "deeperdarker:angler_fish",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:dolphin",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:squid",
+				"maxCount": 1
+			}
+		],
+		"underground_water_creature": [
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:glow_squid",
+				"maxCount": 1
+			}
+		],
+		"ambient": [
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:bat",
+				"maxCount": 1
+			}
+		],
+		"axolotls": [
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:axolotl",
+				"maxCount": 1
+			}
+		],
+		"creature": [
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:allay",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:armadillo",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:bee",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:camel",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:cat",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:chicken",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:cow",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:donkey",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:fox",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:frog",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:goat",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:horse",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:llama",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:mooshroom",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:mule",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:ocelot",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:panda",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:parrot",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:pig",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:polar_bear",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:rabbit",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:sheep",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:skeleton_horse",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:sniffer",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:strider",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:tadpole",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:trader_llama",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:turtle",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:wandering_trader",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:wolf",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:zombie_horse",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "infinity:ant",
+				"maxCount": 1
+			}
+		],
+		"water_ambient": [
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:cod",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:pufferfish",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:salmon",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:tropical_fish",
+				"maxCount": 1
+			}
+		],
+		"monster": [
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "deeperdarker:sculk_centipede",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "deeperdarker:sculk_leech",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "deeperdarker:sculk_snapper",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "deeperdarker:shattered",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "deeperdarker:shriek_worm",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "deeperdarker:sludge",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "deeperdarker:stalker",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:blaze",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:bogged",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:breeze",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:cave_spider",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:creeper",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:drowned",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:elder_guardian",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:ender_dragon",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:enderman",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:endermite",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:evoker",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:ghast",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:giant",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:guardian",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:hoglin",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:husk",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:illusioner",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:magma_cube",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:phantom",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:piglin",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:piglin_brute",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:pillager",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:ravager",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:shulker",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:silverfish",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:skeleton",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:slime",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:spider",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:stray",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:vex",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:vindicator",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:warden",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:witch",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:wither",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:wither_skeleton",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:zoglin",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:zombie",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:zombie_villager",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "minecraft:zombified_piglin",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "infinity:bishop",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "infinity:chaos_creeper",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "infinity:chaos_pawn",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "infinity:chaos_skeleton",
+				"maxCount": 1
+			},
+			{
+				"weight": 1,
+				"minCount": 1,
+				"type": "infinity:chaos_slime",
+				"maxCount": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "coolrain:fabric_rain_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "coolrain:foliage_rain_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "coolrain:glass_rain_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "coolrain:metal_rain_blocks"
+		}
+	]
+}

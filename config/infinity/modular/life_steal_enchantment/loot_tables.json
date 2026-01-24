@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "life_steal_enchantment:1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "life_steal_enchantment:2",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "life_steal_enchantment:3",
+			"data": {
+				"Type": "generic"
+			}
+		}
+	]
+}

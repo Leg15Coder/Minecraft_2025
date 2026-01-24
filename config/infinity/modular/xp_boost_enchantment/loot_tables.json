@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "xp_boost_enchantment:xp_boost/1",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "xp_boost_enchantment:xp_boost/2",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "xp_boost_enchantment:xp_boost/3",
+			"data": {
+				"Type": "generic"
+			}
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.oxygene"
+	},
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.oxygene"
+	},
+	"length_in_seconds": 69.818184,
+	"comparator_output": 15
+}

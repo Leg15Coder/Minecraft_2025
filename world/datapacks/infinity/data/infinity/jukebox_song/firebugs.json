@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.firebugs"
+	},
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.firebugs"
+	},
+	"length_in_seconds": 312.72,
+	"comparator_output": 15
+}

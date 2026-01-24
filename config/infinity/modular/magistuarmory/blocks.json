@@ -1,0 +1,124 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:bronze_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:copper_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:diamond_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:gold_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:iron_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:netherite_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:pavise_upper_collision",
+			"data": {
+				"float": true,
+				"laggy": false,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:silver_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:steel_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:stone_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:tin_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "magistuarmory:wood_pavise",
+			"data": {
+				"float": true,
+				"laggy": true,
+				"top": true,
+				"full": false
+			}
+		}
+	]
+}

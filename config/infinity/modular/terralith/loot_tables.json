@@ -1,0 +1,375 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terralith:desert_outpost",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:igloo",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:lodge_drinkables",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:mage/barracks",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:mage/extras",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:mage/small_common_flowers",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:mage/treasure",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:royal_jelly",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:ruin/glacial/junk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:ruin/glacial/main_cs",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:spire/common",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:spire/junk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:spire/rare",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:spire/treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:underground/chest",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:underground/giant_bee_hive",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/archer",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/attic",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/butcher",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/cartographer",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/fisherman",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/food",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/generic",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/generic_low",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/junk",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/library",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/mason",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/shepherd",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/smith",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/smith/expert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/smith/novice",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/desert/treasure",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/archer",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/attic",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/butcher",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/cartographer",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/fisherman",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/food",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/generic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/generic_low",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/junk",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/library",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/mason",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/smith",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/smith/expert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/smith/novice",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/tavern_downstairs",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/tavern_upstairs",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/fortified/treasure",
+			"data": {
+				"Type": "generic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/treasure/diamond",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/treasure/emerald",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:village/treasure/golem",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "terralith:witch_hut",
+			"data": {
+				"Type": "generic"
+			}
+		}
+	]
+}

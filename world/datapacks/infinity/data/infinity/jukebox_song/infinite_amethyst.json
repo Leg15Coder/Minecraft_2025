@@ -1,0 +1,10 @@
+{
+	"sound_event": {
+		"sound_id": "infinity:disc.minecraft.infinite_amethyst"
+	},
+	"description": {
+		"translate": "infinity:subtitles.disc.minecraft.infinite_amethyst"
+	},
+	"length_in_seconds": 271.78665,
+	"comparator_output": 15
+}
