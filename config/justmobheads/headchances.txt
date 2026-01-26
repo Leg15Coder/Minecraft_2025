@@ -186,3 +186,6 @@
 "zombie_villager" : 0.1,
 "zombie_weaponsmith" : 0.1,
 "zombified_piglin" : 0.1,
+"chicken" : 0.05,
+"cow" : 0.05,
+"pig" : 0.05,
